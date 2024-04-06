@@ -1,0 +1,42 @@
+HEADER    MEMBRANE PROTEIN                        12-SEP-00   1FTM              
+TITLE     CRYSTAL STRUCTURE OF THE GLUR2 LIGAND BINDING CORE (S1S2J)            
+TITLE    2 IN COMPLEX WITH AMPA AT 1.7 RESOLUTION                               
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    E.GOUAUX,N.ARMSTRONG                                                  
+JRNL        AUTH   N.ARMSTRONG,E.GOUAUX                                         
+JRNL        TITL   MECHANISMS FOR ACTIVATION AND ANTAGONISM OF AN               
+JRNL        TITL 2 AMPA-SENSITIVE GLUTAMATE RECEPTOR: CRYSTAL                   
+JRNL        TITL 3 STRUCTURES OF THE GLUR2 LIGAND BINDING CORE                  
+JRNL        REF    NEURON                        V.  28   165 2000              
+JRNL        REFN   ASTM NERNET  US ISSN 0896-6273                               
+HETNAM     AMQ (S)-ALPHA-AMINO-3-HYDROXY-5-METHYL-4-                            
+HETNAM   2 AMQ ISOXAZOLEPROPIONIC ACID                                          
+HETSYN     AMQ AMPA                                                             
+FORMUL   1  AMQ    C7 H10 N2 O4                                                 
+HETATM    1  N   AMQ   429      63.551  69.765  52.730  1.00 10.03           N  
+HETATM    2  CA  AMQ   429      63.068  68.345  52.768  1.00 10.54           C  
+HETATM    3  C   AMQ   429      62.874  67.939  54.248  1.00 10.79           C  
+HETATM    4  OT1 AMQ   429      62.569  66.753  54.495  1.00 10.62           O  
+HETATM    5  OT2 AMQ   429      62.986  68.851  55.100  1.00 10.18           O  
+HETATM    6  CB  AMQ   429      64.081  67.423  52.039  1.00 11.60           C  
+HETATM    7  CG  AMQ   429      64.241  67.736  50.563  1.00 14.04           C  
+HETATM    8  CD1 AMQ   429      63.468  67.235  49.467  1.00 16.50           C  
+HETATM    9  CD2 AMQ   429      65.078  68.594  49.913  1.00 16.35           C  
+HETATM   10  CE2 AMQ   429      66.109  69.590  50.354  1.00 14.73           C  
+HETATM   11  OE1 AMQ   429      62.487  66.378  49.758  1.00 11.52           O  
+HETATM   12  NE1 AMQ   429      63.742  67.668  48.260  1.00 15.62           N  
+HETATM   13  OE2 AMQ   429      64.826  68.585  48.548  1.00 17.37           O  
+CONECT    1    2                                                                
+CONECT    2    1    3    6                                                      
+CONECT    3    2    4    5                                                      
+CONECT    4    3                                                                
+CONECT    5    3                                                                
+CONECT    6    2    7                                                           
+CONECT    7    6    8    9                                                      
+CONECT    8    7   11   12                                                      
+CONECT    9    7   10   13                                                      
+CONECT   10    9                                                                
+CONECT   11    8                                                                
+CONECT   12    8   13                                                           
+CONECT   13    9   12                                                           
+END           

@@ -1,0 +1,500 @@
+   74  secfulltext -parse > ocr_full
+   75  wc ocr_full
+   76  more ocr_full 
+   77  more ocr_full | awk '{print $3}' | more
+   78  more ocr_full | awk '{print $3}' | sort | uniq -c | sort -g | more
+   79  more ocr_full | awk '{print $3}' | sort | uniq -c | sort -g -r | more
+   80  ls -al ocr*
+   81  jar -cvf ocr_filings.zip ocr_full
+   82  usptopat2 -wide -search '"optical character recognition" and mobile and phone'
+   83  srecord -s | grep usptopat2
+   84  usptopat2 -wide -search '"optical character recognition" and mobile and phone'
+   85  usptopat2 -wide -app -search '"optical character recognition" AND mobile AND phone'
+   86  usptopat2 -wide -app -search sirf
+   87  usptopat2 -wide -app -search '"optical character recognition" AND mobile AND phone' > ocr_app
+   88  usptopat2 -wide -search '"optical character recognition" AND mobile AND phone' > ocr_iss
+   89  srecord -s | grep patparsenewer
+   90  cat ocr_iss | patparsenewer -tit -abs -inv -ass | more
+   91  cat ocr_iss | more
+   92  cat ocr_app
+   93  cat ocr_app | patparsenewer -tit -abs -inv -ass | more
+   94  usptopat2 -wide -search "sirf" > sirf_xxx_iss
+   95  cat sirf_xxx_iss | patparsenewer -tit -abs -inv -ass | more
+   96  more sirf_xxx_iss
+   97  usptopat2 -search "sirf" > sirf_xxx_iss
+   98  more sirf_xxx_iss
+   99  usptopat2 -search "sirf" 
+  100  ls -al \.*
+  101  ls -al \.* | grep " ."
+  102  ls -al \.* | grep " \."
+  103  more .temp_usptopat_1
+  104  guieditor `which usptopat2`
+  105  ls -al \.* | grep " \."
+  106  more .temp_usptopat_1
+  107  guieditor `which usptopat2`
+  108  usptopat3 -search sirf -retrieve
+  109  usptopat3 -search sirf -retrieve
+  110  usptopat3 -search sirf -retrieve
+  111  usptopat3 -search sirf -retrieve > dummm
+  112  cat dummm | patparsenewer -tit -abs -inv -ass | more
+  113  more dummm
+  114  guieditor `which patparsenewer`
+  115  cat dummm | patparsenewer -tit -abs -inv -ass -match "."
+  116  srecord -s | grep patparsenewer
+  117  cat dummm | patparsenewer -tit -abs -inv -ass 
+  118  more .temp_usptopat_1
+  119  usptopat2  -app -search "sirf" 
+  120  more .temp_usptopat_1
+  121  usptopat2  -app -search "sirf" > xxxxx
+  122  more xxxxx
+  123  usptopat3 -search sirf -retrieve > dummm
+  124  cat dummm | patparsenewer -tit -abs -inv -ass 
+  125  usptopat3 -search sirf -retrieve
+  126  usptopat3 -search sirf -retrieve > asdffff
+  127  usptopat3 -search sirf -retrieve > asdffff
+  128  usptopat3 -search sirf -retrieve > asdffff
+  129  usptopat3 -search marchywka -retrieve > asdffff
+  130  cat asdffff | patparsenewer -tit -abs -inv -ass  | more
+  131  usptopat3 -search '"optical character recognition" and mobile and phone"  -retrieve > asdffff
+  132  usptopat3 -search '"optical character recognition" and mobile and phone'  -retrieve > asdffff
+  133  ls -al asdffff
+  134  cat asdffff | patparsenewer -tit -abs -inv -ass  | more
+  135  cat asdffff | patparsenewer -tit -abs -inv -ass  > ocr_abss
+  136  history
+  137  cat ocr_app | patparsenewer -tit -abs -inv -ass  
+  138  cat ocr_app | patparsenewer -tit -abs -inv -ass  >ocr_abss_iss
+  139  history | tail
+  140  jar -cvf ocr.zip ocr_abss*
+  141  . srecord
+  142  ls
+  143  history > hist7
+  144  . pathclip
+  145  ls
+  146  cp wunderTransparent3.gif wunder.gif
+  147  convert wunder.gif wunder.png
+  148  . srecord
+  149  cd c:/
+  150  cd mydocs
+  151  cd zipp
+  152  cd zipp
+  153  ls
+  154  rm *
+  155  mbackup -roundup > thefiles
+  156  vi thefiles
+  157  mbackup -dayjar thefiles
+  158  mv *.jar a:/
+  159  cd e:
+  160  cd new
+  161  cd temp
+  162  cd cftr
+  163  ls
+  164  srecord -s | grep bmp
+  165  srecord -s | grep bmp| greo annotat
+  166  srecord -s | grep bmp| grep annotat
+  167  srecord -s | grep bmp| grep annotat | grep seg
+  168  cp anno.src bmp.src
+  169  vi bmp.src
+  170  vi bmp.src
+  171  vi bmp.src
+  172  echo | $progpath.annotater -source bmp.src
+  173  echo | $progpath/annotater -source bmp.src
+  174  more cftr_fasta 
+  175  fastanote -ek cftr.bmp
+  176  vi bmp.src
+  177  srecord -s | grep bmp| grep annotat | grep seg
+  178  vi bmp.src
+  179  echo | $progpath/annotater -source bmp.src
+  180  fastanote -ek cftr.bmp
+  181  cat bmp.src
+  182  ls $progpath/4*
+  183  vi bmp.src
+  184  srecord -s | grep bmp| grep annotat | grep acid
+  185  ls $progpath.nm*
+  186  ls $progpath/nm*
+  187  vi bmp.src
+  188  echo | $progpath/annotater -source bmp.src
+  189  fastanote -ek cftr.bmp
+  190  vi bmp.src
+  191  echo | $progpath/annotater -source bmp.src
+  192  fastanote -ek cftr.bmp
+  193  vi bmp.src
+  194  echo | $progpath/annotater -source bmp.src
+  195  vi bmp.src
+  196  fastanote -ek cftr.bmp
+  197  vi bmp.src
+  198  echo | $progpath/annotater -source bmp.src
+  199  fastanote -ek cftr.bmp
+  200  vi bmp.src
+  201  vi bmp.src
+  202  echo | $progpath/annotater -source bmp.src
+  203  fastanote -ek cftr.bmp
+  204  cd ../dscam
+  205  cp ../bmp.src .
+  206  cp ../cftr/bmp.src .
+  207  cat anno.src
+  208  cat anno*.src
+  209  wc droso_fasta
+  210  vi bmp.src
+  211  echo | $progpath/annotater -source bmp.src
+  212  fastanote -ek cftr.bmp
+  213  fastanote -ek droso.bmp
+  214  vi bmp.src
+  215  fastanote -ek droso.bmp
+  216  vi bmp.src
+  217  cat bmp.src
+  218  head droso_pro_no
+  219  cat bmp.src
+  220  vi bmp.src
+  221  echo | $progpath/annotater -source bmp.src
+  222  fastanote -ek droso.bmp
+  223  cat bmp.src
+  224  ls
+  225  cat hist9
+  226  cat hist8
+  227  cat bmp.src
+  228  more exon4_hits
+  229  more exon4_hits | grep "prime end" | awk '{print $4" "$5" "$6" "$7" "$9" "$10}' | sort | uniq
+  230  more exon4_hits | grep "prime end" | awk '{print $4" "$5" "$6" "$7" "$9" "$10" "$11}' | sort | uniq
+  231  more exon4_hits | grep -v "prime end" > exon4_noends
+  232  vi bmp.src
+  233  echo | $progpath/annotater -source bmp.src
+  234  fastanote -ek droso.bmp
+  235  cat exon4_noends
+  236  fastanote -ek droso.bmp &
+  237  cat bmp.src
+  238  $progpath/annotater
+  239  fastanote -ek droso.bmp &
+  240  cat bmp.src
+  241  vi bmp.src
+  242  echo | $progpath/annotater -source bmp.src
+  243  fastanote -ek droso.bmp &
+  244  vi bmp.src
+  245  echo | $progpath/annotater -source bmp.src
+  246  fastanote -ek droso.bmp &
+  247  vi bmp.src
+  248  echo | $progpath/annotater -source bmp.src
+  249  vi bmp.src
+  250  fastanote -ek droso.bmp &
+  251  fastanote -ek droso.bmp &
+  252  vi hairpin_rules
+  253  cat hi* | grep rules
+  254  $progpath/rules_annotater -doall -fastas droso_fasta -rci -rules hairpin_rules 
+  255  $progpath/rules_annotater -doall -fastas droso_fasta -rci -rules hairpin_rules | wc
+  256  $progpath/rules_annotater -doall -fastas droso_fasta -rci -rules hairpin_rules  > hairpin_hits
+  257  vi bmp.src
+  258  echo | $progpath/annotater -source bmp.src
+  259  vi bmp.src
+  260  echo | $progpath/annotater -source bmp.src
+  261  fastanote -ek droso.bmp &
+  262  cat hairpin_hits exon4_noends | sort -g | more
+  263  cat hairpin_hits | awk '{print $1" "$1-last; last=$1;}'
+  264  cat hairpin_hits | awk '{print $1" "$1-last; last=$1;}' | more
+  265  ls
+  266  cat hi* | grep ffx
+  267  ls
+  268  more flybase_exon_starts 
+  269  more flybase_exon_starts  | head
+  270  cat hairpin_hits | awk '{print $1" "$1-last; last=$1;}' | head
+  271  cat hairpin_hits | awk '{print $1" "$1-last; last=$1;}' | more
+  272  more flybase_exon_starts  | head
+  273  cat hairpin_hits | awk '{print $1" "$1-last; last=$1;}' | more
+  274  cat bmp.src
+  275  head some_hits
+  276  head adhoc_hits 
+  277  head droso_dscam
+  278  vi bmp.src
+  279  echo | $progpath/annotater -source bmp.src
+  280  fastanote -ek droso.bmp &
+  281  vi bmp.src
+  282  vi rules.col
+  283  echo | $progpath/annotater -source bmp.src
+  284  fastanote -ek droso.bmp &
+  285  fastanote -ek droso.bmp &
+  286  vi rules.col
+  287  echo | $progpath/annotater -source bmp.src
+  288  fastanote -ek droso.bmp &
+  289  vi rules.col
+  290  echo | $progpath/annotater -source bmp.src
+  291  echo | $progpath/annotater -source bmp.src
+  292  fastanote -ek droso.bmp &
+  293  vi rules.col
+  294  echo | $progpath/annotater -source bmp.src
+  295  fastanote -ek droso.bmp &
+  296  echo | $progpath/annotater -source bmp.src
+  297  fastanote -ek droso.bmp &
+  298  vi rule.col
+  299  vi rules.col
+  300  cat rules.col | awk '{if (($1<3)||($1>15)) print $0; else print $1" 0 0 255" } '
+  301  cat rules.col | awk '{if (($1<3)||($1>15)) print $0; else print $1" 0 0 255" } ' > rulesx.col
+  302  vi bmp.src
+  303  echo | $progpath/annotater -source bmp.src
+  304  fastanote -ek droso.bmp &
+  305  cat rules.col | awk '{if (($1<3)||($1>14)) print $0; else print $1" 0 0 255" } ' > rulesx.col
+  306  echo | $progpath/annotater -source bmp.src
+  307  fastanote -ek droso.bmp &
+  308  vi bmp.src
+  309  echo | $progpath/annotater -source bmp.src
+  310  fastanote -ek droso.bmp &
+  311  cat rules.col | awk '{if ($1==14 ) print "14 255 255 255" ; else if (($1<3)||($1>14)) print $0; else print $1" 0 0 255" } ' > rulesx.col
+  312  echo | $progpath/annotater -source bmp.src
+  313  fastanote -ek droso.bmp &
+  314  ls
+  315  cat flybase_exons
+  316  cat flybase_exon_starts 
+  317  head exon4_noends 
+  318  cat flybase_exon_starts | awk '{print $1" "$1+16" >fly|1| Flybase Exon start"}'
+  319  cat flybase_exon_starts | awk '{print $1" "$1+16" >fly|1| Flybase Exon start"}' 
+  320  head exon4_noends 
+  321  head -n 1 exon4_noends 
+  322  ls
+  323  head -n 1 exon4_noends > fly_hits
+  324  cat flybase_exon_starts | awk '{print $1" "$1+16" >fly|1| Flybase Exon start"}'  >>fly_hits
+  325  wc droso_fasta
+  326  vi fly_hits
+  327  vi bmp.src
+  328  echo | $progpath/annotater -source bmp.src
+  329  fastanote -ek droso.bmp &
+  330  vi rulesx.col
+  331  echo | $progpath/annotater -source bmp.src
+  332  fastanote -ek droso.bmp &
+  333  ls a-l *.bmp
+  334  ls -al  *.bmp
+  335  head -n 1 exon4_noends > fly_hits
+  336  cat flybase_exon_starts | awk '{print $1" "$1+16" XXXXX >fly|1| Flybase Exon start"}'  >>fly_hits
+  337  echo | $progpath/annotater -source bmp.src
+  338  more fly_hits
+  339  cat flybase_exon_starts | more
+  340  head -n 1 exon4_noends > fly_hits
+  341  cat flybase_exon_starts | awk '{print $1+1" "$1+16" >fly|1| Flybase Exon start"}'  >>fly_hits
+  342  echo | $progpath/annotater -source bmp.src
+  343  fastanote -ek droso.bmp &
+  344  jar -cvf droso.brmp.zip droso.bmp
+  345  ls
+  346  history > hist10
+  347  . srecord
+  348  ls ../cftr
+  349  cd ../cftr
+  350  ls -al hi*
+  351  date
+  352  history > hist2
+  353  cd c:/
+  354  cd mydocs
+  355  cd zipp
+  356  cd zipp
+  357  ls
+  358  rm *
+  359  mbackup -roundup > thefiles
+  360  cat thefiles
+  361  mbackup -dayjar thefiles
+  362  mv *.jar a:/
+  363  . pathclip
+  364  cd swaps
+  365  convert twc.gif twc.png
+  366  cd ..
+  367  ls C*
+  368  ./make_all
+  369  ls C4*
+  370  ftp -i spottext.com
+  371  wget -O xxx -S -v "shutupstellas.com"
+  372  more xxx
+  373  wget -O xxx -S -v "shutupstellas.com/main.php"
+  374  more xxx
+  375  whois shutupstellas.com
+  376  whois nerdseeksblonde.com
+  377  mv xxx xxx.html
+  378  lynx -dump xxx.html | more
+  379  cd e:
+  380  cd new
+  381  cd temp
+  382  cd dscam
+  383  cd maggots/
+  384  ls 
+  385  cd e:
+  386  cd new
+  387  cd temp
+  388  cd dscam
+  389  cd maggots
+  390  ls
+  391  grep ">" all_fasta 
+  392  jar -cvf all_fasta.zip all_fasta
+  393  cd ..
+  394  cd ..
+  395  ls
+  396  find -name both_fasta
+  397  find -name "*coli*"
+  398  find -name "*.zip"
+  399  find -name "*.zip" | grep -v jarred
+  400  ls
+  401  ls correlate/all
+  402  ls correlate/ecoli
+  403  mv correlate/ecoli/both_fasta .
+  404  rmdir correlate/ecoli
+  405  ls correlate/
+  406  rmdir correlate
+  407  jar -cvf ecoli.zip both_fasta
+  408  grep ">" both_fasta 
+  409  rm both_fasta 
+  410  cd dscam/
+  411  cd maggots/
+  412  grep ">" all_fasta
+  413  cd c:/
+  414  cd mydocs
+  415   cd zipp
+  416  cd zipp
+  417  ls
+  418  mbackup -dayjar thefiles
+  419  cd $progpath
+  420  ls cur*
+  421  mkdir current
+  422  for f in `cat src_files `; do echo $f; cat "$f" | dos2unix > "current/$f"; done
+  423  for f in `cat src_files `; do echo $f; mv "current/$f" "$f" ; done
+  424  srecord -s | grep table_tool
+  425  ./table_tool
+  426  ls -al oldexe
+  427  ls -1 oldexe
+  428  ls -1 oldexe | wc
+  429  ls -1 *.exe | wc
+  430  ls -1 *.exe 
+  431  srecord -s | grep good_str
+  432  ls di*
+  433  cat disclaimer
+  434  cd current
+  435  ls
+  436  ls -1 > files
+  437  cat files | grep f
+  438  rm files
+  439  ls -1 > ../cfiles
+  440  for f in `cat ../cfiles `; do cat ../disclaimer $f | unix2dos ; done
+  441  cd ..
+  442  cat disclaimer | sed -e 's/\/\/##/'
+  443  cat disclaimer | sed -e 's/\/\//##/'
+  444  cat disclaimer | sed -e 's/\/\//##/' > disc2
+  445  cd current/
+  446  mkdir scr
+  447  for f in `cat ../cfiles `; do cat ../disc2 "$f" | dos2unix > "scr/$f" ; done
+  448  whois 81.213.224.111
+  449  whois 81.213.224.111
+  450  whois 24.193.220.137
+  451  whois 89.241.210.9
+  452  whois 74.72.119.129
+  453  whois 140.129.68.62
+  454  whois 209.6.168.96
+  455  whois 202.54.85.131
+  456  whois 208.54.15.36
+  457  cd e:
+  458  cd new
+  459  cd stock/
+  460  ls
+  461  more ocr_phone_app_parsed 
+  462  cat hist9
+  463  cat hist9 | grep 563
+  464  cat hist9 | grep 563 > /dev/clipboard
+  465  cat hist9 | grep 563 > /dev/clipboard
+  466  cat ocr_phone_app_parsed | grep -A 1 "^200" | grep -v "Inventors:\|200" | grep -v "\-\-" | sed -e 's/the //gi'| sed -e 's/[,.]//g' |sed -e 's/regents//gi'| sed -e 's/ of / /gi' |sed -e 's/ INC//gi' |sed -e 's/ LTD//gi'|sed -e 's/  */ /gi' |tr [a-z] [A-Z]  |sort | uniq -c | sort -g -r| more
+  467  cat ocr_phone_app_parsed | grep -A 1 "^200" | grep -v "Inventors:\|200" | grep -v "\-\-" | sed -e 's/the //gi'| sed -e 's/[,.]//g' |sed -e 's/regents//gi'| sed -e 's/ of / /gi' |sed -e 's/ INC//gi' |sed -e 's/ LTD//gi'|sed -e 's/  */ /gi' |tr [a-z] [A-Z]  |sort | uniq -c | sort -g -r| unix2dos > /dev/clipboard
+  468  cat ocr_phone_app_parsed | grep -A 1 "^200" | grep -v "Inventors:\|200" | grep -v "\-\-" | sed -e 's/the //gi'| sed -e 's/[,.]//g' |sed -e 's/regents//gi'| sed -e 's/ of / /gi' |sed -e 's/ INC//gi' |sed -e 's/ LTD//gi'|sed -e 's/  */ /gi' |tr [a-z] [A-Z]  |sort | uniq -c | sort -g -r| unix2dos > ocr_asses
+  469  cat ocr_asses | sort -g | sed -e 's/  *[0-9]*//'
+  470  cat ocr_asses | sort -g | sed -e 's/  *[0-9]*//' | while read ; do echo $REPLY;done
+  471  cat ocr_asses | sort -g | sed -e 's/  *[0-9]*//' | while read ; do echo $REPLY; IE "http://www.google.com/search?q=$REPLY";done 
+  472  lsa
+  473  ls
+  474  history > hist11
+  475  . srecord
+  476  ps -a
+  477  kill 1436
+  478  . pathclip
+  479  ./make_ui_app
+  480  ls -al D*
+  481  ftp -i spottext.com
+  482  lynx -dump "http://www.komutanucantekme.com"
+  483  whois "http://www.komutanucantekme.com"
+  484  whois "www.komutanucantekme.com"
+  485  whois "komutanucantekme.com"
+  486  cd e:
+  487  cd new
+  488  cd stock/
+  489  secfulltext -search "Credit Default Swaps"
+  490  secfulltext -parse
+  491  secfulltext -parse > cds_parse
+  492  more cds_parse 
+  493  more cds_parse | awk '{print $2}' | more
+  494  more cds_parse | awk '{print $2}' | grep lever
+  495  more cds_parse 
+  496  more cds_parse | awk '{print $3}' | more
+  497  more cds_parse | awk '{print $3}' | sort | uniq -c |more
+  498  more cds_parse | awk '{print $3}' | sort | uniq -c |sort -g -r | more
+  499  more cds_parse | awk '{print $3}' | sort | uniq -c |sort -g -r | unix2dos>/dev/clipboard
+  500  . srecord
+  501  cd e:
+  502  cd new
+  503  cd glutp/
+  504  cd glutp/
+  505  ls
+  506  cd glutp
+  507  ls
+  508  ./model
+  509  ./simumain
+  510  ./model
+  511  ./model -about
+  512  ./main
+  513  ls cf
+  514  cat cf/config.dat 
+  515  ./main
+  516  ./main atom
+  517  echo |./main atom
+  518  ./main atom ./cf/config.dat 
+  519  make main
+  520  make main
+  521  ./simumian
+  522  ./simumain
+  523  make simumain
+  524  make simumain
+  525  make simumain
+  526  make simumain
+  527  make simumain
+  528  ./simumain
+  529  ./simumain -help
+  530  make simumain
+  531  ./simumain
+  532  ./simumain -about
+  533  ls
+  534  for f in `cat src_files ` ; do echo $f ; grep -i nist "$f" | grep http ; done
+  535  ./simumain -dosomething
+  536  ./simumain -dosomething
+  537  make streaming_data
+  538  make streaming_data
+  539  make simumain
+  540  make streaming_data
+  541  make streaming_data
+  542  make streaming_data
+  543  make streaming_data
+  544  make streaming_data
+  545  make streaming_data
+  546  make streaming_data
+  547  make streaming_data
+  548  make streaming_data
+  549  make streaming_data
+  550  make streaming_data
+  551  make streaming_data
+  552  make streaming_data
+  553  make streaming_data
+  554  make streaming_data
+  555  make streaming_data
+  556  ./streaming_data -asdf
+  557  while [ 1  == 1 ] do echo 100 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  558  while [ 1  == 1 ] ; do echo 100 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  559  i=1; while [ 1  == 1 ] ; do echo 100 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  560  i=1; while [ 1  == 1 ] ; do echo 100 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done 
+  561  i=1; while [ 1  == 1 ] ; do echo 100 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  562  i=1; while [ 1  == 1 ] ; do echo 100 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  563  i=1; while [ $i  != 1000 ] ; do echo 100 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  564  i=0; while [ $i  != 100000 ] ; do echo 500 $i $i $i 1 .5 1 ; i=$[$i +100 ]; done |./streaming_data -asdf
+  565  i=0; while [ $i  != 100000 ] ; do echo 500 $i $i $i 1 .5 1 ; i=$[$i +100 ]; done |./streaming_data -asdf
+  566  i=1; while [ $i  != 1000 ] ; do echo 500 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  567  make streaming_data
+  568  i=1; while [ $i  != 1000 ] ; do echo 500 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  569  i=1; while [ $i  != 1000 ] ; do echo 5 $i $i $i 1 .5 1 ; i=$[$i +1 ]; done |./streaming_data -asdf
+  570  i=0; while [ $i  != 100000 ] ; do echo 5 $i $i $i 1 .5 1 ; i=$[$i +100 ]; done |./streaming_data -asdf
+  571  i=0; while [ $i  != 100000 ] ; do echo 5 $i $i $i 1 .5 1 ; i=$[$i +100 ]; done |./streaming_data -asdf
+  572  ls
+  573  history > hist1

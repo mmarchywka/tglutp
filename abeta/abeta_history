@@ -1,0 +1,63 @@
+ loado ./abeta/2beg.pdb
+ zoom 500
+ stree
+ vtree
+ stree 1+hide 1
+ stree 0+style 3
+ stree 0>style 3
+ stree 0>style 1
+ stree 1+hide 0
+ stree 0+hide 1
+ stree 0+color
+ stree 0+flags -2
+ stree 0+hide 0
+ stree 0+flags
+ stree 0+flags -1
+ help
+ modify 0 map_name=Hphob.Wilson
+ stree
+ vtree
+ stree 1+hide 1
+ stree 0+style 3
+ stree 0+substyle 3
+ stree 0+substyle 1
+ stree 0+style 1
+ loado ./abeta/1ba4.pdb
+ stree 0 0+hide 0
+ stree 0 0+hide 1
+ stree 0+style 1
+ stree 0+substyle 3
+ modify 1 map_name=Hphob.Wilson
+ stree 0+substyle 1
+ stree 1 1+hide 0
+ stree 1 1>hide 0
+ stree 1 1<hide 0
+ modify 0 map_name=Hphob.Wilsddon
+ history abeta_history
+ modify 0 map_name=Antiparallelbeta-strand
+ modify 0 map_name=beta-turnLevitt
+ vtree
+ modify 0 map_name=Hphob.Wilsddon
+ modify 0 map_name=alpha-helixLevitt
+ vtree
+ modify 1 map_name=alpha-helixLevitt
+ modify 0 map_name=Hphob.Wilsddon
+ modify 1 map_name=beta-turnLevitt
+ modify 1 map_name=Hphob.Sweet
+ zoom 0
+ light 7
+ lights 7
+ vtree
+ vtree 1 2+hide 1
+ vtree 1 2>hide 1
+ vtree 1 1>hide 1
+ vtree 1 3>hide 1
+ vtree 1 0>hide 1
+ vtree 1+hide 1
+ stree 1 0+hide 1
+ stree 1 1+hide 1
+ stree 1 1+hide 0
+ stree 1 1 1 +hide 1
+ modify 1 map_name=beta-turnLevitt
+ zoom 0
+ history abeta_history

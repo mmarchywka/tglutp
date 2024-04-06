@@ -1,0 +1,28 @@
+DEBUG FAIL
+color_file color.dat
+radius_file radii.dat
+pdb_file ./pdb_sulfur/cd25s2cd25sulfenic.pdb
+
+SxCRIPT select,0,hetts,DEF=hetkey stree,0,1+style,1 stree,0,1+substyle,3
+hetkey type=HETATM -residue=HOH
+atmkey type=ATOM -element=H
+defcavitykey probe_radius=1 grid_space=.25 shell_thickness=.3 safety_radius=3
+defcavitykey  big_radius=100 center_index=20 center=0,0,0 
+defcavitykey make_shell=0 small_radius=15
+
+defcavitykey2 probe_radius=1 grid_space=.5 shell_thickness=.4 safety_radius=4
+defcavitykey2  big_radius=50 center_index=20 center=0,0,0 make_shell=0 small_radius=22
+
+ceacavity grid_radius=5 grid_space=.2 shell_thickness=.4
+ceacavity probe_radius=1 gross_radius=12
+
+akey ds=.2,dy=.5,points_i=400,points_j=400,imax=50,start=-4.6+55+111,target=2.5,dir_j=110-20-93,dir_i=6-30+14
+pkey ds=.2,dy=.5,points_i=40,points_j=200,imax=50,start=11+2-6,target=1.5,dir_j=110-20-93,dir_i=6-30+14
+pointelkey radius=100,max_dist=25,segment_count=0,center=11+2-6
+SCxRIPT select,0,atts,DEF=atmkey stree,0,2+hide 1
+SxCRIPT cavity,2,probe_radius=2,center=-5+57+111,center_index=-1,make_shell=1
+SCRIPT zoom,500
+SCxRIPT modify,0,map_name=Hphob.Wilson
+SCRIPT modify,0,map_name=PolarityZimmerman
+SCRIPT source,./cf/pair.mike
+

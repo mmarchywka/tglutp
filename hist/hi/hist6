@@ -1,0 +1,500 @@
+  184  make streaming_data
+  185  make streaming_data
+  186  ls hi*
+  187  cat hist2
+  188  cat hist2 
+  189  cat hist2  | grep 561 >  /dev/clipboard
+  190  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  191  make streaming_data
+  192  make streaming_data
+  193  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  194  make streaming_data
+  195  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  196  make streaming_data
+  197  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  198  make streaming_data
+  199  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  200  make streaming_data
+  201  make streaming_data
+  202  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  203  usptopat3 -search marchywka
+  204  usptopat3 -browse -search marchywka
+  205  usptopat3 -list -search marchywka
+  206  usptopat2 -app -browse -search marchywka
+  207  usptopat2 -app -list -search marchywka
+  208  usptopat2  -list -search marchywka
+  209  usptopat2  -browse -search marchywka
+  210  usptopat2  -list -browse -search marchywka
+  211  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  212  more  my_pat_refs.txt
+  213  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  214  usptopat2  -list -browse -search "IN/marchywka"
+  215  usptopat2  -browse -search "IN/marchywka"
+  216  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  217  cd e:
+  218  cd new
+  219  cd glutp/
+  220  cd glutp/
+  221  ls
+  222  cd glutp/
+  223  make streaming_data
+  224  make streaming_data
+  225  ls hi*
+  226  cat hist2
+  227  cat hist2 
+  228  cat hist2  | grep 561 >  /dev/clipboard
+  229  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  230  make streaming_data
+  231  make streaming_data
+  232  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  233  make streaming_data
+  234  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  235  make streaming_data
+  236  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  237  make streaming_data
+  238  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  239  make streaming_data
+  240  make streaming_data
+  241  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  242  make streaming_data
+  243  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  244  usptopat3 -search marchywka
+  245  usptopat3 -browse -search marchywka
+  246  usptopat3 -list -search marchywka
+  247  usptopat2 -app -browse -search marchywka
+  248  usptopat2 -app -list -search marchywka
+  249  usptopat2  -list -search marchywka
+  250  usptopat2  -browse -search marchywka
+  251  usptopat2  -list -browse -search marchywka
+  252  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  253  more  my_pat_refs.txt
+  254  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  255  usptopat2  -list -browse -search "IN/marchywka"
+  256  usptopat2  -browse -search "IN/marchywka"
+  257  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  258  cd e:
+  259  cd new
+  260  cd glutp/
+  261  cd glutp/
+  262  ls
+  263  cd glutp/
+  264  make streaming_data
+  265  make streaming_data
+  266  ls hi*
+  267  cat hist2
+  268  cat hist2 
+  269  cat hist2  | grep 561 >  /dev/clipboard
+  270  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  271  make streaming_data
+  272  make streaming_data
+  273  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  274  make streaming_data
+  275  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  276  make streaming_data
+  277  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  278  make streaming_data
+  279  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  280  make streaming_data
+  281  make streaming_data
+  282  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  283  make streaming_data
+  284  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  285  make streaming_data
+  286  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  287  usptopat3 -search marchywka
+  288  usptopat3 -browse -search marchywka
+  289  usptopat3 -list -search marchywka
+  290  usptopat2 -app -browse -search marchywka
+  291  usptopat2 -app -list -search marchywka
+  292  usptopat2  -list -search marchywka
+  293  usptopat2  -browse -search marchywka
+  294  usptopat2  -list -browse -search marchywka
+  295  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  296  more  my_pat_refs.txt
+  297  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  298  usptopat2  -list -browse -search "IN/marchywka"
+  299  usptopat2  -browse -search "IN/marchywka"
+  300  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  301  cd e:
+  302  cd new
+  303  cd glutp/
+  304  cd glutp/
+  305  ls
+  306  cd glutp/
+  307  make streaming_data
+  308  make streaming_data
+  309  ls hi*
+  310  cat hist2
+  311  cat hist2 
+  312  cat hist2  | grep 561 >  /dev/clipboard
+  313  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  314  make streaming_data
+  315  make streaming_data
+  316  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  317  make streaming_data
+  318  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  319  make streaming_data
+  320  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  321  make streaming_data
+  322  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  323  make streaming_data
+  324  make streaming_data
+  325  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  326  make streaming_data
+  327  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  328  make streaming_data
+  329  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  330  make streaming_data
+  331  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  332  usptopat3 -search marchywka
+  333  usptopat3 -browse -search marchywka
+  334  usptopat3 -list -search marchywka
+  335  usptopat2 -app -browse -search marchywka
+  336  usptopat2 -app -list -search marchywka
+  337  usptopat2  -list -search marchywka
+  338  usptopat2  -browse -search marchywka
+  339  usptopat2  -list -browse -search marchywka
+  340  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  341  more  my_pat_refs.txt
+  342  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  343  usptopat2  -list -browse -search "IN/marchywka"
+  344  usptopat2  -browse -search "IN/marchywka"
+  345  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  346  cd e:
+  347  cd new
+  348  cd glutp/
+  349  cd glutp/
+  350  ls
+  351  cd glutp/
+  352  make streaming_data
+  353  make streaming_data
+  354  ls hi*
+  355  cat hist2
+  356  cat hist2 
+  357  cat hist2  | grep 561 >  /dev/clipboard
+  358  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  359  make streaming_data
+  360  make streaming_data
+  361  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  362  make streaming_data
+  363  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  364  make streaming_data
+  365  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  366  make streaming_data
+  367  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  368  make streaming_data
+  369  make streaming_data
+  370  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  371  make streaming_data
+  372  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  373  make streaming_data
+  374  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  375  make streaming_data
+  376  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  377  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  378  usptopat3 -search marchywka
+  379  usptopat3 -browse -search marchywka
+  380  usptopat3 -list -search marchywka
+  381  usptopat2 -app -browse -search marchywka
+  382  usptopat2 -app -list -search marchywka
+  383  usptopat2  -list -search marchywka
+  384  usptopat2  -browse -search marchywka
+  385  usptopat2  -list -browse -search marchywka
+  386  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  387  more  my_pat_refs.txt
+  388  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  389  usptopat2  -list -browse -search "IN/marchywka"
+  390  usptopat2  -browse -search "IN/marchywka"
+  391  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  392  cd e:
+  393  cd new
+  394  cd glutp/
+  395  cd glutp/
+  396  ls
+  397  cd glutp/
+  398  make streaming_data
+  399  make streaming_data
+  400  ls hi*
+  401  cat hist2
+  402  cat hist2 
+  403  cat hist2  | grep 561 >  /dev/clipboard
+  404  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  405  make streaming_data
+  406  make streaming_data
+  407  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  408  make streaming_data
+  409  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  410  make streaming_data
+  411  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  412  make streaming_data
+  413  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  414  make streaming_data
+  415  make streaming_data
+  416  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  417  make streaming_data
+  418  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  419  make streaming_data
+  420  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  421  make streaming_data
+  422  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  423  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  424  make streaming_data
+  425  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  426  cat smslog.txt 
+  427  cat smslog.txt | grep smsfrom
+  428  cat smslog.txt | grep smsfrom | wc
+  429  cat smslog.txt | grep smsfrom | grep "{ts"
+  430  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  431  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  432  cat smslog.txt | grep "smsfrom\|Date" | more
+  433  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  434  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  435  cat smslog.txt | grep -n 2008 | head
+  436  tail --help
+  437  head --help
+  438  tail --help
+  439  cat smslog.txt | grep -n 2008 | head
+  440  cat smslog.txt | tail + 2989 |grep smsfrom | grep "{ts" | wc
+  441  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  442  cat smslog.txt | tail +2989 
+  443  cat smslog.txt | tail +2989 | more
+  444  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  445  cat smslog.txt | tail +2989 | more
+  446  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" 
+  447  cat smslog.txt | tail +2989 |grep smsfrom | grep -v "{ts" | wc
+  448  . srecord
+  449  . pathclip
+  450  grep mail_jde *
+  451  grep "\.png"  *
+  452  cd ..
+  453  grep "\.png"  *.java
+  454  grep -R "\.png"  *.java
+  455  grep -R "\.png"  `find -name "*.java"'
+  456  grep -R "\.png"  `find -name "*.java"`
+  457  grep "\.png"  `find -name "*.java"`
+  458  . pathclip
+  459  grep "\.png"  `find -name "*.java"`
+  460  grep "\.gif"  `find -name "*.java"`
+  461  cd tictactoe
+  462  ls
+  463  more TicTacToe.java 
+  464  . pathclip
+  465  ./bb
+  466  ./bb
+  467  ./bb
+  468  ./bb
+  469  . pathclip
+  470  ./make_ui_app
+  471  whois shutupstellas.com
+  472  whois marchywka.com
+  473  whois nerdseeksblonde.com
+  474  whois nerdseeksblonde.com
+  475  cd c:/
+  476  cd mydocs
+  477  cd zipp
+  478  cd zipp
+  479  ls
+  480  rm *
+  481  mbackup -roundup > thefiles
+  482  vi thefiles 
+  483  vi thefiles 
+  484  mbackup -dayjar thefiles
+  485  vi thefiles 
+  486  mbackup -dayjar thefiles
+  487  mv *.jar a:/
+  488  ls a:/
+  489  cd c:/
+  490  cd mydocs
+  491  cd zipp
+  492  cd zipp
+  493  ls
+  494  rm *
+  495  mbackup -roundup > thefiles
+  496  vi thefiles
+  497  mbackup -dayjar thefiles
+  498  mv *.jar a:/
+  499  ls a:/
+  500  df a:/
+  501  cd e:
+  502  cd new
+  503  cd glutp/
+  504  cd glutp/
+  505  cd glutp/
+  506  ls
+  507  make stats_test
+  508  srecord -s | grep kaplan
+  509  ./stats_test -statistic kaplan_meier -disp_interval 1000 -ok_limit 0 -p_limit .95 -events 300
+  510  ls *.exe
+  511  ./model
+  512  ./model
+  513  ls
+  514  for f in `cat src_files `;do x=`grep nonuniform $f`; if [ "$x" != "" ] ; then echo $f $x; fi ;done
+  515  for f in `cat src_files `;do x=`grep wavelet $f`; if [ "$x" != "" ] ; then echo $f $x; fi ;done
+  516  make stats_test
+  517  make stats_test
+  518  make stats_test
+  519  make stats_test
+  520  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -events 300
+  521  make stats_test
+  522  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -events 300
+  523  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -events 300 -m1 1.3
+  524  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95  -m1 1.3
+  525  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95  -m1 10
+  526  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95  -m1 2
+  527  ./streaming_data.
+  528  ./streaming_data
+  529  srecord -s | grep streaming
+  530  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95  -m1 2 | grep -v [a-z]
+  531  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95  -m1 2 | grep -v [a-z] | awk '{print "10 "$2*200" "$3*1000" 0 1 "$1/2" 1" }' | ./streaming_data -asdf
+  532  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95  -m1 2 | grep -v [a-z] | awk '{print "10 "$2*200" "$3*1000/$2" 0 1 "$1/2" 1" }' | ./streaming_data -asdf
+  533  ls b*
+  534  ls j*
+  535  mv junk junk.bmp
+  536  fastanote -ek junk.bmp 
+  537  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95  -m1 2 | grep -v [a-z] | awk '{print "10 "$2*200" "$3*1000/$2" 0 1 "l2/2" 1"; l2=last; last=$1; }' | ./streaming_data -asdf
+  538  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 | grep -v [a-z] | awk '{print "10 "$2*200" "$3*1000/$2" 0 1 "l2/2" 1"; l2=last; last=$1; }' | ./streaming_data -asdf
+  539  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "l2/2" 1"; l2=last; last=$1; }' | ./streaming_data -asdf
+  540  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "l2/2" 1"; l2=last; last=$1; }' | ./streaming_data -asdf
+  541  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/$4" 0 1 "l2/2" 1"; l2=last; last=$1; }' | ./streaming_data -asdf
+  542  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2*$5" 0 1 "l2/2" 1"; l2=last; last=$1; }' | ./streaming_data -asdf
+  543  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/$5" 0 1 "l2/2" 1"; l2=last; last=$1; }' | ./streaming_data -asdf
+  544  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/$5" 0 1 "l3/2" 1"; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  545  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "l3/2" 1"; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  546  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "(l3-l2)/2" 1"; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  547  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "(l3-l2+2)/2" 1"; l3=l2; l2=last; last=$1; }' 
+  548  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "(l3-l2+2)/4" 1"; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  549  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "l3"" l2; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  550  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "l3" " l2; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  551  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  552  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/$5" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  553  make stats_test
+  554  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/$5" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  555  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/($4+$5)" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  556  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/($4+$5)" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  557  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/($4-$5)" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  558  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{print "3 "$2*200" "$3*1000/$2/($4-$5)" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }'
+  559  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z]
+  560  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | more
+  561  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2/($4+$5)" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  562  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2/($4-$5)" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  563  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2*($4-$5)" 0 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  564  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2*($4-$5)" 0 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  565  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2*($4-$5)" l2*10 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  566  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2*($4-$5)" l2*100 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  567  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2*($4-$5)" " l2*100" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  568  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2/($4+$5)" " l2*100" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  569  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2/($4+$5)" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  570  make stats_test
+  571  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$6*1000" " last*200" 1 "last-1" " last-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  572  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$6*1000" " $1*200" 1 "$1-1" " $1-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  573  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*1000" "$6*1000" " $1*200" 1 "$1-1" " $1-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  574  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 -graphic exp | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*1000" "$6*1000" " $1*200" 1 "$1-1" " $1-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  575  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 -graphic exp | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*1000" "$6*1000" " $1*200" 1 "$1-1" " $1-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  576  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*1000" "$6*1000" " $1*200" 1 "$1-1" " $1-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  577  make stats_test
+  578  rm stats_test.o
+  579  make stats_test
+  580  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000/$2/($4+$5)" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  581  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$3*1000/$2/($4+$5)" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  582  rm stats_test.o
+  583  make stats_test
+  584  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$3*1000/$2/($4+$5)" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  585  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$3*1000/$2" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  586  make stats_test
+  587  rm stats_test.o
+  588  make stats_test
+  589  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$3*1000/$2/($4-$5)" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  590  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$4/$2*1000" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  591  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$4*1000" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  592  make stats_test
+  593  make stats_test
+  594  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$4*1000" " l3*200" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  595  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$3*1000/$2" " l3*200" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  596  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$3*1000" " l3*200" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  597  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$3*1000/sqrt($2)" " l3*200" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  598  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$5*1000" " l3*200" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  599  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*2000" "$5*10000" " l3*200" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  600  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$5*100" " l3*200" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  601  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$5*1000" " l3*200" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  602  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$5*1000" " l3*200" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }'
+  603  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] 
+  604  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$5*1000" " l3*00" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }'
+  605  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$5*1000" " l3*00" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  606  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$4*1000" " l3*00" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  607  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] 
+  608  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "l3-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  609  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -asdf
+  610  make streaming_data
+  611  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  612  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  613  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 -n1 250 -n2 250 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  614  ./stats_test
+  615  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 -DEBUG -n1 250 -n2 250 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  616  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 -DEBUG -n1 250 -n2 250 
+  617  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  618  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  619  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  620  ls
+  621  ls hi*
+  622  history > hist6
+  623  . srecord
+  624  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  625  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  626  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  627  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{if($4!=0) print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  628  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z] 
+  629  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] 
+  630  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z]  | awk '{print $3*1000}'
+  631  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z]  | awk '{print $3*10000}'
+  632  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z]  | awk '{print int($3*10000)}'
+  633  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z]  | awk '{print int($3*10000)}' > xxx
+  634  cat xxx | sort -g | uniq -c 
+  635  cat xxx | sort -g | uniq -c  | more
+  636  cat xxx | sort -g | uniq -c  | sort -g -r | more
+  637  cat xxx | sort -g | uniq -c  | more
+  638  make stats_test
+  639  make stats_test
+  640  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$3*1000" " l3*00" 1 "last-1" " l2-1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  641  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*1000" " l3*00" 1 "$8-1" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  642  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*1000" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  643  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z]  | awk '{print int($3*1)}'
+  644  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z]  | awk '{print ($3*1)}'
+  645  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z] 
+  646  make stats_test
+  647  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*1000" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  648  make stats_test
+  649  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*1000" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  650  make stats_test
+  651  make stats_test
+  652  make stats_test
+  653  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*1000" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  654  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*1000" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  655  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*1000" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  656  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 250 -n2 250 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*1000" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  657  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 250 -n2 250 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  658  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  659  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  660  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  661  make stats_test
+  662  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  663  make stats_test
+  664  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  665  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  666  make stats_test
+  667  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 2 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  668  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  669  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  670  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 5 -n1 300 -n2 200 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  671  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 5 -n1 250 -n2 250 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  672  make stats_test
+  673  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 5 -n1 250 -n2 250 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  674  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1 -n1 250 -n2 250 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  675  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 250 -n2 250 -graphic line | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  676  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.2 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  677  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 -n1 250 -n2 250 -graphic exp | grep -v [a-z] | awk '{ print "3 "$2*200" "$7*100" " l3*00" 1 "$8" " 1; l3=l2; l2=last; last=$1; }' | ./streaming_data -history 500
+  678  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 -n1 250 -n2 250 -graphic exp  2>junk
+  679  cat junk
+  680  ./stats_test -statistic wavelet_sep -disp_interval 1000 -ok_limit 0 -p_limit .95 -m1 1.5 -n1 250 -n2 250 -graphic exp  2>junk
+  681  cat junk
+  682  history
+  683  history > hist6

@@ -1,0 +1,18 @@
+move 0 -200
+stree 0+hide 1
+stree 1+hide 1
+stree 0 1 0<hide 0
+stree 0+style 1
+stree 0 1 0+hide 1
+stree 1 0 2 0<hide 0
+stree 0 3 0<hide 0
+stree 0 3 0+style 0
+stree 0 3 0+substyle 0
+zoom 400
+move 200 50
+rotcen -5 55 111
+stree 0 3 0+dia .3
+stree 0 1 0+hide 0
+stree 0 1 0+substyle 1
+stree 0 1 0+tint .3 0 0 0
+#pot 2 DEF=akey

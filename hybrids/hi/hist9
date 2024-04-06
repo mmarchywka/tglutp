@@ -1,0 +1,500 @@
+  223  make streaming_data
+  224  make streaming_data
+  225  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  226  make streaming_data
+  227  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  228  usptopat3 -search marchywka
+  229  usptopat3 -browse -search marchywka
+  230  usptopat3 -list -search marchywka
+  231  usptopat2 -app -browse -search marchywka
+  232  usptopat2 -app -list -search marchywka
+  233  usptopat2  -list -search marchywka
+  234  usptopat2  -browse -search marchywka
+  235  usptopat2  -list -browse -search marchywka
+  236  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  237  more  my_pat_refs.txt
+  238  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  239  usptopat2  -list -browse -search "IN/marchywka"
+  240  usptopat2  -browse -search "IN/marchywka"
+  241  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  242  cd e:
+  243  cd new
+  244  cd glutp/
+  245  cd glutp/
+  246  ls
+  247  cd glutp/
+  248  make streaming_data
+  249  make streaming_data
+  250  ls hi*
+  251  cat hist2
+  252  cat hist2 
+  253  cat hist2  | grep 561 >  /dev/clipboard
+  254  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  255  make streaming_data
+  256  make streaming_data
+  257  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  258  make streaming_data
+  259  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  260  make streaming_data
+  261  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  262  make streaming_data
+  263  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  264  make streaming_data
+  265  make streaming_data
+  266  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  267  make streaming_data
+  268  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  269  make streaming_data
+  270  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  271  usptopat3 -search marchywka
+  272  usptopat3 -browse -search marchywka
+  273  usptopat3 -list -search marchywka
+  274  usptopat2 -app -browse -search marchywka
+  275  usptopat2 -app -list -search marchywka
+  276  usptopat2  -list -search marchywka
+  277  usptopat2  -browse -search marchywka
+  278  usptopat2  -list -browse -search marchywka
+  279  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  280  more  my_pat_refs.txt
+  281  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  282  usptopat2  -list -browse -search "IN/marchywka"
+  283  usptopat2  -browse -search "IN/marchywka"
+  284  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  285  cd e:
+  286  cd new
+  287  cd glutp/
+  288  cd glutp/
+  289  ls
+  290  cd glutp/
+  291  make streaming_data
+  292  make streaming_data
+  293  ls hi*
+  294  cat hist2
+  295  cat hist2 
+  296  cat hist2  | grep 561 >  /dev/clipboard
+  297  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  298  make streaming_data
+  299  make streaming_data
+  300  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  301  make streaming_data
+  302  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  303  make streaming_data
+  304  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  305  make streaming_data
+  306  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  307  make streaming_data
+  308  make streaming_data
+  309  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  310  make streaming_data
+  311  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  312  make streaming_data
+  313  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  314  make streaming_data
+  315  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  316  usptopat3 -search marchywka
+  317  usptopat3 -browse -search marchywka
+  318  usptopat3 -list -search marchywka
+  319  usptopat2 -app -browse -search marchywka
+  320  usptopat2 -app -list -search marchywka
+  321  usptopat2  -list -search marchywka
+  322  usptopat2  -browse -search marchywka
+  323  usptopat2  -list -browse -search marchywka
+  324  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  325  more  my_pat_refs.txt
+  326  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  327  usptopat2  -list -browse -search "IN/marchywka"
+  328  usptopat2  -browse -search "IN/marchywka"
+  329  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  330  cd e:
+  331  cd new
+  332  cd glutp/
+  333  cd glutp/
+  334  ls
+  335  cd glutp/
+  336  make streaming_data
+  337  make streaming_data
+  338  ls hi*
+  339  cat hist2
+  340  cat hist2 
+  341  cat hist2  | grep 561 >  /dev/clipboard
+  342  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  343  make streaming_data
+  344  make streaming_data
+  345  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  346  make streaming_data
+  347  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  348  make streaming_data
+  349  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  350  make streaming_data
+  351  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  352  make streaming_data
+  353  make streaming_data
+  354  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  355  make streaming_data
+  356  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  357  make streaming_data
+  358  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  359  make streaming_data
+  360  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  361  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  362  usptopat3 -search marchywka
+  363  usptopat3 -browse -search marchywka
+  364  usptopat3 -list -search marchywka
+  365  usptopat2 -app -browse -search marchywka
+  366  usptopat2 -app -list -search marchywka
+  367  usptopat2  -list -search marchywka
+  368  usptopat2  -browse -search marchywka
+  369  usptopat2  -list -browse -search marchywka
+  370  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  371  more  my_pat_refs.txt
+  372  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  373  usptopat2  -list -browse -search "IN/marchywka"
+  374  usptopat2  -browse -search "IN/marchywka"
+  375  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  376  cd e:
+  377  cd new
+  378  cd glutp/
+  379  cd glutp/
+  380  ls
+  381  cd glutp/
+  382  make streaming_data
+  383  make streaming_data
+  384  ls hi*
+  385  cat hist2
+  386  cat hist2 
+  387  cat hist2  | grep 561 >  /dev/clipboard
+  388  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  389  make streaming_data
+  390  make streaming_data
+  391  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  392  make streaming_data
+  393  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  394  make streaming_data
+  395  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  396  make streaming_data
+  397  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  398  make streaming_data
+  399  make streaming_data
+  400  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  401  make streaming_data
+  402  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  403  make streaming_data
+  404  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  405  make streaming_data
+  406  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  407  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  408  make streaming_data
+  409  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  410  cat smslog.txt 
+  411  cat smslog.txt | grep smsfrom
+  412  cat smslog.txt | grep smsfrom | wc
+  413  cat smslog.txt | grep smsfrom | grep "{ts"
+  414  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  415  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  416  cat smslog.txt | grep "smsfrom\|Date" | more
+  417  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  418  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  419  cat smslog.txt | grep -n 2008 | head
+  420  tail --help
+  421  head --help
+  422  tail --help
+  423  cat smslog.txt | grep -n 2008 | head
+  424  cat smslog.txt | tail + 2989 |grep smsfrom | grep "{ts" | wc
+  425  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  426  cat smslog.txt | tail +2989 
+  427  cat smslog.txt | tail +2989 | more
+  428  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  429  cat smslog.txt | tail +2989 | more
+  430  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" 
+  431  cat smslog.txt | tail +2989 |grep smsfrom | grep -v "{ts" | wc
+  432  . srecord
+  433  . pathclip
+  434  grep mail_jde *
+  435  grep "\.png"  *
+  436  cd ..
+  437  grep "\.png"  *.java
+  438  grep -R "\.png"  *.java
+  439  grep -R "\.png"  `find -name "*.java"'
+  440  grep -R "\.png"  `find -name "*.java"`
+  441  grep "\.png"  `find -name "*.java"`
+  442  . pathclip
+  443  grep "\.png"  `find -name "*.java"`
+  444  grep "\.gif"  `find -name "*.java"`
+  445  cd tictactoe
+  446  ls
+  447  more TicTacToe.java 
+  448  . pathclip
+  449  ./bb
+  450  ./bb
+  451  ./bb
+  452  ./bb
+  453  . pathclip
+  454  ./make_ui_app
+  455  whois shutupstellas.com
+  456  whois marchywka.com
+  457  whois nerdseeksblonde.com
+  458  whois nerdseeksblonde.com
+  459  cd c:/
+  460  cd mydocs
+  461  cd zipp
+  462  cd zipp
+  463  ls
+  464  rm *
+  465  mbackup -roundup > thefiles
+  466  vi thefiles 
+  467  vi thefiles 
+  468  mbackup -dayjar thefiles
+  469  vi thefiles 
+  470  mbackup -dayjar thefiles
+  471  mv *.jar a:/
+  472  ls a:/
+  473  cd c:/
+  474  cd mydocs
+  475  cd zipp
+  476  cd zipp
+  477  ls
+  478  rm *
+  479  mbackup -roundup > thefiles
+  480  vi thefiles
+  481  mbackup -dayjar thefiles
+  482  mv *.jar a:/
+  483  ls a:/
+  484  df a:/
+  485  cd e:
+  486  cd new
+  487  cd stock/
+  488  secfulltext -form_type "13-f" -search '"Capital Ventures International"
+  489  srecord -s | grep secfulltext  | grep form
+  490  secfulltext -form Form13FHR  -search '"Capital Ventures International"'
+  491  secfulltext -form Form13F -search '"Capital Ventures International"'
+  492  secfulltext -form Form13F -search '"Heights Capital Management"'
+  493  secfulltext -search '"Capital Ventures International"'
+  494  secfulltext -parse | more
+  495  whois 66.249.67.165
+  496  netstat -a
+  497  netstat -a
+  498  netstat --help
+  499  netstat -a -n -e
+  500  netstat -a -n
+  501  cd e:
+  502  cd new
+  503  cd glutp/
+  504  cd glutp/
+  505  cd glutp/
+  506  cd hybrids/
+  507  ls
+  508  cat hist8
+  509  cat hist8 | grep 704 > /dev/clipboard
+  510  #   704  ./pdb_proc -source g1.src -pdb ../pdb/1ac4.pdb -angles 100 2 3  -center -5 57 111 -shake 0  -mutate 0 -source generic.src -v 1 -out xxx4 -pfx "1ac4" -source g2.src
+  511   ./pdb_proc -source g1.src -pdb ../pdb/1ac4.pdb -angles 100 2 3  -center -5 57 111 -shake 0  -mutate 0 -source generic.src -v 1 -out xxx4 -pfx "1ac4" -source g2.src
+  512   ./pdb_proc -source g1.src -pdb ../pdb/1ac4.pdb -angles 0 0 0  -center -5 57 111 -source generic.src -v 1 -out xxx3 -pfx "1ac4" -source g2.src
+  513  cat xxx3 xxx4 | sort | more
+  514  uniq --help
+  515  cat xxx3 xxx4 | sort | more
+  516  cat xxx3 xxx4 | sort | grep "OG.*CB" | more
+  517  cat xxx3 xxx4 | sort | grep "OG .*CB " | more
+  518   ./pdb_proc -source g1.src -pdb ../pdb_sulfur/cd25sulfonic.pdb -angles 0 0 0  -center -5 57 111 -source generic.src -v 1 -out xxxso -pfx "cd25o" -source g2.src
+  519  cat xxx3 xxx4 xxxso | sort | grep "OG .*CB " | more
+  520  cat xxx3 xxx4 xxxso | sort -k 8 -g | grep "OG .*CB " | more
+  521  cat xxx3 xxx4 xxxso |sed -e 's/ A / /g/' | sort -k 8 -g | grep "OG .*CB " | more
+  522  cat xxx3 xxx4 xxxso |sed -e 's/ A / /g' | sort -k 8 -g | grep "OG .*CB " | more
+  523  cat xxx3 xxxso |sed -e 's/ A / /g' | sort -k 8 -g | grep "OG .*CB " | more
+  524   ./pdb_proc -source g1.src -pdb ../pdb_sulfur/cd25sulfinic.pdb -angles 0 0 0  -center -5 57 111 -source generic.src -v 1 -out xxxsi -pfx "cd25i" -source g2.src
+  525  cat xxx3 xxxso xxxsi |sed -e 's/ A / /g' | sort -k 8 -g | grep "OG .*CB " | more
+  526  cat xxx3 xxxso xxxsi |sed -e 's/ A / /g' | awk '{print $3" "$6}' | sort | uniq -c | more
+  527  cat xxx3 xxxso xxxsi |sed -e 's/ A / /g' | sort -k 8 -g | grep "OG .*CB " | more
+  528  cat xxx3 xxxso xxxsi |sed -e 's/ A / /g' | awk '{print $3" "$6}' | sort | uniq -c | more
+  529  cat xxx3 xxxso xxxsi |grep -v "^1ac4" | more
+  530  cat xxx3 xxxso xxxsi |grep -v "^RAW" | sed -e 's/ A / /g' | awk '{print $3" "$6}' | sort | uniq -c | more
+  531  cat xxx3 xxxso xxxsi |grep -v "^RAW" | sed -e 's/ A / /g' | awk '{print $3" "$6}' | sort | uniq -c | grep S
+  532  cat xxx3 xxxso xxxsi |sed -e 's/ A / /g' | sort -k 8 -g | grep " S[DG] " | more
+  533  cat xxx3 xxxso xxxsi |sed -e 's/ A / /g' | sort -k 8 -g | grep " CEA " | more
+  534  cat xxx3 xxxso xxxsi |grep -v "^RAW" | sed -e 's/ A / /g' | awk '{print $3" "$6}' | sort | uniq -c | grep S
+  535  grep CEA ../pdb_sulfur/*.pdb
+  536  cat xxx3 xxxso xxxsi |grep -v "^RAW" | grep CEA
+  537  cat xxx3 xxxso xxxsi |sed -e 's/ A / /g' | sort -k 8 -g | grep " S[DG] " | more
+  538   ./pdb_proc -source g1.src -pdb ../pdb_sulfur/cd25sulfenic.pdb -angles 0 0 0  -center -5 57 111 -source generic.src -v 1 -out xxxse -pfx "cd25e" -source g2.src
+  539  cat xxx3 xxxso xxxsi xxxse |sed -e 's/ A / /g' | sort -k 8 -g | grep " S[DG] " | more
+  540   ./pdb_proc -source g1.src -pdb ../squalene/2zcs.pdb -angles 0 0 0  -center -5 57 111 -source generic.src -v 1 -out xxxzcs -pfx "2zcs" -source g2.src
+  541   ./pdb_proc -source g1.src -pdb ../squalene/1ezf.pdb -angles 0 0 0  -center -5 57 111 -source generic.src -v 1 -out xxxezf -pfx "1ezf" -source g2.src
+  542  ls xxx*
+  543  mv xxxm _xxxm
+  544  mv xxx_ xxx
+  545  mv xxx _ xxx
+  546  ms xxx2 _xxx2
+  547  mv xxx2 _xxx2
+  548  mv xxx4 _xxx4
+  549  cat xxx3 xxx* |sed -e 's/ A / /g' | sort -k 8 -g  | more
+  550  cat xxx3 xxx* |sed -e 's/ [AB] / /g' | sort -k 8 -g  | more
+  551  cat xxx3 xxx* |sed -e 's/ [AB] / /g' | sed -e 's/ C [0-9-]/ /' | sort -k 8 -g  | more
+  552  cat xxx3 xxx* |awk '{ if (NF == 10) print $0}'  | more
+  553  cat xxx3 xxx* |awk '{ if (NF != 10) print $0}'  | more
+  554  cat xxx3 xxx* |grep -v "RAW" | awk '{ if (NF != 10) print $0}'  | more
+  555  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF != 10) print $0}'  | more
+  556  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) print $0}'  | more
+  557  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF != 10) print $0}'  | more
+  558  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 11) print $0}'  | more
+  559  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}'  | more
+  560  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}'  | more
+  561  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | more
+  562  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -g -k 8 | more
+  563  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -g -k 8 | tail
+  564  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -g -k 8 | more
+  565  sort --help
+  566  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -g -k 3 | sort -k 6 -s | more
+  567  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -k 3 | sort -k 6 -s | more
+  568  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -k 3 | sort -k 6 -s | sort -k 9 -g -r -s | more
+  569  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}' |sort -k 9 -s -g -r | sort -k 3 -s | sort -k 6 -s | more
+  570  cat xxx3 xxx* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -k 3 | sort -k 6 -s | sort -k 9 -g -r -s | more
+  571  cat g2.src 
+  572  cp g2.src g2db.src
+  573  vi g2db.src 
+  574  vi pdb_list
+  575  cat pdb_list | ./auto_script
+  576  ls zz*
+  577  ls -al | grep May
+  578  cat pdb_list
+  579  ls ../pdb/
+  580  ls -al | grep May
+  581  mkdir asdf
+  582  mkdir tget
+  583  vi pdb_list
+  584  cp pdb_list pdb_list_1
+  585  vi pdb_list_1
+  586  cat pdb_list_1 | ./auto_script
+  587  ls ./tget/
+  588  cat ./tget/3ci8.pdb.pdb 
+  589  cat pdb_list_1
+  590  make
+  591  make
+  592   ./pdb_proc -source g1.src -pdb ../squalene/1ezf.pdb -angles 0 0 0  -center -5 57 111 -source generic.src -v 1 -out xxxezf2 -pfx "1ezf" -source g2.src
+  593  diff xxxezf xxxezf2
+  594  cat pdb_list_1 | ./auto_script
+  595  ls *pf*
+  596  vi pdb_list_1
+  597  cat pdb_list_1 | ./auto_script
+  598  ./auto_script pdb_list_1
+  599  ./auto_script pdb_list_1
+  600  ls z*
+  601  ./auto_script pdb_list
+  602  ls z*
+  603  cat zzzz* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -k 3 | sort -k 6 -s | sort -k 9 -g -r -s | more
+  604  cat ../pdb_sulfur/*.pdb | grep CEA
+  605  cat zzzz* |grep CEA
+  606  cat zzzz* |grep CEA | more
+  607  ls z*
+  608  grep -l CEA  ../pdb_sulfur/*.pdb 
+  609  cat zzzz* |grep CEA | grep S
+  610  cat zzzz* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -k 3 | sort -k 6 -s | sort -k 9 -g -r -s | grep -B 2 -A 2 CEA |more
+  611  vi pdb_list
+  612  ./auto_script pdb_list
+  613  cat zzzz* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -k 3 | sort -k 6 -s | sort -k 9 -g -r -s | more
+  614  cat zzzz* |grep -v "RAW\|NORMAL" | awk '{ if (NF == 10) {print $0}; if (NF==12) {print $1" "$2" "$3" "$4" "$6" "$7" "$8" "$10" "$11" "$12}}'  | sort -k 3 | sort -k 8 -s -g | more
+  615  make
+  616   ./pdb_proc -source g1.src -pdb ../squalene/1ezf.pdb -angles 0 0 0  -center -5 57 111 -source generic.src -v 1 -out xxxezf2 -pfx "1ezf" -source g2.src
+  617  more xxxezf2
+  618  make
+  619  ls zz*
+  620  rm zzzz*
+  621  ./auto_script pdb_list
+  622  cat zzzz* | sort | uniq -c | sort -g -r | more
+  623  cat zzzz* | sort | uniq -c | more
+  624  cat zzzz* | sort | uniq -c | grep S | more
+  625  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g -r -s | more
+  626  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g -r -s | grep S | more
+  627  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -s | more
+  628  cat zzzz* | sort | uniq -c | more
+  629  cat zzzz* | sort | uniq -c | grep Cl
+  630  cat zzzz* | sort | uniq -c | grep "[A-Z][a-z]"
+  631  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g -r -s | more
+  632  ls -al zzz*
+  633  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -s | more
+  634  vi pdb_list
+  635  guieditor  pdb_list
+  636  ./auto_script pdb_list
+  637  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -s | more
+  638  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g -k 2 -r  -s | more
+  639  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -s | more
+  640  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -s | grep -v "[NOS] | more
+  641  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -s | grep -v "[NOS]" | more
+  642  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -s | grep -v "[COS]" | more
+  643  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -s | grep -v "[OS]" | more
+  644  cat zzzz* | sort | uniq -c | awk '{print NF" "$0}'| sort -g  -k 3 -s | grep -v "[OS]" | more
+  645  wc zz*
+  646  vi recursive_nay_index.h
+  647  guieditor recursive_nay_index.h
+  648  g++ -Wall -O3 -c recursive_nay_index.h
+  649  g++ -Wall -O3 -c recursive_nay_index.h
+  650  g++ -Wall -O3 -c recursive_nay_index.h
+  651  g++ -Wall -O3 -c recursive_nay_index.h
+  652  g++ -Wall -O3 -c recursive_nay_index.h
+  653  g++ -Wall -O3 -c recursive_nay_index.h
+  654  make
+  655  ls zz*
+  656  rm zz*
+  657  ./auto_script pdb_list
+  658  ls zz*
+  659  more  zz*
+  660  rm zz*
+  661  ./auto_script pdb_list
+  662  make nay_db_driver
+  663  make nay_db_driver
+  664  make nay_db_driver
+  665  make nay_db_driver
+  666  make nay_db_driver
+  667  ls *.gch
+  668  rm *.gch
+  669  make nay_db_driver
+  670  ls *.o
+  671  rm *.o
+  672  make nay_db_driver
+  673  ls *.gch
+  674  make nay_db_driver
+  675  make nay_db_driver
+  676  make nay_db_driver
+  677  make nay_db_driver
+  678  make nay_db_driver
+  679  make nay_db_driver
+  680  make nay_db_driver
+  681  make nay_db_driver
+  682  make nay_db_driver
+  683  make nay_db_driver
+  684  make nay_db_driver
+  685  cat zz* | ./nay_db_driver -load asdf
+  686  make nay_db_driver
+  687  make nay_db_driver
+  688  make nay_db_driver
+  689  make nay_db_driver
+  690  ls zz*
+  691  cat zz* | ./nay_db_driver -load asdf -query zzzz3c1j
+  692  more zz*
+  693  make nay_db_driver
+  694  make nay_db_driver
+  695  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz3c1j
+  696  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz3c1j | grep -v 3c1j | more
+  697  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz3c1j | awk '{print $3}' | sort | uniq -c
+  698  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz3c1j | grep 3ci8
+  699  cat zz* | grep "8 15.7"
+  700  cat zz* | grep "168 15.7"
+  701  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | awk '{print $3}' | sort | uniq -c
+  702  make nay_db_driver
+  703  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | grep 2per
+  704  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | grep 1ezf
+  705  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | awk '{print $3}' | sort | uniq -c
+  706  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | grep 2zco
+  707  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | grep 2v10 | awk '{print int($4)}' | sort -g | uniq -c
+  708  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | grep 2vl0 | awk '{print int($4)}' | sort -g | uniq -c
+  709  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | grep 2vl0 | awk '{print 5*int($4/5)}' | sort -g | uniq -c
+  710  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz1ezf | awk '{print $3}' | sort | uniq -c
+  711  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzzcd25i | awk '{print $3}' | sort | uniq -c
+  712  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzzcd25i | grep cd25e | awk '{print int($4)}' | sort -g | uniq -c
+  713  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzzcd25i | grep cd25o | awk '{print int($4)}' | sort -g | uniq -c
+  714  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzzcd25i | grep 2vl0 | awk '{print int($4)}' | sort -g | uniq -c
+  715  ls hi*
+  716  history > hist9
+  717  . srecord
+  718  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzzcd25i | grep cd25o 
+  719  ls -al zz*
+  720  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz2it5 |awk '{print $4}' | sort | uniq -c 
+  721  cat zz* | ./nay_db_driver -v -1 -load asdf -query zzzz2it5 |awk '{print $3}' | sort | uniq -c 
+  722  history > hist9

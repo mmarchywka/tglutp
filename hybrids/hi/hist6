@@ -1,0 +1,500 @@
+   84  usptopat3 -browse -search marchywka
+   85  usptopat3 -list -search marchywka
+   86  usptopat2 -app -browse -search marchywka
+   87  usptopat2 -app -list -search marchywka
+   88  usptopat2  -list -search marchywka
+   89  usptopat2  -browse -search marchywka
+   90  usptopat2  -list -browse -search marchywka
+   91  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+   92  more  my_pat_refs.txt
+   93  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+   94  usptopat2  -list -browse -search "IN/marchywka"
+   95  usptopat2  -browse -search "IN/marchywka"
+   96  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+   97  cd e:
+   98  cd new
+   99  cd glutp/
+  100  cd glutp/
+  101  ls
+  102  cd glutp/
+  103  make streaming_data
+  104  make streaming_data
+  105  ls hi*
+  106  cat hist2
+  107  cat hist2 
+  108  cat hist2  | grep 561 >  /dev/clipboard
+  109  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  110  make streaming_data
+  111  make streaming_data
+  112  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  113  make streaming_data
+  114  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  115  make streaming_data
+  116  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  117  usptopat3 -search marchywka
+  118  usptopat3 -browse -search marchywka
+  119  usptopat3 -list -search marchywka
+  120  usptopat2 -app -browse -search marchywka
+  121  usptopat2 -app -list -search marchywka
+  122  usptopat2  -list -search marchywka
+  123  usptopat2  -browse -search marchywka
+  124  usptopat2  -list -browse -search marchywka
+  125  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  126  more  my_pat_refs.txt
+  127  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  128  usptopat2  -list -browse -search "IN/marchywka"
+  129  usptopat2  -browse -search "IN/marchywka"
+  130  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  131  cd e:
+  132  cd new
+  133  cd glutp/
+  134  cd glutp/
+  135  ls
+  136  cd glutp/
+  137  make streaming_data
+  138  make streaming_data
+  139  ls hi*
+  140  cat hist2
+  141  cat hist2 
+  142  cat hist2  | grep 561 >  /dev/clipboard
+  143  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  144  make streaming_data
+  145  make streaming_data
+  146  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  147  make streaming_data
+  148  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  149  make streaming_data
+  150  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  151  make streaming_data
+  152  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  153  usptopat3 -search marchywka
+  154  usptopat3 -browse -search marchywka
+  155  usptopat3 -list -search marchywka
+  156  usptopat2 -app -browse -search marchywka
+  157  usptopat2 -app -list -search marchywka
+  158  usptopat2  -list -search marchywka
+  159  usptopat2  -browse -search marchywka
+  160  usptopat2  -list -browse -search marchywka
+  161  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  162  more  my_pat_refs.txt
+  163  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  164  usptopat2  -list -browse -search "IN/marchywka"
+  165  usptopat2  -browse -search "IN/marchywka"
+  166  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  167  cd e:
+  168  cd new
+  169  cd glutp/
+  170  cd glutp/
+  171  ls
+  172  cd glutp/
+  173  make streaming_data
+  174  make streaming_data
+  175  ls hi*
+  176  cat hist2
+  177  cat hist2 
+  178  cat hist2  | grep 561 >  /dev/clipboard
+  179  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  180  make streaming_data
+  181  make streaming_data
+  182  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  183  make streaming_data
+  184  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  185  make streaming_data
+  186  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  187  make streaming_data
+  188  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  189  make streaming_data
+  190  make streaming_data
+  191  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  192  usptopat3 -search marchywka
+  193  usptopat3 -browse -search marchywka
+  194  usptopat3 -list -search marchywka
+  195  usptopat2 -app -browse -search marchywka
+  196  usptopat2 -app -list -search marchywka
+  197  usptopat2  -list -search marchywka
+  198  usptopat2  -browse -search marchywka
+  199  usptopat2  -list -browse -search marchywka
+  200  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  201  more  my_pat_refs.txt
+  202  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  203  usptopat2  -list -browse -search "IN/marchywka"
+  204  usptopat2  -browse -search "IN/marchywka"
+  205  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  206  cd e:
+  207  cd new
+  208  cd glutp/
+  209  cd glutp/
+  210  ls
+  211  cd glutp/
+  212  make streaming_data
+  213  make streaming_data
+  214  ls hi*
+  215  cat hist2
+  216  cat hist2 
+  217  cat hist2  | grep 561 >  /dev/clipboard
+  218  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  219  make streaming_data
+  220  make streaming_data
+  221  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  222  make streaming_data
+  223  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  224  make streaming_data
+  225  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  226  make streaming_data
+  227  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  228  make streaming_data
+  229  make streaming_data
+  230  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  231  make streaming_data
+  232  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  233  usptopat3 -search marchywka
+  234  usptopat3 -browse -search marchywka
+  235  usptopat3 -list -search marchywka
+  236  usptopat2 -app -browse -search marchywka
+  237  usptopat2 -app -list -search marchywka
+  238  usptopat2  -list -search marchywka
+  239  usptopat2  -browse -search marchywka
+  240  usptopat2  -list -browse -search marchywka
+  241  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  242  more  my_pat_refs.txt
+  243  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  244  usptopat2  -list -browse -search "IN/marchywka"
+  245  usptopat2  -browse -search "IN/marchywka"
+  246  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  247  cd e:
+  248  cd new
+  249  cd glutp/
+  250  cd glutp/
+  251  ls
+  252  cd glutp/
+  253  make streaming_data
+  254  make streaming_data
+  255  ls hi*
+  256  cat hist2
+  257  cat hist2 
+  258  cat hist2  | grep 561 >  /dev/clipboard
+  259  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  260  make streaming_data
+  261  make streaming_data
+  262  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  263  make streaming_data
+  264  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  265  make streaming_data
+  266  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  267  make streaming_data
+  268  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  269  make streaming_data
+  270  make streaming_data
+  271  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  272  make streaming_data
+  273  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  274  make streaming_data
+  275  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  276  usptopat3 -search marchywka
+  277  usptopat3 -browse -search marchywka
+  278  usptopat3 -list -search marchywka
+  279  usptopat2 -app -browse -search marchywka
+  280  usptopat2 -app -list -search marchywka
+  281  usptopat2  -list -search marchywka
+  282  usptopat2  -browse -search marchywka
+  283  usptopat2  -list -browse -search marchywka
+  284  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  285  more  my_pat_refs.txt
+  286  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  287  usptopat2  -list -browse -search "IN/marchywka"
+  288  usptopat2  -browse -search "IN/marchywka"
+  289  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  290  cd e:
+  291  cd new
+  292  cd glutp/
+  293  cd glutp/
+  294  ls
+  295  cd glutp/
+  296  make streaming_data
+  297  make streaming_data
+  298  ls hi*
+  299  cat hist2
+  300  cat hist2 
+  301  cat hist2  | grep 561 >  /dev/clipboard
+  302  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  303  make streaming_data
+  304  make streaming_data
+  305  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  306  make streaming_data
+  307  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  308  make streaming_data
+  309  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  310  make streaming_data
+  311  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  312  make streaming_data
+  313  make streaming_data
+  314  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  315  make streaming_data
+  316  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  317  make streaming_data
+  318  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  319  make streaming_data
+  320  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  321  usptopat3 -search marchywka
+  322  usptopat3 -browse -search marchywka
+  323  usptopat3 -list -search marchywka
+  324  usptopat2 -app -browse -search marchywka
+  325  usptopat2 -app -list -search marchywka
+  326  usptopat2  -list -search marchywka
+  327  usptopat2  -browse -search marchywka
+  328  usptopat2  -list -browse -search marchywka
+  329  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  330  more  my_pat_refs.txt
+  331  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  332  usptopat2  -list -browse -search "IN/marchywka"
+  333  usptopat2  -browse -search "IN/marchywka"
+  334  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  335  cd e:
+  336  cd new
+  337  cd glutp/
+  338  cd glutp/
+  339  ls
+  340  cd glutp/
+  341  make streaming_data
+  342  make streaming_data
+  343  ls hi*
+  344  cat hist2
+  345  cat hist2 
+  346  cat hist2  | grep 561 >  /dev/clipboard
+  347  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  348  make streaming_data
+  349  make streaming_data
+  350  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  351  make streaming_data
+  352  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  353  make streaming_data
+  354  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  355  make streaming_data
+  356  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  357  make streaming_data
+  358  make streaming_data
+  359  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  360  make streaming_data
+  361  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  362  make streaming_data
+  363  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  364  make streaming_data
+  365  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  366  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  367  usptopat3 -search marchywka
+  368  usptopat3 -browse -search marchywka
+  369  usptopat3 -list -search marchywka
+  370  usptopat2 -app -browse -search marchywka
+  371  usptopat2 -app -list -search marchywka
+  372  usptopat2  -list -search marchywka
+  373  usptopat2  -browse -search marchywka
+  374  usptopat2  -list -browse -search marchywka
+  375  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  376  more  my_pat_refs.txt
+  377  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  378  usptopat2  -list -browse -search "IN/marchywka"
+  379  usptopat2  -browse -search "IN/marchywka"
+  380  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  381  cd e:
+  382  cd new
+  383  cd glutp/
+  384  cd glutp/
+  385  ls
+  386  cd glutp/
+  387  make streaming_data
+  388  make streaming_data
+  389  ls hi*
+  390  cat hist2
+  391  cat hist2 
+  392  cat hist2  | grep 561 >  /dev/clipboard
+  393  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  394  make streaming_data
+  395  make streaming_data
+  396  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  397  make streaming_data
+  398  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  399  make streaming_data
+  400  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  401  make streaming_data
+  402  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  403  make streaming_data
+  404  make streaming_data
+  405  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  406  make streaming_data
+  407  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  408  make streaming_data
+  409  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  410  make streaming_data
+  411  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  412  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  413  make streaming_data
+  414  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  415  cat smslog.txt 
+  416  cat smslog.txt | grep smsfrom
+  417  cat smslog.txt | grep smsfrom | wc
+  418  cat smslog.txt | grep smsfrom | grep "{ts"
+  419  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  420  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  421  cat smslog.txt | grep "smsfrom\|Date" | more
+  422  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  423  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  424  cat smslog.txt | grep -n 2008 | head
+  425  tail --help
+  426  head --help
+  427  tail --help
+  428  cat smslog.txt | grep -n 2008 | head
+  429  cat smslog.txt | tail + 2989 |grep smsfrom | grep "{ts" | wc
+  430  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  431  cat smslog.txt | tail +2989 
+  432  cat smslog.txt | tail +2989 | more
+  433  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  434  cat smslog.txt | tail +2989 | more
+  435  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" 
+  436  cat smslog.txt | tail +2989 |grep smsfrom | grep -v "{ts" | wc
+  437  . srecord
+  438  . pathclip
+  439  grep mail_jde *
+  440  grep "\.png"  *
+  441  cd ..
+  442  grep "\.png"  *.java
+  443  grep -R "\.png"  *.java
+  444  grep -R "\.png"  `find -name "*.java"'
+  445  grep -R "\.png"  `find -name "*.java"`
+  446  grep "\.png"  `find -name "*.java"`
+  447  . pathclip
+  448  grep "\.png"  `find -name "*.java"`
+  449  grep "\.gif"  `find -name "*.java"`
+  450  cd tictactoe
+  451  ls
+  452  more TicTacToe.java 
+  453  . pathclip
+  454  ./bb
+  455  ./bb
+  456  ./bb
+  457  ./bb
+  458  . pathclip
+  459  ./make_ui_app
+  460  whois shutupstellas.com
+  461  whois marchywka.com
+  462  whois nerdseeksblonde.com
+  463  whois nerdseeksblonde.com
+  464  cd c:/
+  465  cd mydocs
+  466  cd zipp
+  467  cd zipp
+  468  ls
+  469  rm *
+  470  mbackup -roundup > thefiles
+  471  vi thefiles 
+  472  vi thefiles 
+  473  mbackup -dayjar thefiles
+  474  vi thefiles 
+  475  mbackup -dayjar thefiles
+  476  mv *.jar a:/
+  477  ls a:/
+  478  cd c:/
+  479  cd mydocs
+  480  cd zipp
+  481  cd zipp
+  482  ls
+  483  rm *
+  484  mbackup -roundup > thefiles
+  485  vi thefiles
+  486  mbackup -dayjar thefiles
+  487  mv *.jar a:/
+  488  ls a:/
+  489  df a:/
+  490  cd e:
+  491  cd new
+  492  cd stock/
+  493  secfulltext -form_type "13-f" -search '"Capital Ventures International"
+  494  srecord -s | grep secfulltext  | grep form
+  495  secfulltext -form Form13FHR  -search '"Capital Ventures International"'
+  496  secfulltext -form Form13F -search '"Capital Ventures International"'
+  497  secfulltext -form Form13F -search '"Heights Capital Management"'
+  498  secfulltext -search '"Capital Ventures International"'
+  499  secfulltext -parse | more
+  500  whois 66.249.67.165
+  501  cd e:
+  502  cd new
+  503  cd glutp/
+  504  cd glutp/
+  505  cd glutp/
+  506  cd hybrids/
+  507  make
+  508  make
+  509  make
+  510  make
+  511  make
+  512  make
+  513  make
+  514  ls
+  515  cat hist5
+  516  cat hist5 | grep 644 > /dev/clipboard
+  517  #   644  ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 5 -grid 2 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  518  cat hist5 | grep 647 > /dev/clipboard
+  519  #   647  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  520   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 5 -grid 8 -edge 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  521   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  522  cat xxx
+  523  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  524  cat xxx
+  525  cat xxx | awk '{print $1}' | uniq -c
+  526  make
+  527  make
+  528   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  529  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  530  make
+  531  make
+  532  make
+  533   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  534  make
+  535  make
+  536  make
+  537   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  538  make
+  539  make
+  540   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  541  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  542  cat xxx
+  543  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  544  make
+  545   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  546  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  547  make
+  548   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  549  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  550  make
+  551   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  552  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  553  cat xxx
+  554  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  555  make
+  556   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  557  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  558   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 5 -grid 2  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  559  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  560  make
+  561  make
+  562   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 5 -grid 2  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  563  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  564   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  565  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  566  make
+  567  make
+  568   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  569  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  570   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 5 -grid 2  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  571  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  572  make
+  573   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 5 -grid 2  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  574  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  575   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  576  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  577  vi 1ac4.src 
+  578   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 8 -grid 2 -edges 0  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  579  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  580   ./pdb_proc -source 1ac4.src -v 1 -out xxx -flags 5 -grid 2  -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  581  cat xxx | grep "^LINE\|^NORM\|^RAW\|COLOR" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  582  ls
+  583  history > hist6

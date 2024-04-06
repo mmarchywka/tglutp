@@ -1,0 +1,29 @@
+
+DEBUG FAIL
+color_file color.dat
+radius_file radii.dat
+pdb_filex e.pdb
+pdb_file ./pdb/b.pdb
+figurxe_param user_figure_name
+usexr_figure_name probe_radius=1 neighbor_radius=21 center_index=1637 center=2,6,1638 make_shell=0
+poixt_list_param pl_parameters
+pl_pxarameters neighbor_radius=15 probe_radius=.5 grid_space=.5 shell_thickness=.2 safety_radius=3
+SCRIPT hide,0,0 zoom,500 select,0,cxave stree,0+hide,1 stree,0,3>hide,0
+SCRIPT stree,0,3<hide,0 stree,0,3+style,2 stree,0,3+substyle,3
+SCRIPT stree,1,0,0+hide,1 stree,1,0,1+hide,1 rotcen,29,36,34 move,-100,-200
+SCRIPT zoom,200 move,1,200 
+SxCRIPT energy,3 stree,2+dia,.2
+SCRIPT select,0,atm,type=ATOM,segment_count=0
+SCRIPT pot,2,DEF=akey pot,2,DEF=akey,start=32+40+32
+SCRxIPT stree,2+dia,.2 stree,1,0,2+thick,10 rot,90,0,1,0 move,150,150
+SCRxIPT stree,1,0,2,0<hide,0
+SCRIPT stree,2+dia,.2 rot,180,0,1,0 stree,2+clip,0,1,1,-70
+akey start=29+34+40,target=-.04,ds=.35,dy=.35,points_i=100,points_j=100,imax=100
+defkey type=ATOM segment_count=3 point1=25+30+41+29+36+34 point2=29+36+34+32+43+29 
+defkey point3=29,34,36,29,36,34 cutoff=7
+isodefkey ds=.2 dy=2 points_i=50 points_j=300 imax=100 start=27+32+65 target=.5
+
+
+
+
+

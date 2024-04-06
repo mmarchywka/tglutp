@@ -1,0 +1,12 @@
+DEBUG FAIL
+color_file color.dat
+radius_file radii.dat
+pdb_file ./pdb/a.pdb
+figure_param user_figure_name
+user_figure_name probe_radius=1 neighbor_radius=6 center_index=749 center=1,2,3
+point_list_param pl_parameters
+pl_parameters neighbor_radius=15 probe_radius=1 grid_space=.25 shell_thickness=.2 safety_radius=3
+
+
+
+

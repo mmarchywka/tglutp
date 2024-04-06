@@ -1,0 +1,11 @@
+-color_file ../color.dat 
+-radius_file ../radii.dat 
+-pdb ../squalene/1ezf.pdb
+-add residue HOH
+-add type HETATM
+-make 0
+-cat 0
+-probe_radius  1
+-visible .5
+-surf 0
+

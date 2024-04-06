@@ -1,0 +1,8 @@
+for i in 8 7 6 5 4 3 
+do
+echo doing $i
+cat nay34.src | sed -e "s/hits 5/hits $i/" > nay342.src
+head -n 1 nay342.src
+./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load  ../../tget/sorted_noc -continue -source nay342.src > refined_more_4noc$i
+done
+

@@ -1,0 +1,135 @@
+#ifndef CMD_LINE_INPUT_H__
+#define CMD_LINE_INPUT_H__
+
+#include "../base/string_stack.h"
+
+#include <iostream>
+#include <sstream>
+#include <string>
+#include <stdio.h>
+
+#include <GL/glut.h>
+
+class cmd_line_tr
+{
+public:
+	typedef unsigned char KeyCh;	
+	typedef char Ch;    // internal usage
+	typedef int key_int;  // compare/test
+	typedef std::basic_string<Ch> string_type;
+	typedef unsigned int count_type;
+	typedef unsigned int index_type;
+	typedef std::istringstream ConvStreamTy;
+	typedef std::ostringstream OsStreamTy;
+	
+	typedef std::basic_ostream<Ch>  ostream_type;
+//	typedef LineReadyCallbackTy
+
+};
+
+class cmd_line_input :public cmd_line_tr
+{
+	typedef cmd_line_input Myt;
+	typedef string_stack<string_type> HistoryTy;
+	typedef KeyCh api_key_type;
+public:
+	cmd_line_input():m_history(100*0),m_pending(), m_line(),m_right(),m_cursor("_"),
+	m_x(0),m_y(0),m_ready(false) {}
+	// sources could have to de sorted or intepreted differently 
+	bool key(const api_key_type k,const index_type src)
+	{ 	Key(k,src);    return line_ready(); }
+	bool key(const int k,const index_type src)
+	{ 	GlutKey(k);    return line_ready(); }
+	bool line_ready() const { return m_pending.size();}
+	string_type process()
+	{	string_type line="";
+		m_pending.pull(&line);
+		m_history.push(line);
+	//	rs()<<"Returning a line :"<<line<<".\n";
+		return line;
+	}
+	template <class Ty> void dump_history(Ty& os)
+	{m_history.dump(os);	 }
+private:
+
+static ostream_type & rs()
+{ 	static ostream_type & os=std::cout; return os; }
+
+enum { FROM_GLUT=1}; 
+void ClearLine() { rs()<<"\r"<<string_type("     ").append(m_right.length()+m_line.length(),' ')<<"\r"; } 
+void UpCmd() 	{ m_history.earlier(1,m_line); m_history.get(m_line); m_right=""; }
+void DnCmd()	{ m_history.later(1,m_line); m_history.get(m_line);  }
+
+void PrLine() {ClearLine(); rs()<<m_line;rs()<<m_cursor<<m_right; rs().flush(); }
+void PrLineNoCurse() {ClearLine(); rs()<<m_line;rs()<<m_right; rs().flush(); }
+bool GlutKey( const key_int ikey)
+{
+	 switch ( ikey ) {
+      // function keys
+      case GLUT_KEY_F1 :	{m_history.dump(rs()); PrLine(); return m_ready;}
+      case GLUT_KEY_F2 :
+      case GLUT_KEY_F3 :
+      // arrow keys
+    case GLUT_KEY_LEFT :  
+      	{ if (m_line.length()>0) { m_right=m_line.substr(m_line.length()-1)+m_right; 
+      	m_line.erase(m_line.length()-1,1); PrLine();
+      	   ;}              return m_ready;}
+  	case GLUT_KEY_RIGHT :  {
+  		if (m_right.length()>0) {m_line+=m_right.substr(0,1); m_right=m_right.substr(1);}
+  		PrLine(); return m_ready; }
+  	case GLUT_KEY_UP ://case 101 :
+      	{ ClearLine(); UpCmd() ; PrLine(); return m_ready;}
+	case GLUT_KEY_DOWN ://case 103 : 
+		{ ClearLine(); DnCmd(); PrLine();}return m_ready; 
+ 	default:
+         printf("untrapped special key %d\n", ikey );
+         break;
+   }
+	
+	return m_ready;	
+}
+
+bool Key(const api_key_type k,const index_type src)
+{
+	key_int ikey=key_int(k);
+	//if ( src==FROM_GLUT) return GlutKey(ikey); 
+	switch (ikey)
+	{
+
+	case 0x03: { exit (-1); }
+	case 0x08:  {if ( m_line.length()) 
+		{m_line=m_line.substr(0,m_line.length()-1);
+		rs()<<Ch(ikey)<<" "; rs().flush(); }
+	 break; 	}
+	case 0x0D: {
+		PrLineNoCurse(); rs()<<"\n";
+		string_type total=m_line+m_right;
+		if (total.length()==0) { return m_ready;} 
+		m_pending.push(total);
+		// only when pulled
+		//m_history.push(m_line);
+		m_line="";
+		m_right="";
+		return m_ready;
+//		break;
+	}
+		
+		
+	default: { m_line=m_line+Ch( ikey); }
+};
+PrLine();
+	
+	return m_ready;
+	}
+	
+	HistoryTy m_history,m_pending;	
+	string_type m_line,m_right,m_cursor;
+	index_type m_x,m_y;
+	bool m_ready;
+};
+
+
+
+
+#endif
+

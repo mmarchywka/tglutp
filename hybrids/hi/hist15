@@ -1,0 +1,500 @@
+  157  ./main atom ./hybrids/qflaunch.dat
+  158  ./main atom ./hybrids/qflaunch.dat
+  159  ./main atom ./hybrids/qflaunch.dat
+  160  ./main atom ./hybrids/qflaunch.dat
+  161  ./main atom ./hybrids/qflaunch.dat
+  162  grep -i key  ./cf/*
+  163  ./main atom ./hybrids/qflaunch.dat
+  164  ./main atom ./hybrids/qflaunch.dat
+  165  ./main atom ./hybrids/qflaunch.dat
+  166  ./main atom ./hybrids/qflaunch.dat
+  167  ./main atom ./hybrids/qflaunch.dat
+  168  cp tx tx_orig
+  169  i=0; cat ./hybrids/xxx | while read ; do echo $REPLY ; done 
+  170  i=0; cat ./hybrids/xxx | while read ; do echo $REPLY x$i.jpg > tx; i=$[$i +1 ]; cat tx ; done 
+  171  i=0; cat ./hybrids/xxx | while read ; do echo $REPLY x$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfparam.dat ; done 
+  172  cd e
+  173  cd e:
+  174  cd new
+  175  cd glutp/
+  176  cd glutp/
+  177  cd glutp/
+  178  ls
+  179  cat hist12
+  180  make
+  181  cat hist12
+  182  vi test_data
+  183  ./main atom ./hybrids/qfmt.dat
+  184  cat test_data 
+  185  vi test_data
+  186  ./main atom ./hybrids/qfmt.dat
+  187  make
+  188  ./main atom ./hybrids/qfmt.dat
+  189  make
+  190  ./main atom ./hybrids/qfmt.dat
+  191  make
+  192  ./main atom ./hybrids/qfmt.dat
+  193  cat test
+  194  ls test
+  195  mv test_data tx
+  196  ./main atom ./hybrids/qfmt.dat
+  197  vi tx
+  198  ./main atom ./hybrids/qfmt.dat
+  199  make
+  200  cat tx
+  201  vi tx
+  202  ./main atom ./hybrids/qfmt.dat
+  203  vi tx
+  204  ./main atom ./hybrids/qfmt.dat
+  205  vi tx
+  206  ./main atom ./hybrids/qfmt.dat
+  207  make
+  208  ./main atom ./hybrids/qfmt.dat
+  209  make
+  210  ./main atom ./hybrids/qfmt.dat
+  211  vi tx
+  212  ./main atom ./hybrids/qfmt.dat
+  213  ./main atom ./hybrids/qflaunch.dat
+  214  ./main atom ./hybrids/qflaunch.dat
+  215  ./main atom ./hybrids/qflaunch.dat
+  216  ls q*
+  217  ls hy/q*
+  218  ls hybrids/q*
+  219  cd hybrids/
+  220  cp qflaunch.dat qfparam.dat
+  221  vi qfparam.dat 
+  222  vi qfdat.surf
+  223  cd ..
+  224  mv ./hybrids/qfdat.surf .
+  225  ./main atom ./hybrids/qfparam.dat
+  226  vi ./hybrids/qfdat.surf
+  227  vi qfdat.surf
+  228  ./main atom ./hybrids/qfparam.dat
+  229  ls *.jpg
+  230  fastanote -ek surf1.jpg 
+  231  find -name "*.pdb"
+  232  ./main atom ./hybrids/qflaunch.dat
+  233  cat ./hybrids/qflaunch.dat
+  234  guieditor ./qftgt.dat
+  235  grep -i cavity ./cf/*
+  236  grep -i pot ./cf/*
+  237  ./main atom ./hybrids/qflaunch.dat
+  238  ./main atom ./hybrids/qflaunch.dat
+  239  ./main atom ./hybrids/qflaunch.dat
+  240  ./main atom ./hybrids/qflaunch.dat
+  241  grep -i pot ./cf/*
+  242  grep -i pkey  ./cf/*
+  243  grep -i akey  ./cf/*
+  244  grep -i pot ./cf/*
+  245  ./main atom ./hybrids/qflaunch.dat
+  246  grep -i akey  ./cf/*
+  247  grep -i pkey  ./cf/*
+  248  ./main atom ./hybrids/qflaunch.dat
+  249  ./main atom ./hybrids/qflaunch.dat
+  250  grep -i akey  ./cf/*
+  251  grep -i pkey  ./cf/*
+  252  ./main atom ./hybrids/qflaunch.dat
+  253  grep -i pkey  ./cf/*
+  254  grep -i akey  ./cf/*
+  255  grep -i akey  ./cf/*
+  256  ./main atom ./hybrids/qflaunch.dat
+  257  ./main atom ./hybrids/qflaunch.dat
+  258  ./main atom ./hybrids/qflaunch.dat
+  259  ./main atom ./hybrids/qflaunch.dat
+  260  ./main atom ./hybrids/qflaunch.dat
+  261  ./main atom ./hybrids/qflaunch.dat
+  262  ./main atom ./hybrids/qflaunch.dat
+  263  ./main atom ./hybrids/qflaunch.dat
+  264  ./main atom ./hybrids/qflaunch.dat
+  265  ./main atom ./hybrids/qflaunch.dat
+  266  grep -i ener  ./cf/*
+  267  grep -i iso  ./cf/*
+  268  ./main atom ./hybrids/qflaunch.dat
+  269  grep -i ener  ./cf/*
+  270  ./main atom ./hybrids/qflaunch.dat
+  271  ./main atom ./hybrids/qflaunch.dat
+  272  ./main atom ./hybrids/qflaunch.dat
+  273  ./main atom ./hybrids/qflaunch.dat
+  274  ./main atom ./hybrids/qflaunch.dat
+  275  ./main atom ./hybrids/qflaunch.dat
+  276  grep -i ener  ./cf/*
+  277  ./main atom ./hybrids/qflaunch.dat
+  278  ./main atom ./hybrids/qflaunch.dat
+  279  ./main atom ./hybrids/qflaunch.dat
+  280  ./main atom ./hybrids/qflaunch.dat
+  281  ./main atom ./hybrids/qflaunch.dat
+  282  ./main atom ./hybrids/qflaunch.dat
+  283  ./main atom ./hybrids/qflaunch.dat
+  284  ./main atom ./hybrids/qflaunch.dat
+  285  ./main atom ./hybrids/qflaunch.dat
+  286  grep -i key  ./cf/*
+  287  ./main atom ./hybrids/qflaunch.dat
+  288  ./main atom ./hybrids/qflaunch.dat
+  289  ./main atom ./hybrids/qflaunch.dat
+  290  ./main atom ./hybrids/qflaunch.dat
+  291  ./main atom ./hybrids/qflaunch.dat
+  292  cp tx tx_orig
+  293  i=0; cat ./hybrids/xxx | while read ; do echo $REPLY ; done 
+  294  i=0; cat ./hybrids/xxx | while read ; do echo $REPLY x$i.jpg > tx; i=$[$i +1 ]; cat tx ; done 
+  295  i=0; cat ./hybrids/xxx | while read ; do echo $REPLY x$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfparam.dat ; done 
+  296  i=0; cat ./hybrids/xxx | awk '{print "./pdb/"$1" "$2" "$3" "$4" "| while read ; do echo $REPLY x$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfparam.dat ; done 
+  297  vi txx
+  298  ./main atom ./hybrids/qfmt.dat
+  299  i=0; cat ./hybrids/xxx | while read ; do echo "./pdb/" ".pdb" $REPLY x$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfparam.dat ; done 
+  300  cd e:
+  301  cd new
+  302  cd glutp
+  303  cd glutp
+  304  cd glutp
+  305  cd hybrids/
+  306  history
+  307  history | grep 500 > /dev/clipboard
+  308    508  history | grep 500 > /dev/clipboard
+  309  i=0; cat ./hybrids/xxx | while read ; do echo "./pdb/" ".pdb" $REPLY x$i.jpg > tx; i=$[$i +1 ]; cat tx ; done 
+  310  cd ..
+  311  i=0; cat ./hybrids/xxx | while read ; do echo "./pdb/" ".pdb" $REPLY x$i.jpg > tx; i=$[$i +1 ]; cat tx ; done 
+  312  i=0; cat ./hybrids/xxx | while read ; do echo "./pdb/" ".pdb" $REPLY 10 x$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfparam.dat ; done 
+  313  i=0; cat ./hybrids/xxx | while read ; do echo "./pdb/" ".pdb" $REPLY 10 x$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfparam.dat ; done 
+  314  i=0; cat ./hybrids/xxx | while read ; do echo "./pdb/" ".pdb" $REPLY 10 x$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfparam.dat ; done 
+  315  i=0; cat ./hybrids/xxx | while read ; do echo "./pdb/" ".pdb" $REPLY 10 x$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfparam.dat ; done 
+  316  i=0; cat ./hybrids/xxx | while read ; do echo "./pdb/" ".pdb" $REPLY 10 x$i.jpg > tx; echo $i `cat tx` ; i=$[$i +1 ] ; done 
+  317  cd e:
+  318  cd new
+  319  cd to_
+  320  ls
+  321  cd to_burn/
+  322  ls
+  323  more sent_mail_update.txt 
+  324  more sent_mail_update.txt | grep Sent:
+  325  more sent_mail_update.txt | grep Sent: | more
+  326  more sent_mail_update.txt 
+  327  more sent_mail_update.txt | grep Sent: | more
+  328  more eyewonder_mail_update.txt | grep Sent: | more
+  329  more eyewonder_mail_update_2.txt | grep Sent: | more
+  330  ls
+  331  grep "$" *.txt
+  332  grep "\$" *.txt
+  333  grep "$$" *.txt
+  334  grep '$' *.txt
+  335  grep "\$" *.txt
+  336  cd e:
+  337  cd new
+  338  cd glutp/
+  339  cd glutp/
+  340  cd glutp/
+  341  cd hybrids/
+  342  srecord -s | grep nay| tail
+  343  cat tget/zz* | ./nay_db_driver -v -1 -load - -name 2it5 -format 0 -query ./tget/zzzz2it5 
+  344  cat tget/zz* | ./nay_db_driver -v -1 -load - -name 2it5 -out out0 -format 0 -query ./tget/zzzz2it5 -out out1 -format 1 -query ./tget/zzzz2it5 
+  345  more out0
+  346  more out1
+  347  srecord -s | grep nay| tail
+  348  cat out0 | awk '{print $3}' | sort | uniq -c
+  349  cat out0 | awk '{print $3}' | sort | uniq -c | more
+  350  cat out0 | grep -v 2it5 | more
+  351  cat out0 | awk '{print $3}' | sort | uniq -c | more
+  352  cat out0 | grep -v " 2it5" | awk '{print $1}' | sort | uniq -c | more
+  353  cat out0 | grep -v " 2it5" | awk '{print $1}' | sort | uniq -c | sort -g -r | more
+  354  vi nay.src
+  355  guieditor nay.src 
+  356  for f in 2it5 ; do echo "\-name" $f; done
+  357  for f in 2it5 ; do echo "-name" $f; done
+  358  for f in 2it5 ; do echo "-name" $f "-out" out$f_0 "-format 0 -query ./tget/zzzz$f -out out$f_1 -format 1 -query ./tget/zzzz$f" ; done
+  359  for f in 2it5 ; do echo "-name" $f "-out" out${f}_0 "-format 0 -query ./tget/zzzz$f -out out${f}_1 -format 1 -query ./tget/zzzz$f" ; done
+  360  for f in 2it5 3ci8 1ac4 cd25e 1ezf 1XVL ; do echo "-name" $f "-out" out${f}_0 "-format 0 -query ./tget/zzzz$f -out out${f}_1 -format 1 -query ./tget/zzzz$f" ; done > /dev/clipboard
+  361  vi nay.src
+  362  guieditor nay.src 
+  363  cat tget/zz* | ./nay_db_driver -v -1 -load - -source nay.src
+  364  cat tget/zzzz1e* | ./nay_db_driver -v -1 -load - -source nay.src
+  365  guieditor nay.src 
+  366  cat tget/zz* | ./nay_db_driver -v -1 -load - -source nay.src
+  367  ls 
+  368  make nay_db_driver
+  369  rm nay_db_driver.exe
+  370  make nay_db_driver
+  371  ls *.o
+  372  rm *.o
+  373  make nay_db_driver
+  374  cat tget/zz* | ./nay_db_driver -v -1 -load - -source nay.src
+  375  for f in ` ls out0*`; do cat $f | grep -v " 2it5" | awk '{print $1}' | sort | uniq -c | sort -g -r ; done | more
+  376  for f in ` ls out0*`; do cat $f | grep -v " 2it5" | awk '{print $3}' | sort | uniq -c | sort -g -r ; done | more
+  377  for f in ` ls out0*`; do echo $f ; cat $f | grep -v " 2it5" | awk '{print $3}' | sort | uniq -c | sort -g -r ; done | more
+  378   ls out*
+  379  for f in ` ls out*_0`; do echo $f ; cat $f | grep -v " 2it5" | awk '{print $3}' | sort | uniq -c | sort -g -r ; done | more
+  380  for f in ` ls out*_0`; do echo $f ; echo `cat $f | grep -v " 2it5" | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done | more
+  381  for f in ` ls out*_0`; do echo $f ; echo `cat $f | grep -v " 2it5" | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done  > colled
+  382  more colled
+  383  more tget/zzzz3B5Z
+  384  more colled
+  385  more tget/zzzz2NUU
+  386  more colled
+  387  for f in 2it5 3ci8 1ac4 cd25e 1ezf 1XVL ; do echo "-name" $f "-out" out${f}_0 "-format 0 -query ./tget/zzzz$f -out out${f}_1 -format 1 -query ./tget/zzzz$f" ; done
+  388  ls hi*
+  389  cd ..
+  390  ls hi*
+  391  cd hybrids/
+  392  cat hist11 | tail
+  393  ls hi
+  394  cat hi/hist11
+  395  ls hi
+  396  ls ../hi*
+  397  cd tget/
+  398  eutilsnew -v -out xxxxx -structure "carboxylase"
+  399  echo `more xxxxx|grep "^[0-9]*:" | awk '{print $2}' > carboxylases
+  400  echo `more xxxxx|grep "^[0-9]*:" | awk '{print $2}'` > carboxylases
+  401  for f in `cat carboxylases `; do echo "../pdb/"$f zz$f $f get ; done > pdb_carb_list
+  402  more pdb_carb_list 
+  403  cd ..,
+  404  cd ..
+  405  mv ./tget/pdb_carb_list .
+  406  cat hist11 | tail
+  407  cat hi/hist11 | tail
+  408  ./auto_script pdb_carb_list 
+  409  ls ../pdb
+  410  ls -al ../pdb  | grep May |more
+  411  ls -al ../pdb  | grep "May *6" |more
+  412  ls -al ../pdb  | grep "May *6" |sort -k 8 -g 
+  413  ls -al ../pdb  | grep "May *6" |sed -e 's/:/ /' | sort -k 9 -g 
+  414  rm ../pdb/2V63
+  415  rm ./tget/zzzz2V63
+  416  ls ./tget/zzzz2*
+  417  ls ./tget/zzzz2V*
+  418  for f in 2it5 3ci8 1ac4 cd25e 1ezf 1XVL 2V69 2pC9 2NOP 2PMK ; do echo "-name" $f "-out" out${f}_0 "-format 0 -query ./tget/zzzz$f -out out${f}_1 -format 1 -query ./tget/zzzz$f" ; done
+  419  for f in 2it5 3ci8 1ac4 cd25e 1ezf 1XVL 2V69 2pC9 2NOP 2PMK ; do echo "-name" $f "-out" out${f}_0 "-format 0 -query ./tget/zzzz$f -out out${f}_1 -format 1 -query ./tget/zzzz$f" ; done > nay2.src
+  420  cat tget/zz* | ./nay_db_driver -v -1 -load - -source nay2.src
+  421  make nay_db_driver
+  422  cat tget/zz* | ./nay_db_driver -v -1 -load - -source nay2.src
+  423  cat tget/zz* | sort | ./nay_db_driver -v -1 -load - -source nay2.src
+  424  for f in ` ls out*_0`; do echo $f ; echo `cat $f | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done  > colled
+  425  more colled
+  426  ls out*
+  427  cata out*_0 | more
+  428  cat out*_0 | more
+  429  for f in ` ls out*_0`; do echo $f ; echo `cat $f | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done | more
+  430  for f in ` ls out*_0`; do echo $f ; g=`echo $f|sed -e 's/out\(....\).*/\1/' `;echo `cat $f | grep -v " $g" | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done | more
+  431  for f in ` ls out*_0`; do echo $f ; g=`echo $f|sed -e 's/out\(....\).*/\1/' `;cat $f | grep -v " $g"  ; done | more
+  432  for f in ` ls out*_0`; do echo $f ; g=`echo $f|sed -e 's/out\(....\).*/\1/' `;cat $f | grep -v " $g" | sort -k 3  ; done | more
+  433  for f in ` ls out*_0`; do echo $f ; echo `cat $f | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done | more
+  434  cat out*_0 | grep 2V69 
+  435  for f in ` ls out*_0`; do echo $f ; echo `cat $f | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done | more
+  436  for f in `cat ../pdb/newnames` ; do echo "-name" $f "-out" out${f}_0 "-format 0 -query ./tget/zzzz$f -out out${f}_1 -format 1 -query ./tget/zzzz$f" ; done > nay3.src
+  437  cat nay3.src 
+  438  mkdir ou
+  439  for f in `cat ../pdb/newnames` ; do echo "-name" $f "-out" ./ou/out${f}_0 "-format 0 -query ./tget/zzzz$f -out ./ou/out${f}_1 -format 1 -query ./tget/zzzz$f" ; done > nay3.src
+  440  cat nay3.src 
+  441  cat tget/zz* | sort | ./nay_db_driver -v -1 -load - -source nay3.src
+  442  cd ou
+  443  for f in ` ls out*_0`; do echo $f ; echo `cat $f | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done | more
+  444  for f in ` ls out*_0`; do ; g=`echo $f |sed -e 's/out\(....\).*/\1' `; echo $f `grep -i $g ../../pdb/index` ; echo `cat $f | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done | more
+  445  for f in ` ls out*_0`; do  g=`echo $f |sed -e 's/out\(....\).*/\1' `; echo $f `grep -i $g ../../pdb/index` ; echo `cat $f | awk '{print $3}' | sort | uniq -c | sort -g -r` ; done | more
+  446  cd e:
+  447  cd new
+  448  cd glutp
+  449  cd glutp
+  450  cd glutp
+  451  cd hybrids/
+  452  cd ou
+  453  history
+  454  ls
+  455  ls | grep -v out
+  456  ls -al | grep -v out
+  457  ls -al | grep -v out | grep " 0 May"
+  458  ls -al | grep -v out | grep " 0 May" | grep "^-"
+  459  ls -al | grep -v out | grep " 0 May" | grep "^-" | awk '{print $9}'
+  460  rm `ls -al | grep -v out | grep " 0 May" | grep "^-" | awk '{print $9}' `
+  461  for f in `ls -al | grep -v out | grep " 0 May" | grep "^-" | awk '{print $9}' `; do rm "$f" ; done
+  462  ls -al | grep -v out | grep " 0 May" | grep "^-" | awk '{print $9}'
+  463  ls private
+  464  rm private*
+  465  rm *Original
+  466  rm "*Original"
+  467  ls -al | grep -v out | grep " 0 May" | grep "^-" | awk '{print $9}'
+  468  rm '-----Original'
+  469  rm '\-\-\-\-\-Original'
+  470  rm "\-\-\-\-\-Original*"
+  471  rm \-\-\-\-\-Original*
+  472  ls -al | grep -v out | grep " 0 May" | grep "^-" | awk '{print $9}'
+  473  rm "\-\-\-\-\-"Original*
+  474  rm '-----'Original*
+  475  rm '\-----'Original*
+  476  rm "\-----"Original*
+  477  ls 
+  478  rm *Original*
+  479  rm ./-----Original*
+  480  cd e:
+  481  cd new
+  482  guideditor `which mbackup`
+  483  guieditor `which mbackup`
+  484  ls cd*
+  485  cd cdrw
+  486  ./mkisofs -o ../2008-05-backup.iso -J -R ../to_burn/
+  487  ls
+  488  cd e:
+  489  cd new
+  490  cd glutp/
+  491  cd glutp/
+  492  cd glutp/
+  493  cd cf
+  494  grep -i alpha *
+  495  grep -i blend *
+  496  cd ..
+  497  for f in `cat src_files `; do echo $f ;grep -i alpha $f; done | grep -B 1 -v "^\."/
+  498  ls
+  499  history > hist15
+  500  . srecord
+  501  cd e:
+  502  cd new
+  503  cd glutp
+  504  cd glutp
+  505  cd glutp
+  506  cd hybrids/
+  507  ls
+  508  srecord -s | grep db
+  509  srecord -s | grep db | grep flag
+  510  make nay_db_driver
+  511  make nay_db_driver
+  512  make nay_db_driver
+  513  make nay_db_driver
+  514  srecord -s | grep db | grep flag
+  515  cat ../../tget/z* | sort | ./nay_db_driver =v -1 -flags 0 -load - -name xxxx
+  516  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  517  make nay_db_driver
+  518  make nay_db_driver
+  519  make nay_db_driver
+  520  make nay_db_driver
+  521  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  522  make nay_db_driver
+  523  make nay_db_driver
+  524  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  525  make nay_db_driver
+  526  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  527  cat ../../tget/z* | grep Se
+  528  make nay_db_driver
+  529  make nay_db_driver
+  530  make nay_db_driver
+  531  make nay_db_driver
+  532  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  533  cat ../../tget/z* | wc
+  534  make nay_db_driver
+  535  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  536  make nay_db_driver
+  537  make nay_db_driver
+  538  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  539  make nay_db_driver
+  540  make nay_db_driver
+  541  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  542  make nay_db_driver
+  543  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  544  make nay_db_driver
+  545  make nay_db_driver
+  546  make nay_db_driver
+  547  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  548  make nay_db_driver
+  549  cat ../../tget/z* | sort | ./nay_db_driver -v -1 -flags 0 -load - -name xxxx
+  550  make nay_db_driver
+  551  make nay_db_driver
+  552  make nay_db_driver
+  553  make nay_db_driver
+  554  make nay_db_driver
+  555  make nay_db_driver
+  556  make nay_db_driver
+  557  make nay_db_driver
+  558  make nay_db_driver
+  559  make nay_db_driver
+  560  srecord -s | grep db | grep flag
+  561  srecord -s | grep nay3
+  562  srecord -s | grep nay34
+  563  cat ../../tget/zz* | sort | ./nay_db_driver  -err junk_errors -v -1 -flags 0 -load - -source nay34.src
+  564  cat nay34.src
+  565  cat ../../tget/zz3C1J | sort | ./nay_db_driver  -v -1 -flags 0 -load - -source nay34.src
+  566  head -n 1 nay34.src
+  567  cat ../../tget/zz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -source nay34.src
+  568  cat ../../tget/zz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -source nay34.src
+  569  head -n 1 nay34.src
+  570  cat ../../tget/zz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 2 -auery ../../tgetzzzz1ATG -hits 1
+  571  cat ../../tget/zz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 2 -query ../../tgetzzzz1ATG -hits 1
+  572  cat ../../tget/zz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 2 -query ../../tget/zzzz1ATG -hits 1
+  573  make nay_db_driver
+  574  cat ../../tget/zz1ATG
+  575  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 2 -query ../../tget/zzzz1ATG -hits 1
+  576  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 2 -query ../../tget/zzzz1ATG -hits 1
+  577  make nay_db_driver
+  578  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 2 -query ../../tget/zzzz1ATG -hits 1
+  579  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 2 -query ../../tget/zzzz1ATG -hits 1
+  580  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG -hits 1
+  581  make nay_db_driver
+  582  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 2 -query ../../tget/zzzz1ATG -hits 1
+  583  make nay_db_driver
+  584  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 2 -query ../../tget/zzzz1ATG -hits 1
+  585  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG 
+  586  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG 
+  587  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 2 -query ../../tget/zzzz1ATG -hits 1
+  588  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 1 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG > xxx1
+  589  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG > xxx2
+  590  diff xxx1 xxx2
+  591  more xxx1
+  592  cat ../../tget/zz3C1J | sort | ./nay_db_driver  -v -1 -flags 0 -load - -source nay34.src
+  593  cat ../../tget/zzzz* | sort | ./nay_db_driver  -v -1 -flags 0 -load - -source nay34.src
+  594  make nay_db_driver
+  595  make nay_db_driver
+  596  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG > xxx2
+  597  make nay_db_driver
+  598  make nay_db_driver
+  599  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG > xxx2
+  600  diff xxx1 xxx2
+  601  grep -n e+08 xxx2
+  602  wc xxx2
+  603  make nay_db_driver
+  604  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG > xxx2
+  605  diff xxx1 xxx2
+  606  make nay_db_driver
+  607  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG > xxx2
+  608  diff xxx1 xxx2
+  609  make nay_db_driver
+  610  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG > xxx2
+  611  diff xxx1 xxx2
+  612  make nay_db_driver
+  613  cat ../../tget/zzzz1ATG | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 1ATG -format 1 -query ../../tget/zzzz1ATG > xxx2
+  614  diff xxx1 xxx2
+  615  make nay_db_driver
+  616  cat ../../tget/zzzz* | sort | ./nay_db_driver  -v -1 -flags 0 -load - -source nay34.src
+  617  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src
+  618  srecord -s | grep nay34
+  619  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_3
+  620  wc refined_more_3
+  621  head -n 2000 refined_more_2 > xxx1
+  622  head -n 2000 refined_more_3 > xxx2
+  623  diff xxx1 xxx2
+  624  more xxx1
+  625  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_3
+  626  wc refined_more_2
+  627  head -n 26000 refined_more_3 > xxx2
+  628  head -n 26000 refined_more_2 > xxx1
+  629  diff xxx1 xxx2
+  630  diff xxx1 xxx2 | grep 2NOP
+  631  grep 51.945 ../../tget/zzzz2NOP
+  632  grep 40.831 ../../tget/zzzz1U77
+  633  grep 10.866 ../../tget/zzzz2NQ2
+  634  grep 0.093 ../../tget/zzzz1XFH
+  635  grep 41.054 ../../tget/zzzz1XFH
+  636  grep 51.054 ../../tget/zzzz1XFH
+  637  diff xxx1 xxx2 | grep -v 2zc
+  638  diff xxx1 xxx2 | grep -v 2zc| grep ">"
+  639  grep 59.418 ../../tget/zzzz2EXW
+  640  grep 68.091 ../../tget/zzzz1L7V
+  641  grep 38.465 ../../tget/zzzz2JZN
+  642  grep 38.465 ../../tget/zzzz1VSQ
+  643  grep 13.437 ../../tget/zzzz2HTL
+  644  grep 30.357 ../../tget/zzzz1U77
+  645  diff xxx1 xxx2 | grep -v 2zc
+  646  diff xxx1 xxx2 | grep  2zc
+  647  cat xxx1 xxx2 | grep  2zc
+  648  more refined_more_3
+  649  more refined_more_3 | awk '{print $1" "$5}' | sort | uniq -c | sort -g | more
+  650  more refined_more_3 | awk '{print $1" "$5}' | sort | uniq -c | sort -g | more
+  651  more refined_more_3 | awk '{print $1" "$5}' | sort | uniq -c | sort -g | more
+  652  ls
+  653  ls hi*
+  654  hisotry > hist15
+  655  . srecord
+  656  history > hist15

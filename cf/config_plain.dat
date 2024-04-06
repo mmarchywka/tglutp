@@ -1,0 +1,19 @@
+DEBUG FAIL
+color_file color.dat
+radius_file radii.dat
+pdb_filex e.pdb
+pdb_fxile a.pdb
+
+
+SCRIPT select,0,hetts,DEF=hetkey stree,0,1+style,1 stree,0,1+substyle,3
+hetkey type=HETATM -residue=HOH
+SCRIPT zoom,500
+
+figure_xparam user_figure_name
+usexr_figure_name probe_radius=1 neighbor_radius=15 center_index=20 center=0,0,0 make_shell=1
+poixnt_list_param pl_parameters
+pl_xparameters neighbor_radius=15 probe_radius=1 grid_space=.21 shell_thickness=.3 safety_radius=3
+SCRIxPT stree,0+style,1 stree,0+substyle,1 zoom,500 move,-200,-150
+SCRIxPT zoom,200 rotcen,62,38,20
+SCRIxPT energy,0,start=65+40+20,target=2.5,ds=.2,dy=.2,points_i=100,points_j=100,imax=200
+SCRIxPT stree,2+dia,.2

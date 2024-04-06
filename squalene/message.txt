@@ -1,0 +1,86 @@
+
+> Date: Wed, 2 Apr 2008 10:52:07 +0200
+> From: markii@came.sbg.ac.at
+> To: bbb@bioinformatics.org
+> Subject: Re: [BiO BB] TopMatch protein structure alignment and superposition web service
+>
+> Hi Mike,
+>
+> thanks for pointing to this interesting test case.
+>
+> Indeed, the structural similarity of dehydrosqualene synthase (PDB codes: 2zco, 2zcp, 2zcq, 2zcr, 2czs) 
+and humane squalene synthase (PDB codes 1ezf) is striking in the view of their low sequence identity. TopMatch-web yields an RMS of 3.5A and a sequence identity of 11% if the respective chains A are compared.
+>
+> Talking about finding such similarities: one tool that is really helpful for this task is the qCOPS web service (some advertising again ;-) at
+> http://navi.services.came.sbg.ac.at/bin/qCOPS.html
+>
+> For each protein deposited in PDB, you can easily explore its structural neighborhood and visualize structural similarities with TopMatch.
+> If you try with the example you mentioned, you find the dehydrosqualene synthase structures assigned to be similar to 1ezf.
+>
+> For further information on qCOPS, see
+> Sippl et al.
+> A Discrete View on Fold Space
+> Bioinformatics, 24, pp. 870-871 (2008)
+> (Open Access: http://bioinformatics.oxfordjournals.org/cgi/reprint/btn020?ijkey=7zgnEsdKQIEfrN7&keytype=ref)
+>
+> Best regards,
+
+
+,/main atom ./cf/config_plain.dat -pdb_file =./pdbs/gthgth.pdb
+./main a.pdb
+./main atom -config config_quick.dat -pdb_file 2it5.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdb/2AQ2.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdb/2FYY.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdb/2it5.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdb/ammonia.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdb/ammonia.pdb 
+./main atom ./cf/config_plain.dat -pdb_file =./pdb/glu2r.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdb/glur2.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdb/tb2.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdb_2it5.pdb
+./main atom ./cf/config_plain.dat -pdb_file =./pdbs/gthgth.pdb
+./main atom ./cf/config_quick.dat -pdb_file -./pdb/2it5.pdb
+./main atom ./cf/config_quick.dat -pdb_file =./pdb/2it5.pdb
+./main atom ./cf/config_quicks.dat -pdb_file =./pdb/2it5.pdb
+./main atom ./cf/config_quicks.dat -pdb_file =./pdb/2it5.pdbC
+./main atom ./cf/config_quicks.dat -pdb_file =./pdb/2it5.pdbCB
+./main atom ./cf/config_quicks.dat -pdb_file =./pdb/ampa.pdb
+./main atom ./cf/config_quicks.dat -pdb_file =./pdb/tb2.pdb
+./main atom ./cf/config_quickss.dat -pdb_file =./pdb/2it5.pdb
+./main atom ./cf/config_quickss.dat -pdb_file =./pdb/ampa.pdb
+./main atom ./cf/config_quickss.dat -pdb_file =./pdb/ampa.pdb\
+./main atom ./cf/config_quickss.dat -pdb_file =./pdb/b.pdb
+./main atom ./cf/config_quickss.dat -pdb_file =./pdbs/gthgth.pdb
+./main atom ./cf/config_script.dat  -pdb_file =./2esv.pdb
+./main atom ./cf/config_script.dat  -pdb_file =./pdb/2dqu.pdb
+./main atom ./cf/config_script.dat -pdb_file =./2esv.pd
+./main atom ./cf/config_script.dat -pdb_file =./2esv.pdb 
+./main atom ./cf/config_script.dat -pdb_file =./pdb/1R5W.pd0 map_name=Hphob.Parker
+./main atom ./cf/config_script.dat -pdb_file =./pdb/1R5W.pdb
+./main atom ./cf/config_script.dat -pdb_file =./pdb/1ac4.pdb
+./main atom ./cf/config_script.dat -pdb_file =./pdb/2c05.pdb
+./main atom ./cf/config_script.dat -pdb_file =./pdb/2dqu.pdb
+./main atom ./cf/config_script.dat -pdb_file =./pdb/ampa.pdb
+./main atom config_quick.dat -pdb_file 2it5.pdb
+./main atom config_quick.dat -pdb_file =./pdb/2it5.pdb
+./main atom config_quick.dat -pdb_file =2it5.pdb
+./main atom config_quick.dat -pdb_file=2it5.pdb
+./main atom radii.dat a.pdb color.dat
+./main atom radii.dat a.pdb color.dat "2 6 750"
+./main atom radii.dat c.pdb color.dat
+./main atom radii.dat c.pdb color.dat "2 6 1638"
+./main atom radii.dat c.pdb color.dat "2 6 1644"
+./main atom radii.dat tb.pdb color.dat "2 6 6061"
+./main atom radii.dat tbfx.pdb color.dat "2 6 -1 75 -14 -60"
+./main atom tb2.pdb
+./main data radii.dat a.pdb color.dat
+./main poly radii.dat a.pdb color.dat
+./main radii.dat a.pdb
+./main radii.dat a.pdb color.dat
+./main radii.dat a.pdbx color.dat
+./main tess radii.dat a.pdb color.dat
+586* ./main atom ./cf/config_quickss.dat -pdb_file =./pdb/ampa.pdbvtr
+cat b.pdb | grep -v " b " | ./main atom radii.dat - color.dat
+srecord -s | grep "/main" | grep "b.pdb"
+srecord -s | grep "/main" | grep "c.pdb"
+srecord -s | grep main | grep pdb

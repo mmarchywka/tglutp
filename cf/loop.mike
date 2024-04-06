@@ -1,0 +1,129 @@
+# 2024 
+color_file color.dat
+radius_file radii.dat
+# test code
+$sub theloop
+$let i 0
+label1:
+$echo 2+2
+$let i $i+1
+$if i<10 label1
+$end
+# demo the center and zoom capability
+$sub center
+label1:
+screen bounds=x
+$let marginh $screenheight-100
+$let marginw $screenwidth-100
+$let dy (0-$x[0]-$x[2]+$screenheight)/4
+$let dx (0-$x[1]-$x[3]+$screenwidth)/4
+$echo $dx
+$echo $dy
+move $dx $dy
+$let sm 0
+$if label2 ($x[0]-$x[2])>$marginh
+$if label2 ($x[1]-$x[3])>$marginw
+$let sm 1
+zoom 100
+label2:
+$if label3 (($x[0]-$x[2])<($marginh+30))&(($x[1]-$x[3])<($marginw+30))
+$let sm 1
+zoom -62
+label3:
+$if label1 ($dx >10 )|($dx<-10)|($dy>10)|($dy<-10)
+$if label1 $sm
+prop 0 centroid=a
+rotcen $a[0] $a[1] $a[2]
+$end
+#set rotation center
+$sub rott
+prop 0 centroid=a
+rotcen $a[0] $a[1] $a[2]
+$end
+# look at various things
+$sub zzclip dummx dummy zparam
+stree 0 0>hide 0
+stree 0 0<hide 0
+stree 0 0+style 1
+stree 0 0+substyle 1
+stree +clip 0 0 1 $zparam
+$end
+$sub sulfur
+prop 0 selected=brimstone segment_count=0 element=S
+$stream zzclip brimstone
+$end
+$sub confinez
+loopz:
+update
+screen zstats=x
+$let xzed $xmin*($farplane-$nearplane)+$nearplane
+$let xini $xmax*($farplane-$nearplane)+$nearplane
+$if skipnear $xmin<.3 
+$let near $nearplane+($farplane-$nearplane)*$xmin/5
+near $near
+$call center
+$if loopz 1
+skipnear:
+#screen bounds=z
+#$if alldun (($z[0]=0)&($z[1]=0)&($z[2]=$screenheight)|($z[3]=$screenwidth))
+far $farplane
+$if exit $xmax>.8
+$let farplane $farplane-($farplane-$nearplane)/5
+far $farplane
+$if loopz 1
+exit:
+$end
+
+$sub serialsections
+$call center
+$call confinez
+stree 0+style 1
+stree 0+substyle 1
+update
+$let endd $farplane
+loop:
+$let farplane $nearplane+1
+far $farplane
+near $nearplane
+$if exxit $nearplane>$endd
+$let nearplane $nearplane+1
+#$if loop 1
+exxit:
+dump
+$end
+
+$sub planes
+stree 0+style 1
+stree 0+substyle 1
+$let near 3250
+labelx:
+near $near
+$call center
+screen zstats=a
+$if labely $a[0]>0
+# this is fine until whole thing disappears...
+# center then loops
+$let near $near*1+10
+$if labelx 1
+labely:
+$let near $near-0
+near $near
+$call center
+$let nearend $near
+$let i 0
+slice:
+near $near
+$let far $near+2
+far $far
+$call center
+screen bounds=z
+$if alldun ($i>50)&(($z[0]=0)&($z[1]=0)&($z[2]=$screenheight)|($z[3]=$screenwidth))
+$let i $i+1
+$let near $near+1
+$if slice $i<100
+alldun:
+near $nearend
+far 10000
+$end
+#$call confinez
+#$stream zzclip brimstone

@@ -1,0 +1,20 @@
+DEBUG
+color_file colbr.dat
+radius_file radii.dat
+# This is needed to load the color and radius files.. 
+pdbx_file ./pdb/2it5.pdb
+SCRIPT loado,./pdb/2it5.pdb
+SCRIPT loado,./pdb/2aq2.pdb
+SCRIPT zoom,500
+SCRIPT stree,1>hide,1
+SCRIPT stree,0>hide,1
+SCRIPT select,1,atm,segment_count=0,selradius=5,origin=-1.5+32-7.32
+SCRIPT stree,0,2<hide,0
+SCRIPT select,0,atm,segment_count=0,selradius=5,origin=+0.5+34+4.8
+SCRIPT stree,0,3<hide,0
+SCRIPT stree,0,2>tint,.25,.25,.25,1
+SCRIPT stree,0,3>tint,+.1,-.1,.-1,1
+SCRIPT modify,2,move=-10-10+20
+SCRIPT modify,3,move=-20-20-20
+SCRIPT stree,0+style,1
+SCRIPT stree,0+substyle,3

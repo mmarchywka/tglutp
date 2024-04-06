@@ -1,0 +1,500 @@
+   45  grep -i blend *
+   46  cd ..
+   47  for f in `cat src_files `; do echo $f ;grep -i alpha $f; done | grep -B 1 -v "^\."/
+   48  ls
+   49  history > hist15
+   50  . srecord
+   51  cd c:
+   52  cd MyDocs/
+   53  ls ma*
+   54  wget -O mac_address.txt -S -v "http://standards.ieee.org/regauth/oui/oui.txt"
+   55  . srecord
+   56  ping alleydog
+   57  ping ashleigh
+   58  ping alleydog
+   59  ls \\\\alleydog
+   60  cd e:
+   61  cd new
+   62  cd glutp
+   63  cd glutp
+   64  cd glutp
+   65  make
+   66  make
+   67  ls hi*
+   68  cat hist22
+   69  cat hist22 | grep stuff
+   70  stuff=2zcp
+   71  stuff2=1ezf
+   72  cat hist22 | grep stuff| grep 520 > /dev/clipboard
+   73  i=0; cat ./hybrids/squals | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 mm$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   74  make
+   75  i=0; cat ./hybrids/squals | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 mm$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   76  make
+   77  make
+   78  i=0; cat ./hybrids/squals | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 mm$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   79  ipfconfig /all
+   80  ipconfig /all
+   81  date
+   82  i=0; cat ./hybrids/refined_more_3 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 mm$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   83  echo $stuff $stuff
+   84  stuff2=1VCI
+   85  i=0; cat ./hybrids/refined_more_3 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 mm$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   86  i=0; cat ./hybrids/refined_more_3 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   87  ls *.jpg
+   88  fastanote -ek aa0.jpg
+   89  stuff2=1Q1E
+   90  stuff=2NUU
+   91  i=0; cat ./hybrids/refined_more_3 | sort |grep $stuff |grep $stuff2 | tail -n 15 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   92  stuff2=2zcp
+   93  stuff=.
+   94  i=0; cat ./hybrids/refined_more_3 | sort |grep $stuff |grep $stuff2 | tail -n 15 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   95  stuff=1TLY
+   96  stuff2=2HLF
+   97  i=0; cat ./hybrids/refined_more_3 | sort |grep $stuff |grep $stuff2 | tail -n 15 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   98  i=0; cat ./hybrids/refined_more_3 | sort |grep $stuff |grep $stuff2 | tail -n 15 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+   99  quit
+  100  ls
+  101  ls hi*
+  102  history > hist23
+  103  . srecord
+  104  cd e:
+  105  cd new
+  106  cd glutp
+  107  cd glutp
+  108  cd glutp
+  109  cd hybrids/
+  110  ls hi*
+  111  tail hist14
+  112  tail hi/hist14
+  113  cat hi/hist14
+  114  ls hi/
+  115  ls hi*
+  116  cat hist15
+  117  make nay_db_driver
+  118  make nay_db_driver
+  119  make nay_db_driver
+  120  cat hist15
+  121  cat hist15 | grep 619
+  122  cat hist15 | grep 619 > /dev/clipboard
+  123  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_4
+  124  wc refined_more_4
+  125  head -n 6900 > xxx2
+  126  head -n 6900 more_refined_4 > xxx2
+  127  head -n 6900 refined_more_4 > xxx2
+  128  head -n 6900 refined_more_3 > xxx1
+  129  diff xxx1 xxx2
+  130  make nay_db_driver
+  131  make nay_db_driver
+  132  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_4
+  133  wc refined_more_4
+  134  head -n 4160 refined_more_3 > xxx1
+  135  head -n 4160 refined_more_4 > xxx2
+  136  diff xxx1 xxx2
+  137  make nay_db_driver
+  138  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_4
+  139  wc refined_more_4
+  140  head -n 2500 refined_more_4 > xxx2
+  141  head -n 2500 refined_more_3 > xxx1
+  142  diff xxx1 xxx2
+  143  make nay_db_driver
+  144  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_4
+  145  wc refined_more_4
+  146  head -n 4900 refined_more_4 > xxx2
+  147  head -n 4900 refined_more_3 > xxx1
+  148  diff xxx1 xxx2
+  149  make nay_db_driver
+  150  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_4
+  151  wc refined_more_4
+  152  head -n 3850 refined_more_3 > xxx1
+  153  head -n 3850 refined_more_4 > xxx2
+  154  diff xxx1 xxx2
+  155  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_4
+  156  wc refined_more_4
+  157  head -n 6220 refined_more_3 > xxx1
+  158  head -n 6220 refined_more_4 > xxx2
+  159  diff xxx1 xxx2
+  160  more db_lin_err
+  161  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_4
+  162  make nay_db_driver
+  163  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -source nay34.src > refined_more_4
+  164  tail db_lin_err 
+  165  tail -n 100 db_lin_err 
+  166  grep open db_lin_err 
+  167  more ../../tget/zzzz2ZGW
+  168  tail nay34.src 
+  169  grep -A 2 -B 2 2ZGW nay34.src 
+  170  more ../../tget/zzzz2ZGW
+  171  tail nay34.src 
+  172  cat ../../tget/zzzz* | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 2GZW -format 2 -query ../../tget/zzzz2GZW -hits 5
+  173  grep -A 2 -B 2 2ZGW nay34.src 
+  174  grep -A 2 open db_lin_err | tail
+  175  cat ../../tget/zzzz* | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 2GZW -format 2 -query ../../tget/zzzz2ZGW -hits 5
+  176  more ../../tget/zzzz3B5d
+  177  more ../../tget/zzzz3B5D
+  178  make nay_db_driver
+  179  make nay_db_driver
+  180  cat ../../tget/zzzz2Z* | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 2GZW -format 2 -query ../../tget/zzz -hits 5
+  181  cat ../../tget/zzzz2Z* | sort | ./nay_db_driver  -v -1 -flags 0 -load - -name 2GZW -format 2 -continue -query ../../tget/zzz -hits 5
+  182  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -source nay34.src > refined_more_4c
+  183  wc ref*
+  184  ls -al ref*
+  185  head -n 47230 refined_more_3 > xxx1
+  186  head -n 47230 refined_more_4c > xxx2
+  187  diff xxx1 xxx2
+  188  more refined_mored_4c
+  189  more refined_more_4c
+  190  more refined_more_4c | awk '{print $1" "$5}' | sort | uniq -c | sort -r -g | more
+  191  more refined_more_4c | awk '{print $1}' | sort | uniq -c
+  192  more refined_more_4c | awk '{print $1}' | sort | uniq -c | wc
+  193  more refined_more_4c | awk '{print $1}' | sort | uniq -c | sort -g -r | more
+  194  more refined_more_4c | awk '{print $1}' | sort | uniq -c | sort -g -r |  awk '{print $1}' | uniq -c | more
+  195  cat nay34.src | sed -e 's/hits 5/hits 20'
+  196  cat nay34.src | sed -e 's/hits 5/hits 20/'
+  197  cat nay34.src | sed -e 's/hits 5/hits 20/' > nay342.src
+  198  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -source nay342.src > refined_more_4c20
+  199  cat nay34.src | sed -e 's/hits 5/hits 10/' > nay342.src
+  200  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -source nay342.src > refined_more_4c10
+  201  wc refined_more_4c10
+  202  wc refined_more_4c
+  203  cat nay34.src | sed -e 's/hits 5/hits 15/' > nay342.src
+  204  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -source nay342.src > refined_more_4c10
+  205  cat nay34.src | sed -e 's/hits 5/hits 18/' > nay342.src
+  206  cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -source nay342.src > refined_more_4c18
+  207  ls ref*
+  208  ls refined_more_4c*
+  209  rm refined_more_4c*
+  210  history
+  211  vi ref_some
+  212  chmod 777 ref_some 
+  213  ./ref_some
+  214  ls refined_more4c30
+  215  ls refined_more_4c30
+  216  ls -al refined_more_4c*
+  217  rm refined_more_4c30
+  218  rm refined_more_4c20
+  219  whois 88.65.189.124
+  220  ls hi*
+  221  mv hist15 hi/hist15
+  222  history > hi/hist16
+  223  . srecord
+  224  cd c:
+  225  cd mydocs
+  226  cd backedup_reprints/
+  227  mkdir ../br_text
+  228  ls *.txt
+  229  ls -al *.pdf
+  230  ls -al *.pdf > ../br_text/pdf_dir_list
+  231  pdftotexpublic
+  232  srecord -s | grep pdf | grep public
+  233  srecord -s | grep pdf | grep text
+  234  pdftotext
+  235  pdftotextpublic
+  236  ls -1 *.pdf  > pdf_list
+  237  ls *.txt
+  238  for f in `head -n 1 pdf_list `; do pdftotextpublic -public -layout -raw $f; done
+  239  ls *.txt
+  240  for f in `head -n 1 pdf_list `; do pdftotextpublic -public -layout -raw $f;mv *.txt ../br_text/ ; done
+  241  ls ../br_text/
+  242  for f in `cat pdf_list `; do echo $f; pdftotextpublic -public -layout -raw $f;mv *.txt ../br_text/ ; done
+  243  cat pdf_list | while read ; do ; $f=$REPLY; echo $f; pdftotextpublic -public -layout -raw "$f" ; mv *.txt ../br_text/ ; done
+  244  cat pdf_list | while read ; do  $f=$REPLY; echo $f; pdftotextpublic -public -layout -raw "$f" ; mv *.txt ../br_text/ ; done
+  245  . pathclip
+  246  ls -al
+  247  whoami
+  248  chown Administrator *
+  249  whoami
+  250  ls -al
+  251  . srecord
+  252  cd e:
+  253  cd new
+  254  cd glutp
+  255  cd glutp
+  256  cd glutp
+  257  cd hybrids/
+  258  guieditor `which srecord`
+  259  ls hi*
+  260  cat hist16
+  261  cat hi/hist16
+  262  cat ref_some
+  263  vi ref_some
+  264  ./ref_some
+  265  grep S ../../tget/zzzz3B62
+  266  grep C ../../tget/zzzz3B62 | head -n 2
+  267  grep 7.253  ../../tget/zzzz3B62 | head -n 2
+  268  grep 7.453  ../../tget/zzzz3B62 | head -n 2
+  269  more  ../../tget/zzzz3B62 
+  270  more  ../../tget/zzzz2NPK
+  271  grep 16.246  ../../tget/zzzz2NUU
+  272  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c
+  273  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c | sort -g -r | more
+  274  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c | sort -g -r | more | grep -v 3B6
+  275  ls pdb/i*
+  276  ls ../pdb/i*
+  277  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6`
+  278  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6| sed -e 's/$/\\|/g'`
+  279  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6| sed -e 's/$/\\\|/g'`
+  280  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6| sed -e 's/$/\\\|/g'` | sed -e 's/ //g'
+  281  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6| sed -e 's/$/\\\|/g'` | sed -e 's/ //g' > lut
+  282  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c | sort -g -r | more | grep -v 3B6
+  283  grep `cat lut` ../pdb/i*
+  284  grep `cat lut` ../pdb/ind*
+  285  cat lut
+  286  grep `head -n 1 lut` ../pdb/ind*
+  287  echo`head -n 1 lut`
+  288  echo `head -n 1 lut`
+  289  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6` | sed -e 's/ /\\\|/g' > lut
+  290  cat lut
+  291  grep `head -n 1 lut` ../pdb/ind*
+  292  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c | sort -g -r | more | grep -v 3B6
+  293  cat refined_more_4c60 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more | grep -v 3B6
+  294  grep `head -n 1 lut` ../pdb/ind*
+  295  cat refined_more_4c60 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more | grep -v 3B6 | grep -v 2NUU
+  296  cat refined_more_4c60 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more | grep -v 3B6 | grep  2NUU
+  297  grep `head -n 1 lut` ../pdb/ind*
+  298  cp ref_some ref_some_noc
+  299  vi ref_some_noc 
+  300  ./ref_some_noc
+  301  cat ref_some_noc
+  302  vi ref_some_noc 
+  303  ./ref_some_noc
+  304  cat refined_more_4noc10 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more 
+  305  vi ref_some_noc 
+  306  ./ref_some_noc
+  307  ls refined_more_4noc*
+  308  wc refined_more_4noc*
+  309  cat refined_more_4noc10 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more 
+  310  wc refined_more_4noc*
+  311  wc refined_more_4noc* | sort -g -r
+  312  cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | more 
+  313  cat refined_more_4noc8 | grep "2QJU"|grep "2QB4"
+  314  grep 20.038 ../pdb/2QJU 
+  315  grep 24.016 ../pdb/2QB4
+  316  grep "A 202"  ../pdb/2QB4
+  317  grep "A 202"  ../pdb/2QJU
+  318  grep "A 209"  ../pdb/2QB4
+  319  grep "A 200"  ../pdb/2QJU
+  320  grep "A 200"  ../pdb/2QB4
+  321  grep "A 199"  ../pdb/2QB4
+  322  grep "A 199"  ../pdb/2QJU
+  323  cat refined_more_4noc10 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more 
+  324  cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | more 
+  325  thelist=`cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | awk '{print $2" "$3"}'`
+  326  thelist=`cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | awk '{print $2" "$3}'`
+  327  for f in $thelist`; do grep $f ../pdb/index; done
+  328  for f in $thelist; do grep $f ../pdb/index; done| more
+  329  cd e:
+  330  cd new
+  331  cd glutp
+  332  cd glutp
+  333  cd glutp
+  334  cd hybrids/
+  335  guieditor `which srecord`
+  336  ls hi*
+  337  cat hist16
+  338  cat hi/hist16
+  339  cat ref_some
+  340  vi ref_some
+  341  ./ref_some
+  342  grep S ../../tget/zzzz3B62
+  343  grep C ../../tget/zzzz3B62 | head -n 2
+  344  grep 7.253  ../../tget/zzzz3B62 | head -n 2
+  345  grep 7.453  ../../tget/zzzz3B62 | head -n 2
+  346  more  ../../tget/zzzz3B62 
+  347  more  ../../tget/zzzz2NPK
+  348  grep 16.246  ../../tget/zzzz2NUU
+  349  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c
+  350  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c | sort -g -r | more
+  351  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c | sort -g -r | more | grep -v 3B6
+  352  ls pdb/i*
+  353  ls ../pdb/i*
+  354  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6`
+  355  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6| sed -e 's/$/\\|/g'`
+  356  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6| sed -e 's/$/\\\|/g'`
+  357  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6| sed -e 's/$/\\\|/g'` | sed -e 's/ //g'
+  358  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6| sed -e 's/$/\\\|/g'` | sed -e 's/ //g' > lut
+  359  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c | sort -g -r | more | grep -v 3B6
+  360  grep `cat lut` ../pdb/i*
+  361  grep `cat lut` ../pdb/ind*
+  362  cat lut
+  363  grep `head -n 1 lut` ../pdb/ind*
+  364  echo`head -n 1 lut`
+  365  echo `head -n 1 lut`
+  366  echo `cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq  | grep -v 3B6` | sed -e 's/ /\\\|/g' > lut
+  367  cat lut
+  368  grep `head -n 1 lut` ../pdb/ind*
+  369  cat refined_more_4c60 | awk '{print $1" "$5}' | sort | uniq -c | sort -g -r | more | grep -v 3B6
+  370  cat refined_more_4c60 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more | grep -v 3B6
+  371  grep `head -n 1 lut` ../pdb/ind*
+  372  cat refined_more_4c60 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more | grep -v 3B6 | grep -v 2NUU
+  373  cat refined_more_4c60 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more | grep -v 3B6 | grep  2NUU
+  374  grep `head -n 1 lut` ../pdb/ind*
+  375  cp ref_some ref_some_noc
+  376  vi ref_some_noc 
+  377  ./ref_some_noc
+  378  cat ref_some_noc
+  379  vi ref_some_noc 
+  380  ./ref_some_noc
+  381  cat refined_more_4noc10 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more 
+  382  vi ref_some_noc 
+  383  ./ref_some_noc
+  384  ls refined_more_4noc*
+  385  wc refined_more_4noc*
+  386  cat refined_more_4noc10 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more 
+  387  wc refined_more_4noc*
+  388  wc refined_more_4noc* | sort -g -r
+  389  cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | more 
+  390  cat refined_more_4noc8 | grep "2QJU"|grep "2QB4"
+  391  grep 20.038 ../pdb/2QJU 
+  392  grep 24.016 ../pdb/2QB4
+  393  grep "A 202"  ../pdb/2QB4
+  394  grep "A 202"  ../pdb/2QJU
+  395  grep "A 209"  ../pdb/2QB4
+  396  grep "A 200"  ../pdb/2QJU
+  397  grep "A 200"  ../pdb/2QB4
+  398  grep "A 199"  ../pdb/2QB4
+  399  grep "A 199"  ../pdb/2QJU
+  400  cat refined_more_4noc10 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g -r | more 
+  401  cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | more 
+  402  thelist=`cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | awk '{print $2" "$3"}'`
+  403  thelist=`cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | awk '{print $2" "$3}'`
+  404  for f in $thelist`; do grep $f ../pdb/index; done
+  405  for f in $thelist; do grep $f ../pdb/index; done| more
+  406  cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | head -n 20
+  407  grep 49.16 ../pdb/1PW4
+  408  grep 25.49 ../pdb/2NPC
+  409  grep 25.49 ../../tget/zzzz2NPC
+  410  grep 25.49 ../pdb/2
+  411  grep 49.16 ../../tget/zzzz1PW4
+  412  cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | sort | uniq -c | sort -g  | head -n 30|tail -n 10
+  413  grep "1U77\|1XQF" ../pdb/index 
+  414  cat refined_more_4noc8 | grep 1U77 | wc
+  415  cat refined_more_4noc8 | awk '{if ($1<$5) {print $1" "$5}else {print $5" "$1 }}' | grep 1U77 | sort | uniq
+  416  grep "1U77\|1XQF\|2NPG" ../pdb/index 
+  417  grep "1U77\|1XQF\|2NPG\|3C1I\|1U7C" ../pdb/index 
+  418  grep "1U77\|1XQF\|2NPG\|3C1I\|1U7C" refined_more_4noc8 | wc
+  419  ls hi
+  420  history > hist17
+  421  . srecord
+  422  mv hist17 hi/
+  423  ls hi*
+  424  cd e:
+  425  cd new
+  426  cd glutp/
+  427  cd glutp/
+  428  cd glutp/
+  429  ls pdb
+  430  diff dpb/3b61 3b62
+  431  diff pdb/3b61 pdb/3b62
+  432  diff pdb/3b61 pdb/3b6 | grep 300
+  433  diff pdb/3b61 pdb/3b62 | grep 300
+  434  more pdb/3b61 pdb/3b62
+  435  diff pdb/3b61 pdb/3b62 | grep MET
+  436  diff pdb/3b61 pdb/3b62 | grep MET| sed -e 's/      / /'
+  437  grep MET pdb/3b61 pdb/3b62 | sed -e 's/      / /'
+  438  grep MET pdb/3b61 pdb/3b62 | grep ATOM |  sed -e 's/      / /'
+  439  grep MET pdb/3b61 pdb/3b62 | grep ATOM |  sed -e 's/    / /g'
+  440  ls -al pdb |wc
+  441  more .pdb/2NUU
+  442  more pdb/2NUU
+  443  head pdb/2NUU
+  444  head pdb/2NPK
+  445  head pdb/2JZN
+  446  head pdb/1VSQ
+  447  more pdb/3B61
+  448  grep 10.871 pdb/3B62
+  449  grep 23.094  pdb/3B62
+  450  grep 42.561  pdb/2NPK
+  451  grep CYS  pdb/2NPK
+  452  grep 5.072  pdb/3B62
+  453  grep 74.088  pdb/3B61
+  454  grep CYS  pdb/3B62
+  455  grep CYS  pdb/3B61
+  456  grep CYS  pdb/3B61 | grep ATOM
+  457  grep 5.072  pdb/3B62
+  458  grep 74.088  pdb/3B61
+  459  grep CYS  pdb/3B62 | grep ATOM
+  460  more  pdb/2NUU
+  461  more ../tget/2NUU
+  462  more ../tget/zzzz2NUU
+  463  more ../tget/zzzz2NUU | wc
+  464  more ../tget/zzzz3B61 | wc
+  465  more ../tget/zzzz2NUU| grep "[ABD-Z] " | more
+  466  more ../tget/zzzz3B61| grep "[ABD-Z] " | more
+  467  more ../tget/zzzz3B61| wc
+  468  ls hi*
+  469  cat hist24
+  470  cat hist24 | grep 494
+  471  cat hist24 | grep 494 > /dev/clipboard
+  472   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 15 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  473  stuff=2QJU
+  474  stuff2=2QB4
+  475   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 15 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  476   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  477   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  478  ls -al leusert.bmp 
+  479  fastanote -ek leusert.bmp 
+  480   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  481  fastanote -ek leu2.bmp 
+  482   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  483  stuff2=2QI9
+  484  stuff=1N2Z
+  485   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  486  stuff=1NPW4
+  487  stuff2=2NPC
+  488   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  489  stuff=1PW4
+  490   i=0; cat ./hybrids/refined_more_4noc8 | sort |grep $stuff |grep $stuff2 | tail -n 1 | while read ; do echo "./pdb/" ".pdb" $REPLY 10 aa$i.jpg > tx; i=$[$i +1 ]; ./main atom ./hybrids/qfolay.dat DEBUG -height 512 -width 668 ; done
+  491  ls hi*
+  492  ls hi/
+  493  mkdir hi
+  494  ls hi*
+  495  mv his* hi
+  496  history > hi/hist25
+  497  . srecord
+  498  cd e:
+  499  cd new
+  500  cd glutp
+  501  cd glutp
+  502  cd glutp
+  503  cd hybrids/
+  504  make pdb_proc
+  505  cat auto_script
+  506  cat g*.src
+  507  vi auto_script
+  508  cat auto_script | grep proc
+  509  cat auto_script | grep proc | grep atom
+  510  cat auto_script | grep proc | grep atom > /dev/clipboard
+  511  # ./pdb_proc -source g1.src -pdb $fn atomxlate 2 -source generic.src -v 1 -out "$TDEST" -pfx "$pfx" -source g2db.src
+  512  ./pdb_proc -source g1.src ../pdb/1ezf $fn atomxlate 2 -source generic.src -v 1  -pfx "$pfx" -source g2db.src
+  513  ./pdb_proc -source g1.src -pdb ../pdb/1ezf  -atomxlate 2 -source generic.src -v 1  -pfx "$pfx" -source g2db.src
+  514  pfx=1ezf; ./pdb_proc -source g1.src -pdb ../pdb/$pfx  -atomxlate 2 -source generic.src -v 1  -out aa$pfx -pfx "$pfx" -source g2db.src
+  515  pfx=2zco; ./pdb_proc -source g1.src -pdb ../pdb/$pfx  -atomxlate 2 -source generic.src -v 1  -out aa$pfx -pfx "$pfx" -source g2db.src
+  516  ls aa*
+  517  ls hi
+  518  cat hist19
+  519  cat hi/hist19
+  520  cat hi/hist19 | grep 643
+  521  cat hi/hist19 | grep 643 > /dev/clipboard
+  522  #   643  cat ../../tget/zzzz2zc* ../../tget/zzzz1ezf | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -name 1ezf  -format 2  -query ../../tget/zzzz1ezf -hits 8  -name 2zco -format 2 -query ../../tget/zzzz2zco -hits 8 > squaliens
+  523  cat aa* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -name 1ezf  -format 2  -query aa1ezf -hits 8  -name 2zco -format 2 -query aa2zco -hits 8 > squaliens
+  524  more squal
+  525  more squaliens 
+  526  cat db_lin_err 
+  527  cat aa* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -name 1ezf  -format 2  -query aa1ezf -hits 0  -name 2zco -format 2 -query aa2zco -hits 0 > squaliens
+  528  more squaliens 
+  529  cat db_lin_err 
+  530  grep "H H" aa*
+  531  grep "C" aa*
+  532  grep "^C" aa*
+  533  grep "^M" aa*
+  534  grep 55.34 ../pdb/2zco
+  535  grep 55.38 ../pdb/2zco
+  536  grep "^C" aa*
+  537  grep "F" aa*
+  538  cat aa* | sort | more
+  539  pfx=2zcp; ./pdb_proc -source g1.src -pdb ../pdb/$pfx  -atomxlate 2 -source generic.src -v 1  -out aa$pfx -pfx "$pfx" -source g2db.src
+  540  pfx=2zcr; ./pdb_proc -source g1.src -pdb ../pdb/$pfx  -atomxlate 2 -source generic.src -v 1  -out aa$pfx -pfx "$pfx" -source g2db.src
+  541  cat aa* | sort | more
+  542  ls
+  543  ls hi
+  544  history > hi/hist20

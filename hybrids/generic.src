@@ -1,0 +1,9 @@
+-add residue HOH
+-add type HETATM
+-add elem H
+-make 0
+-cat 0
+-probe_radius 1.5 
+-visible .5
+-surf 0
+

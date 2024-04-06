@@ -1,0 +1,41 @@
+HEADER    NONAME  7-Apr-07
+TITLE     Produced by http://www.ebi.ac.uk/msd-srv/msdchem on  7-Apr-07
+COMPND    PTR_LFOH 
+AUTHOR    EBI-MSD Generated
+REVDAT   1   7-Apr-07     0
+ATOM      1  N   PTR     0       1.298   0.975   3.302  1.00 20.00           N+0
+ATOM      2  CA  PTR     0      -0.036   0.399   3.512  1.00 20.00           C+0
+ATOM      3  C   PTR     0      -0.148  -0.106   4.928  1.00 20.00           C+0
+ATOM      4  O   PTR     0       0.833  -0.507   5.505  1.00 20.00           O+0
+ATOM      5  OXT PTR     0      -1.339  -0.110   5.546  1.00 20.00           O+0
+ATOM      6  CB  PTR     0      -0.250  -0.760   2.538  1.00 20.00           C+0
+ATOM      7  CG  PTR     0      -0.138  -0.254   1.123  1.00 20.00           C+0
+ATOM      8  CD1 PTR     0       1.089  -0.250   0.487  1.00 20.00           C+0
+ATOM      9  CD2 PTR     0      -1.264   0.198   0.461  1.00 20.00           C+0
+ATOM     10  CE1 PTR     0       1.194   0.212  -0.810  1.00 20.00           C+0
+ATOM     11  CE2 PTR     0      -1.163   0.668  -0.834  1.00 20.00           C+0
+ATOM     12  CZ  PTR     0       0.067   0.673  -1.474  1.00 20.00           C+0
+ATOM     13  OH  PTR     0       0.168   1.129  -2.750  1.00 20.00           O+0
+ATOM     14  P   PTR     0      -0.065  -0.136  -3.717  1.00 20.00           P+0
+ATOM     15  O1P PTR     0      -1.409  -0.705  -3.467  1.00 20.00           O+0
+ATOM     16  O2P PTR     0       0.040   0.334  -5.253  1.00 20.00           O+0
+ATOM     17  O3P PTR     0       1.053  -1.253  -3.419  1.00 20.00           O+0
+CONECT    1    2    0    0    0
+CONECT    2    1    3    6    0
+CONECT    3    2    4    5    0
+CONECT    4    3    0    0    0
+CONECT    5    3    0    0    0
+CONECT    6    2    7    0    0
+CONECT    7    6    8    9    0
+CONECT    8    7   10    0    0
+CONECT    9    7   11    0    0
+CONECT   10    8   12    0    0
+CONECT   11    9   12    0    0
+CONECT   12   10   11   13    0
+CONECT   13   12   14    0    0
+CONECT   14   13   15   16   17
+CONECT   15   14    0    0    0
+CONECT   16   14    0    0    0
+CONECT   17   14    0    0    0
+END
+

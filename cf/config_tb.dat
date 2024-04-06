@@ -1,0 +1,15 @@
+
+DEBUG FAIL
+color_file color.dat
+radius_file radii.dat
+pdb_filxe tbfx.pdb
+pdb_file ./pdb/tb2.pdb
+restrict_input radius=100 center=75,-14,-60 hetok=0
+figure_param user_figure_name
+user_figure_name probe_radius=1 neighbor_radius=90 center_index=-1 center=75,-14,-60
+point_list_param pl_parameters
+pl_parameters neighbor_radius=90 probe_radius=2 grid_space=.5 shell_thickness=1 safety_radius=3
+
+
+
+

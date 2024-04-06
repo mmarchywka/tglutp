@@ -1,0 +1,10 @@
+-v 1
+-flags 8
+-grid 2
+-enclaves 0
+-op clear all
+-add type ATOM
+-add residue HOH
+-make 1
+-list 0
+

@@ -1,0 +1,100 @@
+ far 3299
+ zoom -200
+ near 3200
+ far 3400
+ rotate 0 90 0
+ rotate 0 90 0
+ rot 0 90 0
+ near 3280
+ far 3282
+ slice
+ $echo $near
+ dumpq
+ $dump
+ slice
+ stree 0 4+blend 80
+ stree 0 6+blend 80
+ stree 0 6+blend 69
+ stree 0 4+blend 69
+ stree 0 6+blend 32
+ stree 0 4+blend 32
+ stree 0 4+blend 48
+ stree 0 4+blend 0
+ stree 0 6+blend 0
+ stree 0 6+blend 48
+ stree 0 6+blend 32
+ stree 0 4+blend 80
+ stree 0 4+blend 48
+ stree 0 4+blend 32
+ stree 0 4+blend 0
+ stree 0 4+blend 4
+ stree 0 4+blend 5
+ stree 0 4+blend 56
+ stree 0 4+blend 6
+ stree 0 4+blend 7
+ stree 0 4+blend 32
+ stree 0 4+blend 0
+ stree 0 4+blend 32
+ stree 0 4+blend 4
+ stree 0 6+blend 5
+ stree 0 6+blend 4
+ stree 0 6+blend 0
+ stree 0 4+blend 0
+ stree 0 4+tint 0 0 .8 0
+ stree 0 4+tint .8 0 0 0
+ stree 0 4+tint .8 0 0 -.5
+ stree 0 4+blend 4
+ stree 0 6+blend 4
+ stree 0 4+tint .8 0 0 .5
+ stree 0 4+tint .8 0 0 -.2
+ stree 0 4+tint .8 0 0 -.1
+ stree 0 6+tint 0 0 .8 -.1
+ stree 0+light 7
+ stree 0+light 3
+ near 3200
+ far 3500
+ stree 0 6+tint 0 0 .8 -1
+ stree 0 6+tint 0 0 .8 -.5
+ stree 0 6+tint 0 0 .8 -.2
+ stree 0 6+tint 0 0 .8 .5
+ stree 0 4+tint .8 0 0 .5
+ stree 0 4+tint .8 0 0 -.1
+ stree 0 6+tint 0 0 .8 -.1
+ stree 0 6+tint 0 0 .8 -5
+ stree 0 4+tint .8 0 0 -.5
+ stree 0 4+blend 5
+ stree 0 4+blend 4
+ stree 0 6+tint 0 0 .8 -.5
+ stree 0 4+blend 5
+ stree 0 6+blend 5
+ vtree
+ stree 0 2+hide 1
+ stree 0 3+hide 1
+ near 3100
+ far 4000
+ light
+ stree 0+light 1
+ stree 0+light 7
+ stree 0+light 3
+ stree 0+light 4
+ stree 0+light 1
+ stree 0+light 4
+ stree 0+light 5
+ stree 0+light 1
+ stree 0+light 2
+ stree 0+light 4
+ stree 0+light 1
+ stree 0+light 2
+ stree 0+light 4
+ stree 0+light 6
+ stree 0 2+hide 0
+ stree 0 4+hide 1
+ stree 0 4+hide 0
+ stree 0 6+hide 1
+ zoom -200
+ stree 0 4+hide 0
+ stree 0 6+hide 0
+ modify 6 mx=20
+ move 0 0 
+ history > cmdhist
+ history  cmdhist

@@ -1,0 +1,1274 @@
+ Molecule and Data Viewer - Marchywka with source from various places 
+	http://math.nist.gov/
+ 	http://www.dgp.toronto.edu/~mjmcguff/learn/opengl/ 
+   http://avifile.sourceforge.net/
+   http://www.gnu.org/software/gsl/
+   http://www.expasy.org/cgi-bin/protscale.pl
+	Contact: marchywka@hotmail.com 
+         Supporting scripts available for pdb download and analysis.
+./atom/atom_display.h at 34:Reading config file ./hybrids/qfolay.dat
+Starting glut mainloop
+Scripting: source ./qfolayy.dat...
+Reading from file ./qfolayy.dat
+basic_command_shell.cpp at 279: try to  open tx for input 
+basic_command_shell.cpp at 293: read ./pdb/ to store at pa
+basic_command_shell.cpp at 293: read .pdb to store at ps
+basic_command_shell.cpp at 293: read 1MV5 to store at fn
+basic_command_shell.cpp at 293: read 37.623 to store at xa
+basic_command_shell.cpp at 293: read 48.165 to store at ya
+basic_command_shell.cpp at 293: read 67.978 to store at za
+basic_command_shell.cpp at 293: read 2DHH to store at fm
+basic_command_shell.cpp at 293: read 146.947 to store at xb
+basic_command_shell.cpp at 293: read 91.273 to store at yb
+basic_command_shell.cpp at 293: read 73.124 to store at zb
+basic_command_shell.cpp at 293: read 10 to store at rad
+basic_command_shell.cpp at 293: read x0.jpg to store at fd
+Attempting to load ./pdb/2DHH
+COMPND    Crystal Structure Of A Multidrug Transporter Reveal A       COMPND   2 Functionally Rotating Mechanism                            radius problem with 
+ATOM      8  SD  MET A   1     120.331 111.941  63.687  1.00115.84           S try name as .S.
+pdb_atom 8 radius ATOM      8  SD  MET A   1     120.331 111.941  63.687  1.00115.84           S 0
+Making connection lists
+pdb_chain_maker.h at 111: Bond too long for chain :
+ATOM   3740  N   PHE A 513     117.425 149.492  72.296  1.00117.11           N
+ATOM   3722  C   LYS A 498     114.996 131.639  77.860  1.00112.67           C
+pdb_chain_maker.h at 111: Bond too long for chain :
+ATOM  11514  N   PHE B 513     137.410  69.223  95.180  1.00122.56           N
+ATOM  11496  C   LYS B 498     118.079  74.072  84.939  1.00118.30           C
+pdb_chain_maker.h at 111: Bond too long for chain :
+ATOM  19288  N   PHE C 513      81.995  84.650  30.256  1.00126.83           N
+ATOM  19270  C   LYS C 498      90.197  98.290  42.585  1.00121.76           C
+Done Making bonds 0
+check ing :0 
+Attempting to load ./pdb/1MV5
+COMPND    Crystal Structure Of Lmra Atp-Binding Domain                radius problem with 
+HETATM 7476 MG    MG 1   5       6.309  55.368 105.390  1.00 76.41          Mg try name as .M.
+No color :HETATM 7476 MG    MG 1   5       6.309  55.368 105.390  1.00 76.41          Mg
+radius problem with 
+HETATM 7477 MG    MG 1   6      46.686  29.635  84.316  1.00 36.80          Mg try name as .M.
+radius problem with 
+HETATM 7478  PG  ATP 1   7      30.864  36.986  73.967  1.00 99.18           P try name as .P.
+No color :HETATM 7478  PG  ATP 1   7      30.864  36.986  73.967  1.00 99.18           P
+Making connection lists
+Done Making bonds 0
+ trying to set :hide. and c is >
+ trying to set :hide. and c is >
+ have criteria :1
+ found 198
+ trying to set :hide. and c is <
+ have criteria :1
+ found 215
+ trying to set :hide. and c is <
+ trying to set :light. and c is +
+ have criteria :0
+m_map_name= move={-37.623 -36.165 -67.978} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={-146.947 -103.273 -73.124} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:215 atoms selected
+ trying to set :style. and c is +
+ trying to set :substyle. and c is +
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl label1 tar=2
+../base/../base/basic_context_stack.h at 30:Adding laberl lendd tar=16
+../base/../base/basic_context_stack.h at 30:Adding laberl label2 tar=18
+../base/../base/basic_context_stack.h at 30:Adding laberl label3 tar=21
+center at pc=1 of 26
+ at pc=1 of 1
+screenheight=512.
+screenwidth=512.
+x={ 262 258 249 253}.
+xN=62.
+xp=0.000236511.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 264 259 247 252}.
+xN=105.
+xp=0.000400543.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 267 260 245 250}.
+xN=172.
+xp=0.000656128.
+0.5
+0
+screenheight=512.
+screenwidth=512.
+x={ 270 262 242 249}.
+xN=283.
+xp=0.00107956.
+0.25
+0
+screenheight=512.
+screenwidth=512.
+x={ 274 264 238 247}.
+xN=468.
+xp=0.00178528.
+0.25
+0
+screenheight=512.
+screenwidth=512.
+x={ 280 267 232 244}.
+xN=768.
+xp=0.00292969.
+0.25
+0
+screenheight=512.
+screenwidth=512.
+x={ 287 270 226 240}.
+xN=1279.
+xp=0.004879.
+0.5
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 296 274 217 236}.
+xN=2103.
+xp=0.00802231.
+0.5
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 308 280 206 230}.
+xN=3461.
+xp=0.0132027.
+0.5
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 322 286 192 223}.
+xN=5705.
+xp=0.0217628.
+0.75
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 342 295 173 214}.
+xN=9382.
+xp=0.0357895.
+0.75
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 366 307 150 202}.
+xN=15486.
+xp=0.0590744.
+0.75
+-1
+screenheight=512.
+screenwidth=512.
+x={ 396 322 119 187}.
+xN=25512.
+xp=0.0973206.
+0.75
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 436 341 80 167}.
+xN=42026.
+xp=0.160316.
+1
+-1
+screenheight=512.
+screenwidth=512.
+x={ 486 366 29 143}.
+xN=69243.
+xp=0.264141.
+0.75
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 425 336 89 173}.
+xN=37308.
+xp=0.142319.
+0.75
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 473 360 42 150}.
+xN=61462.
+xp=0.234459.
+0.5
+-0.75
+ have criteria :0
+a={149.624 101.56 39.27}.
+aN=23378.
+Setting rotation center {149 101 39}
+Setting rotation center {0 0 0}
+ trying to set :tint. and c is +
+ trying to set :tint. and c is +
+ trying to set :substyle. and c is +
+ have criteria :0
+m_map_name= move={0 -12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={0 12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:215 atoms selected
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {-0.179001 -1.469 0.391998} 
+../atom/../math/move_around.h61 rsign=-0.179001 theta is now 1.68799
+atom_alignment.cpp at 82:215 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.53091 -3.91966e-06 1.04795e-06} 
+atom_alignment.cpp at 134: second nearest is at {1.9869 0.872835 1.15299}dots to 2.21877 
+atom_alignment.cpp at 82:215 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {1.9869 -1.44611 1.9718e-06} 
+atom_alignment.cpp at 82:215 atoms selected
+atom_alignment.cpp at 155: second nearest is now at after -zed  {1.9869 1.44611 -5.80919e-06} 
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {-0.0620003 0.112999 -1.389} 
+../atom/../math/move_around.h61 rsign=-0.0620003 theta is now 1.61525
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.39497 3.00477e-07 -3.68948e-06} 
+atom_alignment.cpp at 134: second nearest is at {-0.693564 1.15192 -0.377126}dots to 3.45798 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {-0.693564 -1.21209 1.7061e-06} 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 155: second nearest is now at after -zed  {-0.693564 1.21209 -4.92248e-06} 
+ have criteria :0
+m_map_name= move={0 0 0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:215 atoms selected
+ have criteria :0
+m_map_name= move={0 0 -0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+Display tree not delted Root
+ Molecule and Data Viewer - Marchywka with source from various places 
+	http://math.nist.gov/
+ 	http://www.dgp.toronto.edu/~mjmcguff/learn/opengl/ 
+   http://avifile.sourceforge.net/
+   http://www.gnu.org/software/gsl/
+   http://www.expasy.org/cgi-bin/protscale.pl
+	Contact: marchywka@hotmail.com 
+         Supporting scripts available for pdb download and analysis.
+./atom/atom_display.h at 34:Reading config file ./hybrids/qfolay.dat
+Starting glut mainloop
+Scripting: source ./qfolayy.dat...
+Reading from file ./qfolayy.dat
+basic_command_shell.cpp at 279: try to  open tx for input 
+basic_command_shell.cpp at 293: read ./pdb/ to store at pa
+basic_command_shell.cpp at 293: read .pdb to store at ps
+basic_command_shell.cpp at 293: read 1MV5 to store at fn
+basic_command_shell.cpp at 293: read 37.623 to store at xa
+basic_command_shell.cpp at 293: read 48.165 to store at ya
+basic_command_shell.cpp at 293: read 67.978 to store at za
+basic_command_shell.cpp at 293: read 2ONK to store at fm
+basic_command_shell.cpp at 293: read 2.371 to store at xb
+basic_command_shell.cpp at 293: read -2.125 to store at yb
+basic_command_shell.cpp at 293: read -16.832 to store at zb
+basic_command_shell.cpp at 293: read 10 to store at rad
+basic_command_shell.cpp at 293: read x1.jpg to store at fd
+Attempting to load ./pdb/2ONK
+COMPND    Abc Transporter Modbc In Complex With Its Binding Protein   COMPND   2 Moda                                                       radius problem with 
+ATOM      8  SD  MET A   1     -46.344 -14.685  35.854  1.00120.54           S try name as .S.
+pdb_atom 8 radius ATOM      8  SD  MET A   1     -46.344 -14.685  35.854  1.00120.54           S 0
+radius problem with 
+HETATM20183  W   WO4 1  11     -25.250  55.324 -20.528  0.90 49.55           W try name as .W.
+No color :HETATM20183  W   WO4 1  11     -25.250  55.324 -20.528  0.90 49.55           W
+radius problem with 
+HETATM20193  P   PO4 1  13     -35.590 -10.960  15.890  1.00 60.90           P try name as .P.
+No color :HETATM20193  P   PO4 1  13     -35.590 -10.960  15.890  1.00 60.90           P
+radius problem with 
+HETATM20213 MG    MG 2  17     -32.702  -8.878  17.125  1.00 75.38          Mg try name as .M.
+No color :HETATM20213 MG    MG 2  17     -32.702  -8.878  17.125  1.00 75.38          Mg
+radius problem with 
+HETATM20214 MG    MG 3  18     -14.203 -13.333   9.635  1.00 87.37          Mg try name as .M.
+radius problem with 
+HETATM20215 MG    MG 4  19      -1.664 141.500 -93.759  1.00 89.16          Mg try name as .M.
+radius problem with 
+HETATM20216 MG    MG 5  20      15.178 129.662 -99.630  1.00 83.48          Mg try name as .M.
+radius problem with 
+HETATM20217 MG    MG 6  21     -19.679  74.035  -5.147  1.00 86.99          Mg try name as .M.
+radius problem with 
+HETATM20218 MG    MG 7  22     -41.014  73.675 -56.486  1.00 42.44          Mg try name as .M.
+Making connection lists
+Done Making bonds 0
+check ing :0 
+Attempting to load ./pdb/1MV5
+COMPND    Crystal Structure Of Lmra Atp-Binding Domain                radius problem with 
+HETATM 7476 MG    MG 1   5       6.309  55.368 105.390  1.00 76.41          Mg try name as .M.
+radius problem with 
+HETATM 7477 MG    MG 1   6      46.686  29.635  84.316  1.00 36.80          Mg try name as .M.
+Making connection lists
+Done Making bonds 0
+ trying to set :hide. and c is >
+ trying to set :hide. and c is >
+ have criteria :1
+ found 198
+ trying to set :hide. and c is <
+ have criteria :1
+ found 46
+ trying to set :hide. and c is <
+ trying to set :light. and c is +
+ have criteria :0
+m_map_name= move={-37.623 -36.165 -67.978} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={-2.371 -9.875 16.832} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:46 atoms selected
+ trying to set :style. and c is +
+ trying to set :substyle. and c is +
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl label1 tar=2
+../base/../base/basic_context_stack.h at 30:Adding laberl lendd tar=16
+../base/../base/basic_context_stack.h at 30:Adding laberl label2 tar=18
+../base/../base/basic_context_stack.h at 30:Adding laberl label3 tar=21
+center at pc=1 of 26
+ at pc=1 of 1
+screenheight=512.
+screenwidth=512.
+x={ 262 258 250 252}.
+xN=40.
+xp=0.000152588.
+0.5
+0
+screenheight=512.
+screenwidth=512.
+x={ 264 259 248 251}.
+xN=69.
+xp=0.000263214.
+0.5
+0
+screenheight=512.
+screenwidth=512.
+x={ 267 260 246 250}.
+xN=113.
+xp=0.000431061.
+0.5
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 270 262 243 249}.
+xN=188.
+xp=0.000717163.
+0.25
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 274 264 240 246}.
+xN=309.
+xp=0.00117874.
+0.5
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 280 267 235 244}.
+xN=507.
+xp=0.00193405.
+0.25
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 287 270 230 240}.
+xN=854.
+xp=0.00325775.
+0.5
+-1.25
+screenheight=512.
+screenwidth=512.
+x={ 295 274 221 236}.
+xN=1388.
+xp=0.0052948.
+0.5
+-1
+screenheight=512.
+screenwidth=512.
+x={ 305 280 209 230}.
+xN=2286.
+xp=0.0087204.
+0.5
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 319 286 196 223}.
+xN=3777.
+xp=0.0144081.
+0.75
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 337 295 179 213}.
+xN=6231.
+xp=0.0237694.
+1
+-1
+screenheight=512.
+screenwidth=512.
+x={ 359 308 156 202}.
+xN=10277.
+xp=0.0392036.
+0.5
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 388 323 128 187}.
+xN=16924.
+xp=0.0645599.
+0.5
+-1
+screenheight=512.
+screenwidth=512.
+x={ 424 343 90 168}.
+xN=27840.
+xp=0.106201.
+0.25
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 472 367 43 143}.
+xN=45854.
+xp=0.174919.
+0.5
+-0.75
+ have criteria :0
+a={-14.1102 65.648 -38.6339}.
+aN=20218.
+Setting rotation center {-14 65 -38}
+Setting rotation center {0 0 0}
+ trying to set :tint. and c is +
+ trying to set :tint. and c is +
+ trying to set :substyle. and c is +
+ have criteria :0
+m_map_name= move={0 -12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={0 12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:46 atoms selected
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {-1.45 -0.298 0.35} 
+../atom/../math/move_around.h61 rsign=-1.45 theta is now 2.83459
+atom_alignment.cpp at 82:46 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.52112 -2.62696e-06 3.06538e-06} 
+atom_alignment.cpp at 134: second nearest is at {2.02613 -1.10932 0.92689}dots to 0.696044 
+atom_alignment.cpp at 82:46 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {2.02613 -1.44558 1.9627e-06} 
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {-0.0620003 0.112999 -1.389} 
+../atom/../math/move_around.h61 rsign=-0.0620003 theta is now 1.61525
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.39497 3.00477e-07 -3.68948e-06} 
+atom_alignment.cpp at 134: second nearest is at {-0.693564 1.15192 -0.377126}dots to 3.45798 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {-0.693564 -1.21209 1.7061e-06} 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 155: second nearest is now at after -zed  {-0.693564 1.21209 -4.92248e-06} 
+ have criteria :0
+m_map_name= move={0 0 0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:46 atoms selected
+ have criteria :0
+m_map_name= move={0 0 -0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+Display tree not delted Root
+ Molecule and Data Viewer - Marchywka with source from various places 
+	http://math.nist.gov/
+ 	http://www.dgp.toronto.edu/~mjmcguff/learn/opengl/ 
+   http://avifile.sourceforge.net/
+   http://www.gnu.org/software/gsl/
+   http://www.expasy.org/cgi-bin/protscale.pl
+	Contact: marchywka@hotmail.com 
+         Supporting scripts available for pdb download and analysis.
+./atom/atom_display.h at 34:Reading config file ./hybrids/qfolay.dat
+Starting glut mainloop
+Scripting: source ./qfolayy.dat...
+Reading from file ./qfolayy.dat
+basic_command_shell.cpp at 279: try to  open tx for input 
+basic_command_shell.cpp at 293: read ./pdb/ to store at pa
+basic_command_shell.cpp at 293: read .pdb to store at ps
+basic_command_shell.cpp at 293: read 1MV5 to store at fn
+basic_command_shell.cpp at 293: read 37.623 to store at xa
+basic_command_shell.cpp at 293: read 48.165 to store at ya
+basic_command_shell.cpp at 293: read 67.978 to store at za
+basic_command_shell.cpp at 293: read 2HLF to store at fm
+basic_command_shell.cpp at 293: read 21.958 to store at xb
+basic_command_shell.cpp at 293: read 0.833 to store at yb
+basic_command_shell.cpp at 293: read 16.139 to store at zb
+basic_command_shell.cpp at 293: read 10 to store at rad
+basic_command_shell.cpp at 293: read x2.jpg to store at fd
+Attempting to load ./pdb/2HLF
+COMPND    Structure Of The Escherichis Coli Clc Chloride Channel Y445eCOMPND   2 Mutant And Fab Complex                                     radius problem with 
+ATOM    193  SD  MET A  22      57.924   4.631  26.923  1.00139.18           S try name as .S.
+pdb_atom 193 radius ATOM    193  SD  MET A  22      57.924   4.631  26.923  1.00139.18           S 0
+radius problem with 
+HETATM13219 BR    BR 1   7      39.159 -16.166  14.671  1.00 76.32          Br try name as .B.
+No color :HETATM13219 BR    BR 1   7      39.159 -16.166  14.671  1.00 76.32          Br
+radius problem with 
+HETATM13220 BR    BR 1   8      35.995   2.118  58.111  1.00 76.32          Br try name as .B.
+Making connection lists
+Done Making bonds 0
+check ing :0 
+Attempting to load ./pdb/1MV5
+COMPND    Crystal Structure Of Lmra Atp-Binding Domain                radius problem with 
+HETATM 7476 MG    MG 1   5       6.309  55.368 105.390  1.00 76.41          Mg try name as .M.
+No color :HETATM 7476 MG    MG 1   5       6.309  55.368 105.390  1.00 76.41          Mg
+radius problem with 
+HETATM 7477 MG    MG 1   6      46.686  29.635  84.316  1.00 36.80          Mg try name as .M.
+radius problem with 
+HETATM 7478  PG  ATP 1   7      30.864  36.986  73.967  1.00 99.18           P try name as .P.
+No color :HETATM 7478  PG  ATP 1   7      30.864  36.986  73.967  1.00 99.18           P
+Making connection lists
+Done Making bonds 0
+ trying to set :hide. and c is >
+ trying to set :hide. and c is >
+ have criteria :1
+ found 198
+ trying to set :hide. and c is <
+ have criteria :1
+ found 202
+ trying to set :hide. and c is <
+ trying to set :light. and c is +
+ have criteria :0
+m_map_name= move={-37.623 -36.165 -67.978} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={-21.958 -12.833 -16.139} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:202 atoms selected
+ trying to set :style. and c is +
+ trying to set :substyle. and c is +
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl label1 tar=2
+../base/../base/basic_context_stack.h at 30:Adding laberl lendd tar=16
+../base/../base/basic_context_stack.h at 30:Adding laberl label2 tar=18
+../base/../base/basic_context_stack.h at 30:Adding laberl label3 tar=21
+center at pc=1 of 26
+ at pc=1 of 1
+screenheight=512.
+screenwidth=512.
+x={ 262 258 249 253}.
+xN=64.
+xp=0.000244141.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 264 259 247 252}.
+xN=102.
+xp=0.000389099.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 267 260 245 250}.
+xN=167.
+xp=0.000637054.
+0.5
+0
+screenheight=512.
+screenwidth=512.
+x={ 270 262 241 249}.
+xN=281.
+xp=0.00107193.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 274 264 237 247}.
+xN=464.
+xp=0.00177002.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 280 267 232 244}.
+xN=763.
+xp=0.00291061.
+0.25
+0
+screenheight=512.
+screenwidth=512.
+x={ 287 270 225 240}.
+xN=1272.
+xp=0.00485229.
+0.5
+0
+screenheight=512.
+screenwidth=512.
+x={ 296 274 217 236}.
+xN=2083.
+xp=0.00794601.
+0.5
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 308 280 205 230}.
+xN=3410.
+xp=0.0130081.
+0.5
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 322 286 191 223}.
+xN=5651.
+xp=0.0215569.
+0.75
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 342 295 173 214}.
+xN=9299.
+xp=0.0354729.
+0.75
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 366 307 149 202}.
+xN=15330.
+xp=0.0584793.
+0.75
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 397 322 119 187}.
+xN=25253.
+xp=0.0963326.
+0.75
+-1
+screenheight=512.
+screenwidth=512.
+x={ 437 341 78 167}.
+xN=41584.
+xp=0.15863.
+1
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 488 366 28 143}.
+xN=68534.
+xp=0.261436.
+0.75
+-1
+screenheight=512.
+screenwidth=512.
+x={ 425 336 88 173}.
+xN=36888.
+xp=0.140717.
+0.75
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 474 360 40 150}.
+xN=60801.
+xp=0.231937.
+0.5
+-0.5
+ have criteria :0
+a={16.024 16.1376 25.7577}.
+aN=13220.
+Setting rotation center {16 16 25}
+Setting rotation center {0 0 0}
+ trying to set :tint. and c is +
+ trying to set :tint. and c is +
+ trying to set :substyle. and c is +
+ have criteria :0
+m_map_name= move={0 -12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={0 12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:202 atoms selected
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {0.517 0.0430002 -1.435} 
+../atom/../math/move_around.h61 rsign=0.517 theta is now 1.22514
+atom_alignment.cpp at 82:202 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.5259 4.71333e-10 6.81451e-09} 
+atom_alignment.cpp at 134: second nearest is at {2.00424 -1.19938 0.817851}dots to 0.598469 
+atom_alignment.cpp at 82:202 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {2.00424 -1.45169 1.88912e-06} 
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {-0.0620003 0.112999 -1.389} 
+../atom/../math/move_around.h61 rsign=-0.0620003 theta is now 1.61525
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.39497 3.00477e-07 -3.68948e-06} 
+atom_alignment.cpp at 134: second nearest is at {-0.693564 1.15192 -0.377126}dots to 3.45798 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {-0.693564 -1.21209 1.7061e-06} 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 155: second nearest is now at after -zed  {-0.693564 1.21209 -4.92248e-06} 
+ have criteria :0
+m_map_name= move={0 0 0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:202 atoms selected
+ have criteria :0
+m_map_name= move={0 0 -0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+Display tree not delted Root
+ Molecule and Data Viewer - Marchywka with source from various places 
+	http://math.nist.gov/
+ 	http://www.dgp.toronto.edu/~mjmcguff/learn/opengl/ 
+   http://avifile.sourceforge.net/
+   http://www.gnu.org/software/gsl/
+   http://www.expasy.org/cgi-bin/protscale.pl
+	Contact: marchywka@hotmail.com 
+         Supporting scripts available for pdb download and analysis.
+./atom/atom_display.h at 34:Reading config file ./hybrids/qfolay.dat
+Starting glut mainloop
+Scripting: source ./qfolayy.dat...
+Reading from file ./qfolayy.dat
+basic_command_shell.cpp at 279: try to  open tx for input 
+basic_command_shell.cpp at 293: read ./pdb/ to store at pa
+basic_command_shell.cpp at 293: read .pdb to store at ps
+basic_command_shell.cpp at 293: read 1MV5 to store at fn
+basic_command_shell.cpp at 293: read 37.623 to store at xa
+basic_command_shell.cpp at 293: read 48.165 to store at ya
+basic_command_shell.cpp at 293: read 67.978 to store at za
+basic_command_shell.cpp at 293: read 1N4A to store at fm
+basic_command_shell.cpp at 293: read 43.089 to store at xb
+basic_command_shell.cpp at 293: read 27.822 to store at yb
+basic_command_shell.cpp at 293: read 10.98 to store at zb
+basic_command_shell.cpp at 293: read 10 to store at rad
+basic_command_shell.cpp at 293: read x3.jpg to store at fd
+Attempting to load ./pdb/1N4A
+COMPND    The Ligand Bound Structure Of E.Coli Btuf, The Periplasmic  COMPND   2 Binding Protein For Vitamin B12                            radius problem with 
+ATOM    349 SE   MSE A  47      18.820  28.382  11.661  1.00 65.30          Se try name as .S.
+pdb_atom 349 radius ATOM    349 SE   MSE A  47      18.820  28.382  11.661  1.00 65.30          Se 0
+No color :ATOM    349 SE   MSE A  47      18.820  28.382  11.661  1.00 65.30          Se
+radius problem with 
+ATOM    627 SE   MSE A  83      19.086  21.452  -1.700  1.00 47.05          Se try name as .S.
+radius problem with 
+ATOM   2251 SE   MSE B  47      31.954  24.916 -16.469  1.00 67.61          Se try name as .S.
+radius problem with 
+ATOM   2529 SE   MSE B  83      28.031  18.999  -3.232  1.00 42.39          Se try name as .S.
+radius problem with 
+HETATM 3805 CO   CNC 1   3      13.531  41.175   1.399  1.00 12.98          Co try name as .C.
+No color :HETATM 3805 CO   CNC 1   3      13.531  41.175   1.399  1.00 12.98          Co
+radius problem with 
+HETATM 3875  P   CNC 1   3      21.607  42.000   5.333  1.00 29.70           P try name as .P.
+No color :HETATM 3875  P   CNC 1   3      21.607  42.000   5.333  1.00 29.70           P
+radius problem with 
+HETATM 3898 CO   CNC 1   4      43.113  32.756  -7.413  1.00 27.95          Co try name as .C.
+Making connection lists
+Done Making bonds 0
+check ing :0 
+Attempting to load ./pdb/1MV5
+COMPND    Crystal Structure Of Lmra Atp-Binding Domain                radius problem with 
+HETATM 7476 MG    MG 1   5       6.309  55.368 105.390  1.00 76.41          Mg try name as .M.
+No color :HETATM 7476 MG    MG 1   5       6.309  55.368 105.390  1.00 76.41          Mg
+radius problem with 
+HETATM 7477 MG    MG 1   6      46.686  29.635  84.316  1.00 36.80          Mg try name as .M.
+Making connection lists
+Done Making bonds 0
+ trying to set :hide. and c is >
+ trying to set :hide. and c is >
+ have criteria :1
+ found 198
+ trying to set :hide. and c is <
+ have criteria :1
+ found 212
+ trying to set :hide. and c is <
+ trying to set :light. and c is +
+ have criteria :0
+m_map_name= move={-37.623 -36.165 -67.978} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={-43.089 -39.822 -10.98} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:212 atoms selected
+ trying to set :style. and c is +
+ trying to set :substyle. and c is +
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl label1 tar=2
+../base/../base/basic_context_stack.h at 30:Adding laberl lendd tar=16
+../base/../base/basic_context_stack.h at 30:Adding laberl label2 tar=18
+../base/../base/basic_context_stack.h at 30:Adding laberl label3 tar=21
+center at pc=1 of 26
+ at pc=1 of 1
+screenheight=512.
+screenwidth=512.
+x={ 262 258 249 253}.
+xN=59.
+xp=0.000225067.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 264 259 247 252}.
+xN=101.
+xp=0.000385284.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 267 260 244 250}.
+xN=163.
+xp=0.000621796.
+0.5
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 270 262 241 249}.
+xN=275.
+xp=0.00104904.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 274 264 237 247}.
+xN=449.
+xp=0.0017128.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 280 267 231 244}.
+xN=741.
+xp=0.00282669.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 287 270 224 240}.
+xN=1237.
+xp=0.00471878.
+0.5
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 296 274 216 236}.
+xN=2024.
+xp=0.00772095.
+0.5
+0
+screenheight=512.
+screenwidth=512.
+x={ 308 280 204 230}.
+xN=3331.
+xp=0.0127068.
+0.5
+0
+screenheight=512.
+screenwidth=512.
+x={ 322 286 189 223}.
+xN=5500.
+xp=0.0209808.
+0.75
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 342 295 170 214}.
+xN=9059.
+xp=0.0345573.
+0.75
+0
+screenheight=512.
+screenwidth=512.
+x={ 366 307 146 202}.
+xN=14914.
+xp=0.0568924.
+0.75
+0
+screenheight=512.
+screenwidth=512.
+x={ 397 322 115 187}.
+xN=24572.
+xp=0.0937347.
+0.75
+0
+screenheight=512.
+screenwidth=512.
+x={ 438 341 74 167}.
+xN=40484.
+xp=0.154434.
+1
+0
+screenheight=512.
+screenwidth=512.
+x={ 490 366 23 143}.
+xN=66720.
+xp=0.254517.
+0.75
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 427 336 85 173}.
+xN=35922.
+xp=0.137032.
+0.75
+0
+screenheight=512.
+screenwidth=512.
+x={ 476 360 37 150}.
+xN=59193.
+xp=0.225803.
+0.5
+-0.25
+ have criteria :0
+a={26.6906 32.7011 -2.80657}.
+aN=4539.
+Setting rotation center {26 32 -2}
+Setting rotation center {0 0 0}
+ trying to set :tint. and c is +
+ trying to set :tint. and c is +
+ trying to set :substyle. and c is +
+ have criteria :0
+m_map_name= move={0 -12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={0 12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:212 atoms selected
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 1.90735e-06 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {1.371 0.545 -0.367999} 
+../atom/../math/move_around.h61 rsign=1.371 theta is now 0.447241
+atom_alignment.cpp at 82:212 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.52055 -7.62564e-09 1.51564e-08} 
+atom_alignment.cpp at 134: second nearest is at {2.02475 -0.824256 -1.09924}dots to -0.927396 
+atom_alignment.cpp at 82:212 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {2.02475 -1.37394 1.84468e-06} 
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {-0.0620003 0.112999 -1.389} 
+../atom/../math/move_around.h61 rsign=-0.0620003 theta is now 1.61525
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.39497 3.00477e-07 -3.68948e-06} 
+atom_alignment.cpp at 134: second nearest is at {-0.693564 1.15192 -0.377126}dots to 3.45798 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {-0.693564 -1.21209 1.7061e-06} 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 155: second nearest is now at after -zed  {-0.693564 1.21209 -4.92248e-06} 
+ have criteria :0
+m_map_name= move={0 0 0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:212 atoms selected
+ have criteria :0
+m_map_name= move={0 0 -0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+Display tree not delted Root
+ Molecule and Data Viewer - Marchywka with source from various places 
+	http://math.nist.gov/
+ 	http://www.dgp.toronto.edu/~mjmcguff/learn/opengl/ 
+   http://avifile.sourceforge.net/
+   http://www.gnu.org/software/gsl/
+   http://www.expasy.org/cgi-bin/protscale.pl
+	Contact: marchywka@hotmail.com 
+         Supporting scripts available for pdb download and analysis.
+./atom/atom_display.h at 34:Reading config file ./hybrids/qfolay.dat
+Starting glut mainloop
+Scripting: source ./qfolayy.dat...
+Reading from file ./qfolayy.dat
+basic_command_shell.cpp at 279: try to  open tx for input 
+basic_command_shell.cpp at 293: read ./pdb/ to store at pa
+basic_command_shell.cpp at 293: read .pdb to store at ps
+basic_command_shell.cpp at 293: read 1MV5 to store at fn
+basic_command_shell.cpp at 293: read 37.623 to store at xa
+basic_command_shell.cpp at 293: read 48.165 to store at ya
+basic_command_shell.cpp at 293: read 67.978 to store at za
+basic_command_shell.cpp at 293: read 2PLS to store at fm
+basic_command_shell.cpp at 293: read 53.887 to store at xb
+basic_command_shell.cpp at 293: read 14.225 to store at yb
+basic_command_shell.cpp at 293: read 93.554 to store at zb
+basic_command_shell.cpp at 293: read 10 to store at rad
+basic_command_shell.cpp at 293: read x4.jpg to store at fd
+Attempting to load ./pdb/2PLS
+COMPND    Structural Genomics, The Crystal Structure Of The CorcHLYC  COMPND   2 Transporter Associated Domain Of A Cbs Domain Protein From COMPND   3 Chlorobium Tepidum Tls                                     radius problem with 
+ATOM    342 SE   MSE A  45      88.571  37.473  60.580  0.75 44.94          Se try name as .S.
+pdb_atom 342 radius ATOM    342 SE   MSE A  45      88.571  37.473  60.580  0.75 44.94          Se 0
+No color :ATOM    342 SE   MSE A  45      88.571  37.473  60.580  0.75 44.94          Se
+radius problem with 
+ATOM    358 SE   MSE A  47      90.362  34.541  48.352  0.90 45.68          Se try name as .S.
+radius problem with 
+ATOM    576 SE   MSE A  72      82.956  39.837  46.673  0.90 52.78          Se try name as .S.
+radius problem with 
+ATOM   1030 SE   MSE B  45      76.926  16.065  64.588  0.85 43.93          Se try name as .S.
+radius problem with 
+ATOM   1046 SE   MSE B  47      89.216  17.186  62.201  0.80 43.68          Se try name as .S.
+radius problem with 
+ATOM   1264 SE   MSE B  72      89.349  23.287  68.488  0.95 48.15          Se try name as .S.
+radius problem with 
+ATOM   1718 SE   MSE C  45      70.855  30.149  45.449  0.95 39.51          Se try name as .S.
+radius problem with 
+ATOM   1734 SE   MSE C  47      75.319  18.410  44.624  0.80 35.38          Se try name as .S.
+radius problem with 
+ATOM   1952 SE   MSE C  72      69.235  16.326  50.432  1.00 38.59          Se try name as .S.
+radius problem with 
+ATOM   2406 SE   MSE D  45      86.397  33.395 117.030  0.85 37.73          Se try name as .S.
+radius problem with 
+ATOM   2422 SE   MSE D  47      74.641  34.951 112.709  0.80 38.39          Se try name as .S.
+radius problem with 
+ATOM   2640 SE   MSE D  72      72.532  27.725 118.085  0.85 41.79          Se try name as .S.
+radius problem with 
+ATOM   3086 SE   MSE E  45      93.249  21.596  96.577  0.80 39.52          Se try name as .S.
+radius problem with 
+ATOM   3102 SE   MSE E  47      90.517  33.953  97.399  0.75 37.70          Se try name as .S.
+radius problem with 
+ATOM   3320 SE   MSE E  72      95.883  34.105 104.413  0.90 41.17          Se try name as .S.
+radius problem with 
+ATOM   3766 SE   MSE F  45      72.480  15.142 108.305  0.85 38.18          Se try name as .S.
+radius problem with 
+ATOM   3782 SE   MSE F  47      73.002  19.645  96.568  0.85 39.54          Se try name as .S.
+radius problem with 
+ATOM   4000 SE   MSE F  72      79.227  13.607  95.216  1.00 46.05          Se try name as .S.
+radius problem with 
+ATOM   4446 SE   MSE G  45      92.337  -6.460  98.286  0.80 45.20          Se try name as .S.
+radius problem with 
+ATOM   4462 SE   MSE G  47     102.063 -13.227  93.985  0.55 47.67          Se try name as .S.
+radius problem with 
+ATOM   4680 SE   MSE G  72     100.065  -9.899  86.044  0.90 53.31          Se try name as .S.
+radius problem with 
+ATOM   5120 SE   MSE H  45      96.891   3.750  64.569  0.80 50.76          Se try name as .S.
+radius problem with 
+ATOM   5136 SE   MSE H  47     103.702  11.682  71.559  0.70 52.32          Se try name as .S.
+radius problem with 
+ATOM   5354 SE   MSE H  72     100.031   8.267  78.867  0.90 56.55          Se try name as .S.
+radius problem with 
+ATOM   5808 SE   MSE I  45      94.055  41.832  84.946  0.90 45.92          Se try name as .S.
+radius problem with 
+ATOM   5824 SE   MSE I  47      99.675  48.508  93.865  0.60 42.09          Se try name as .S.
+radius problem with 
+ATOM   6042 SE   MSE I  72     107.625  45.402  90.652  0.90 45.89          Se try name as .S.
+radius problem with 
+ATOM   6496 SE   MSE J  45     128.535  41.386  76.216  0.80 39.99          Se try name as .S.
+radius problem with 
+ATOM   6512 SE   MSE J  47     122.907  50.680  69.571  0.70 44.39          Se try name as .S.
+radius problem with 
+ATOM   6730 SE   MSE J  72     114.940  47.824  72.638  0.85 42.07          Se try name as .S.
+radius problem with 
+ATOM   7184 SE   MSE K  45      48.853  17.357  63.043  0.80 42.69          Se try name as .S.
+radius problem with 
+ATOM   7200 SE   MSE K  47      41.738  12.102  71.928  0.75 45.29          Se try name as .S.
+radius problem with 
+ATOM   7418 SE   MSE K  72      45.194   4.355  69.129  0.85 47.35          Se try name as .S.
+radius problem with 
+ATOM   7872 SE   MSE L  45      58.911  17.555  89.570  0.90 56.09          Se try name as .S.
+radius problem with 
+ATOM   7888 SE   MSE L  47      66.884  12.508  81.231  0.75 51.62          Se try name as .S.
+radius problem with 
+ATOM   8106 SE   MSE L  72      63.338   4.541  83.616  0.85 51.96          Se try name as .S.
+radius problem with 
+HETATM 8219 MG    MG 1  13     101.568   1.828  85.016  1.00 47.01          Mg try name as .M.
+No color :HETATM 8219 MG    MG 1  13     101.568   1.828  85.016  1.00 47.01          Mg
+radius problem with 
+HETATM 8220 MG    MG 1  14     102.236  -0.782  82.635  1.00 38.27          Mg try name as .M.
+radius problem with 
+HETATM 8221 MG    MG 1  15     102.899  -3.865  80.177  1.00 51.29          Mg try name as .M.
+radius problem with 
+HETATM 8222 MG    MG 1  16     109.252  49.166  79.620  1.00 32.64          Mg try name as .M.
+radius problem with 
+HETATM 8223 MG    MG 1  17     111.843  48.757  82.336  1.00 25.89          Mg try name as .M.
+radius problem with 
+HETATM 8224 MG    MG 1  18     113.984  48.084  84.941  1.00 35.20          Mg try name as .M.
+Making connection lists
+Done Making bonds 0
+check ing :0 
+Attempting to load ./pdb/1MV5
+COMPND    Crystal Structure Of Lmra Atp-Binding Domain                radius problem with 
+HETATM 7476 MG    MG 1   5       6.309  55.368 105.390  1.00 76.41          Mg try name as .M.
+radius problem with 
+HETATM 7477 MG    MG 1   6      46.686  29.635  84.316  1.00 36.80          Mg try name as .M.
+radius problem with 
+HETATM 7478  PG  ATP 1   7      30.864  36.986  73.967  1.00 99.18           P try name as .P.
+No color :HETATM 7478  PG  ATP 1   7      30.864  36.986  73.967  1.00 99.18           P
+Making connection lists
+Done Making bonds 0
+ trying to set :hide. and c is >
+ trying to set :hide. and c is >
+ have criteria :1
+ found 198
+ trying to set :hide. and c is <
+ have criteria :1
+ found 214
+ trying to set :hide. and c is <
+ trying to set :light. and c is +
+ have criteria :0
+m_map_name= move={-37.623 -36.165 -67.978} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={-53.887 -26.225 -93.554} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:214 atoms selected
+ trying to set :style. and c is +
+ trying to set :substyle. and c is +
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl l1 tar=1
+../base/../base/basic_context_stack.h at 30:Adding laberl label1 tar=2
+../base/../base/basic_context_stack.h at 30:Adding laberl lendd tar=16
+../base/../base/basic_context_stack.h at 30:Adding laberl label2 tar=18
+../base/../base/basic_context_stack.h at 30:Adding laberl label3 tar=21
+center at pc=1 of 26
+ at pc=1 of 1
+screenheight=512.
+screenwidth=512.
+x={ 262 258 249 253}.
+xN=62.
+xp=0.000236511.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 264 259 247 252}.
+xN=102.
+xp=0.000389099.
+0.25
+0.25
+screenheight=512.
+screenwidth=512.
+x={ 267 261 245 250}.
+xN=164.
+xp=0.00062561.
+0.25
+0
+screenheight=512.
+screenwidth=512.
+x={ 270 262 242 249}.
+xN=278.
+xp=0.00106049.
+0.25
+0
+screenheight=512.
+screenwidth=512.
+x={ 274 264 238 247}.
+xN=460.
+xp=0.00175476.
+0.25
+0
+screenheight=512.
+screenwidth=512.
+x={ 280 267 232 244}.
+xN=758.
+xp=0.00289154.
+0.25
+0
+screenheight=512.
+screenwidth=512.
+x={ 287 270 225 240}.
+xN=1262.
+xp=0.00481415.
+0.5
+0
+screenheight=512.
+screenwidth=512.
+x={ 296 275 217 236}.
+xN=2073.
+xp=0.00790787.
+0.25
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 308 280 206 230}.
+xN=3419.
+xp=0.0130424.
+0.5
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 322 287 191 223}.
+xN=5626.
+xp=0.0214615.
+0.5
+-0.25
+screenheight=512.
+screenwidth=512.
+x={ 342 296 173 214}.
+xN=9293.
+xp=0.03545.
+0.5
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 366 308 150 202}.
+xN=15316.
+xp=0.0584259.
+0.5
+-1
+screenheight=512.
+screenwidth=512.
+x={ 396 323 118 187}.
+xN=25201.
+xp=0.0961342.
+0.5
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 436 342 79 167}.
+xN=41518.
+xp=0.158379.
+0.75
+-0.75
+screenheight=512.
+screenwidth=512.
+x={ 488 367 29 142}.
+xN=68412.
+xp=0.260971.
+0.75
+-1.25
+screenheight=512.
+screenwidth=512.
+x={ 425 337 89 172}.
+xN=36856.
+xp=0.140594.
+0.75
+-0.5
+screenheight=512.
+screenwidth=512.
+x={ 473 361 41 149}.
+xN=60647.
+xp=0.23135.
+0.5
+-0.5
+ have criteria :0
+a={83.8025 21.4721 81.328}.
+aN=8869.
+Setting rotation center {83 21 81}
+Setting rotation center {0 0 0}
+ trying to set :tint. and c is +
+ trying to set :tint. and c is +
+ trying to set :substyle. and c is +
+ have criteria :0
+m_map_name= move={0 -12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+ have criteria :0
+m_map_name= move={0 12 0} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:214 atoms selected
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {-1.541 0.108 0.120003} 
+../atom/../math/move_around.h61 rsign=-1.541 theta is now 3.0372
+atom_alignment.cpp at 82:214 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.54943 2.74693e-06 3.05107e-06} 
+atom_alignment.cpp at 134: second nearest is at {2.06172 -0.774977 -1.2327}dots to -1.00955 
+atom_alignment.cpp at 82:214 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {2.06172 -1.45607 1.75239e-06} 
+atom_alignment.cpp at 82:214 atoms selected
+atom_alignment.cpp at 155: second nearest is now at after -zed  {2.06172 1.45607 -5.6162e-06} 
+ have criteria :0
+  mode=0
+atom_alignment.cpp at 102: center orignally at {0 0 0} 
+atom_alignment.cpp at 113: center is moved to  {0 0 0} 
+atom_alignment.cpp at 115: nearest is at {-0.0620003 0.112999 -1.389} 
+../atom/../math/move_around.h61 rsign=-0.0620003 theta is now 1.61525
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 121: nearest should be along X: {1.39497 3.00477e-07 -3.68948e-06} 
+atom_alignment.cpp at 134: second nearest is at {-0.693564 1.15192 -0.377126}dots to 3.45798 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 139: second nearest is now at {-0.693564 -1.21209 1.7061e-06} 
+atom_alignment.cpp at 82:198 atoms selected
+atom_alignment.cpp at 155: second nearest is now at after -zed  {-0.693564 1.21209 -4.92248e-06} 
+ have criteria :0
+m_map_name= move={0 0 0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:214 atoms selected
+ have criteria :0
+m_map_name= move={0 0 -0.1} rotcen={0 0 0} eulers={0 0 0} shake=0
+atom_list_modifier.cpp at 127:198 atoms selected
+Display tree not delted Root

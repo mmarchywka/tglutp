@@ -1,0 +1,98 @@
+//b1
+/* const IdxTy ns = px2 -px;
+								if ( (ns/TPSZ)*TPSZ!=ns) std::cerr<<__FILE__<<__LINE__<<
+									"bad ptr size "<<ns<<'\n';
+								while (px<px2)
+								{  d.push_back( *(Ty*)(px)  );px+=TPSZ;  }
+								*/
+//b2
+/*
+							const IdxTy ns = px2 -px;
+							if ( (ns/TPSZ)*TPSZ!=ns) std::cerr<<__FILE__<<__LINE__<<
+									"bad ptr size "<<ns<<'\n';
+							while (px<px2)
+							{  d.push_back( *(Ty*)(px)  );  px+=TPSZ;}
+							*/								
+							
+							
+//b3
+/*		
+							const IdxTy ns = px2 -px;
+							if ( (ns/TPSZ)*TPSZ!=ns) std::cerr<<__FILE__<<__LINE__<<
+									"bad ptr size "<<ns<<'\n';
+							while (px<px2)
+							{  d.push_back( *(Ty*)(px)  );  px+=TPSZ; }
+							*/	
+
+/*
+					}
+					else 
+					{	// all on one blcok.
+					//	px+=1+strlen(key); // first entry...
+						DaTy * px2=m_data+m_ptr;;
+						//DaTy bend=m_data;
+						// if this is not the last, then it could end on another block
+						if (ptr!=sz-1)   px2=pt(ptr+1);      ;// bend=m_idx[ptr+1].first; 
+						DoPush(d,px,px2,__FILE__,__LINE__);
+							//b3
+					}
+					*/
+
+/*	
+						
+						while ( m_b[ij].first!=bend)
+						{ 	++ij; if ( ij==bmsz) break;  }
+						//get all blocks that finish on this one... 
+						for (IdxTy i=ii; i<ij;)
+						{
+							const DaTy * px2=m_b[i].first+m_b[i].second;
+							DoPush(d,px,px2);//,__FILE__,__LINE__);
+							++i;
+							if (i<bmsz)  {px=m_b[i].first;  } else px=m_data; 
+						}
+					
+					*/
+
+/*
+template <class TgtTy> class indexed_worm_database
+{
+	typedef indexed_worm_database Myt;
+	typedef TgtTy Ty;
+	typedef char Chr;
+	typedef Chr DaTy;
+	typedef Ty* Tpr;
+	typedef unsigned int Tu;
+	typedef int IdxTy;
+	// These are the ordered addresses, Tu is a block index
+	
+	typedef std::vector<Tu> IdTy;
+	enum {TPSZ=sizeof(Tpr) };
+public:
+	typedef Tpr target_ptr; 
+	indexed_worm_database():m_data(new DaTy[1]),m_ptr(0),m_sz(1) { }
+	~indexed_worm_database() { delete m_data; }
+	// insert the next key and return a pointer to its new or existing target
+	// this should really be an INDEX that can be used to a worm of a target type.
+	// so, in this usage, the string worm points to an index to an entry worm
+	// which is itself contiguous because the input is SORTED by key.
+	target_ptr add( const DaTy * key)
+	{
+	 	const IdxTy need=strlen(key)+1+TPSZ;
+	 	// if the key is new, then add it. Otherwise, just add the terminal
+	 	// entry. On retrieve, you will just get all entries since you know
+	 	// where the index ends and the next thing begins. 
+	 	
+	}
+	void append_tgt_ptr( const Tpr p)
+	{
+		::memcpy(m_data+m_ptr,p,TPSZ);
+		m_ptr+=TPSZ;
+	}
+private:
+	// ptr to next write location, maximum size. 
+	IdxTy m_ptr, m_sz;
+	DaTy * m_data;
+	IdTy m_idx;
+	
+};
+*/

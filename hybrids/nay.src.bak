@@ -1,0 +1,5 @@
+-name 2it5
+-out out2it5_0 -format 0 -query ./tget/zzzz2it5 -out out2it5_1 -format 1 -query ./tget/zzzz2it5
+
+
+

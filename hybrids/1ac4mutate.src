@@ -1,0 +1,16 @@
+-color_file ../colbr.dat 
+-radius_file ../radii.dat 
+-pdb ../pdb/1ac4.pdb
+-angles 3 1 10 
+-center -5 57 111
+-shake 0.000000
+-mutate 0 
+-add residue HOH
+-add type HETATM
+-add elem H
+-make 0
+-cat 0
+-probe_radius 1.5 
+-visible .5
+-surf 0
+

@@ -1,0 +1,500 @@
+   87  fastanote -ek xxx.jpg
+   88  gocr qqqq-003.pbm
+   89  wget -O xxx.gif "http://www.agr.state.nc.us/cyber/kidswrld/nutrition/gifs/nutr2.gif"
+   90  convert xxx.igf xxx.jpg
+   91  convert xxx.gif xxx.jpg
+   92  convert xxx.gif xxx.pbm
+   93  gocr xxx.pbm
+   94  wget -O xxx.jpg "http://www.womensheartfoundation.org/images/foodlabelJp.jpg"
+   95  convert xxx.jpg xxx.pbm
+   96  gocr xxx.pbm
+   97  wget -O xxx.jpg "http://www.vpul.upenn.edu/ohe/library/fitness/label-skimmilk.jpg"
+   98  convert xxx.jpg xxx.pbm
+   99  gocr xxx.pbm
+  100  gocr -h
+  101  gocr -m 4 xxx.pbm
+  102  cd e:
+  103  cd new
+  104  cd glutp
+  105  cd glutp
+  106  ls
+  107  cd glutp
+  108  for f in `cat src_files `; do echo $f ; grep idle_enable "$f"; done
+  109  make streaming_data
+  110  make streaming_data
+  111  ls
+  112  cat hist1
+  113  ls -al | grep Mar
+  114  ls -al | grep Mar | grep 22
+  115  cat mydata | ./streaming_data -asdfsd
+  116  make streaming_data
+  117  make streaming_data
+  118  make streaming_data
+  119  cat mydata | ./streaming_data -asdfsd
+  120  make streaming_data
+  121  make streaming_data
+  122  cat mydata | ./streaming_data -asdfsd
+  123  make streaming_data
+  124  make streaming_data
+  125  make streaming_data
+  126  cat mydata | ./streaming_data -asdfsd
+  127  make streaming_data
+  128  make streaming_data
+  129  cat mydata | ./streaming_data -asdfsd
+  130  make streaming_data
+  131  cat mydata | ./streaming_data -asdfsd
+  132  cat mydata
+  133  make streaming_data
+  134  cat mydata | ./streaming_data -asdfsd
+  135  make streaming_data
+  136  cat mydata | ./streaming_data -asdfsd
+  137  make streaming_data
+  138  make streaming_data
+  139  cat mydata | ./streaming_data -asdfsd
+  140  cat mydata | ./streaming_data -asdfsd
+  141  make streaming_data
+  142  cat mydata | ./streaming_data -asdfsd
+  143  make streaming_data
+  144  cat mydata | ./streaming_data -asdfsd
+  145  make streaming_data
+  146  cat mydata | ./streaming_data -asdfsd
+  147  make streaming_data
+  148  cat mydata | ./streaming_data -asdfsd
+  149  make streaming_data
+  150  for f in 1 2 3 4 5 6 7 ; do cat mydata;done | ./streaming_data -asdfsd
+  151  while [ 1 == 1]  ; do cat mydata;done | ./streaming_data -asdfsd
+  152  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  153  cd e:
+  154  cd new
+  155  cd glutp
+  156  cd glutp
+  157  ls
+  158  cd glutp
+  159  for f in `cat src_files `; do echo $f ; grep idle_enable "$f"; done
+  160  make streaming_data
+  161  make streaming_data
+  162  ls
+  163  cat hist1
+  164  ls -al | grep Mar
+  165  ls -al | grep Mar | grep 22
+  166  cat mydata | ./streaming_data -asdfsd
+  167  make streaming_data
+  168  make streaming_data
+  169  make streaming_data
+  170  cat mydata | ./streaming_data -asdfsd
+  171  make streaming_data
+  172  make streaming_data
+  173  cat mydata | ./streaming_data -asdfsd
+  174  make streaming_data
+  175  make streaming_data
+  176  make streaming_data
+  177  cat mydata | ./streaming_data -asdfsd
+  178  make streaming_data
+  179  make streaming_data
+  180  cat mydata | ./streaming_data -asdfsd
+  181  make streaming_data
+  182  cat mydata | ./streaming_data -asdfsd
+  183  cat mydata
+  184  make streaming_data
+  185  cat mydata | ./streaming_data -asdfsd
+  186  make streaming_data
+  187  cat mydata | ./streaming_data -asdfsd
+  188  make streaming_data
+  189  make streaming_data
+  190  cat mydata | ./streaming_data -asdfsd
+  191  cat mydata | ./streaming_data -asdfsd
+  192  make streaming_data
+  193  cat mydata | ./streaming_data -asdfsd
+  194  make streaming_data
+  195  cat mydata | ./streaming_data -asdfsd
+  196  make streaming_data
+  197  cat mydata | ./streaming_data -asdfsd
+  198  make streaming_data
+  199  cat mydata | ./streaming_data -asdfsd
+  200  make streaming_data
+  201  for f in 1 2 3 4 5 6 7 ; do cat mydata;done | ./streaming_data -asdfsd
+  202  while [ 1 == 1]  ; do cat mydata;done | ./streaming_data -asdfsd
+  203  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  204  make streaming_data
+  205  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  206  cd e:
+  207  cd new
+  208  cd glutp
+  209  cd glutp
+  210  ls
+  211  cd glutp
+  212  for f in `cat src_files `; do echo $f ; grep idle_enable "$f"; done
+  213  make streaming_data
+  214  make streaming_data
+  215  ls
+  216  cat hist1
+  217  ls -al | grep Mar
+  218  ls -al | grep Mar | grep 22
+  219  cat mydata | ./streaming_data -asdfsd
+  220  make streaming_data
+  221  make streaming_data
+  222  make streaming_data
+  223  cat mydata | ./streaming_data -asdfsd
+  224  make streaming_data
+  225  make streaming_data
+  226  cat mydata | ./streaming_data -asdfsd
+  227  make streaming_data
+  228  make streaming_data
+  229  make streaming_data
+  230  cat mydata | ./streaming_data -asdfsd
+  231  make streaming_data
+  232  make streaming_data
+  233  cat mydata | ./streaming_data -asdfsd
+  234  make streaming_data
+  235  cat mydata | ./streaming_data -asdfsd
+  236  cat mydata
+  237  make streaming_data
+  238  cat mydata | ./streaming_data -asdfsd
+  239  make streaming_data
+  240  cat mydata | ./streaming_data -asdfsd
+  241  make streaming_data
+  242  make streaming_data
+  243  cat mydata | ./streaming_data -asdfsd
+  244  cat mydata | ./streaming_data -asdfsd
+  245  make streaming_data
+  246  cat mydata | ./streaming_data -asdfsd
+  247  make streaming_data
+  248  cat mydata | ./streaming_data -asdfsd
+  249  make streaming_data
+  250  cat mydata | ./streaming_data -asdfsd
+  251  make streaming_data
+  252  cat mydata | ./streaming_data -asdfsd
+  253  make streaming_data
+  254  for f in 1 2 3 4 5 6 7 ; do cat mydata;done | ./streaming_data -asdfsd
+  255  while [ 1 == 1]  ; do cat mydata;done | ./streaming_data -asdfsd
+  256  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  257  make streaming_data
+  258  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  259  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  260  cd e:
+  261  cd new
+  262  cd glutp
+  263  cd glutp
+  264  ls
+  265  cd glutp
+  266  for f in `cat src_files `; do echo $f ; grep idle_enable "$f"; done
+  267  make streaming_data
+  268  make streaming_data
+  269  ls
+  270  cat hist1
+  271  ls -al | grep Mar
+  272  ls -al | grep Mar | grep 22
+  273  cat mydata | ./streaming_data -asdfsd
+  274  make streaming_data
+  275  make streaming_data
+  276  make streaming_data
+  277  cat mydata | ./streaming_data -asdfsd
+  278  make streaming_data
+  279  make streaming_data
+  280  cat mydata | ./streaming_data -asdfsd
+  281  make streaming_data
+  282  make streaming_data
+  283  make streaming_data
+  284  cat mydata | ./streaming_data -asdfsd
+  285  make streaming_data
+  286  make streaming_data
+  287  cat mydata | ./streaming_data -asdfsd
+  288  make streaming_data
+  289  cat mydata | ./streaming_data -asdfsd
+  290  cat mydata
+  291  make streaming_data
+  292  cat mydata | ./streaming_data -asdfsd
+  293  make streaming_data
+  294  cat mydata | ./streaming_data -asdfsd
+  295  make streaming_data
+  296  make streaming_data
+  297  cat mydata | ./streaming_data -asdfsd
+  298  cat mydata | ./streaming_data -asdfsd
+  299  make streaming_data
+  300  cat mydata | ./streaming_data -asdfsd
+  301  make streaming_data
+  302  cat mydata | ./streaming_data -asdfsd
+  303  make streaming_data
+  304  cat mydata | ./streaming_data -asdfsd
+  305  make streaming_data
+  306  cat mydata | ./streaming_data -asdfsd
+  307  make streaming_data
+  308  for f in 1 2 3 4 5 6 7 ; do cat mydata;done | ./streaming_data -asdfsd
+  309  while [ 1 == 1]  ; do cat mydata;done | ./streaming_data -asdfsd
+  310  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  311  make streaming_data
+  312  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  313  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  314  make streaming_data
+  315  make streaming_data
+  316  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  317  cd e:
+  318  cd new
+  319  cd glutp
+  320  cd glutp
+  321  ls
+  322  cd glutp
+  323  for f in `cat src_files `; do echo $f ; grep idle_enable "$f"; done
+  324  make streaming_data
+  325  make streaming_data
+  326  ls
+  327  cat hist1
+  328  ls -al | grep Mar
+  329  ls -al | grep Mar | grep 22
+  330  cat mydata | ./streaming_data -asdfsd
+  331  make streaming_data
+  332  make streaming_data
+  333  make streaming_data
+  334  cat mydata | ./streaming_data -asdfsd
+  335  make streaming_data
+  336  make streaming_data
+  337  cat mydata | ./streaming_data -asdfsd
+  338  make streaming_data
+  339  make streaming_data
+  340  make streaming_data
+  341  cat mydata | ./streaming_data -asdfsd
+  342  make streaming_data
+  343  make streaming_data
+  344  cat mydata | ./streaming_data -asdfsd
+  345  make streaming_data
+  346  cat mydata | ./streaming_data -asdfsd
+  347  cat mydata
+  348  make streaming_data
+  349  cat mydata | ./streaming_data -asdfsd
+  350  make streaming_data
+  351  cat mydata | ./streaming_data -asdfsd
+  352  make streaming_data
+  353  make streaming_data
+  354  cat mydata | ./streaming_data -asdfsd
+  355  cat mydata | ./streaming_data -asdfsd
+  356  make streaming_data
+  357  cat mydata | ./streaming_data -asdfsd
+  358  make streaming_data
+  359  cat mydata | ./streaming_data -asdfsd
+  360  make streaming_data
+  361  cat mydata | ./streaming_data -asdfsd
+  362  make streaming_data
+  363  cat mydata | ./streaming_data -asdfsd
+  364  make streaming_data
+  365  for f in 1 2 3 4 5 6 7 ; do cat mydata;done | ./streaming_data -asdfsd
+  366  while [ 1 == 1]  ; do cat mydata;done | ./streaming_data -asdfsd
+  367  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  368  make streaming_data
+  369  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  370  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  371  make streaming_data
+  372  make streaming_data
+  373  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  374  make streaming_data
+  375  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  376  cd e:
+  377  cd new
+  378  cd glutp
+  379  cd glutp
+  380  ls
+  381  cd glutp
+  382  for f in `cat src_files `; do echo $f ; grep idle_enable "$f"; done
+  383  make streaming_data
+  384  make streaming_data
+  385  ls
+  386  cat hist1
+  387  ls -al | grep Mar
+  388  ls -al | grep Mar | grep 22
+  389  cat mydata | ./streaming_data -asdfsd
+  390  make streaming_data
+  391  make streaming_data
+  392  make streaming_data
+  393  cat mydata | ./streaming_data -asdfsd
+  394  make streaming_data
+  395  make streaming_data
+  396  cat mydata | ./streaming_data -asdfsd
+  397  make streaming_data
+  398  make streaming_data
+  399  make streaming_data
+  400  cat mydata | ./streaming_data -asdfsd
+  401  make streaming_data
+  402  make streaming_data
+  403  cat mydata | ./streaming_data -asdfsd
+  404  make streaming_data
+  405  cat mydata | ./streaming_data -asdfsd
+  406  cat mydata
+  407  make streaming_data
+  408  cat mydata | ./streaming_data -asdfsd
+  409  make streaming_data
+  410  cat mydata | ./streaming_data -asdfsd
+  411  make streaming_data
+  412  make streaming_data
+  413  cat mydata | ./streaming_data -asdfsd
+  414  cat mydata | ./streaming_data -asdfsd
+  415  make streaming_data
+  416  cat mydata | ./streaming_data -asdfsd
+  417  make streaming_data
+  418  cat mydata | ./streaming_data -asdfsd
+  419  make streaming_data
+  420  cat mydata | ./streaming_data -asdfsd
+  421  make streaming_data
+  422  cat mydata | ./streaming_data -asdfsd
+  423  make streaming_data
+  424  for f in 1 2 3 4 5 6 7 ; do cat mydata;done | ./streaming_data -asdfsd
+  425  while [ 1 == 1]  ; do cat mydata;done | ./streaming_data -asdfsd
+  426  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  427  make streaming_data
+  428  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  429  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  430  make streaming_data
+  431  make streaming_data
+  432  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  433  make streaming_data
+  434  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  435  make streaming_data
+  436  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  437  cd e:
+  438  cd new
+  439  cd glutp
+  440  cd glutp
+  441  ls
+  442  cd glutp
+  443  for f in `cat src_files `; do echo $f ; grep idle_enable "$f"; done
+  444  make streaming_data
+  445  make streaming_data
+  446  ls
+  447  cat hist1
+  448  ls -al | grep Mar
+  449  ls -al | grep Mar | grep 22
+  450  cat mydata | ./streaming_data -asdfsd
+  451  make streaming_data
+  452  make streaming_data
+  453  make streaming_data
+  454  cat mydata | ./streaming_data -asdfsd
+  455  make streaming_data
+  456  make streaming_data
+  457  cat mydata | ./streaming_data -asdfsd
+  458  make streaming_data
+  459  make streaming_data
+  460  make streaming_data
+  461  cat mydata | ./streaming_data -asdfsd
+  462  make streaming_data
+  463  make streaming_data
+  464  cat mydata | ./streaming_data -asdfsd
+  465  make streaming_data
+  466  cat mydata | ./streaming_data -asdfsd
+  467  cat mydata
+  468  make streaming_data
+  469  cat mydata | ./streaming_data -asdfsd
+  470  make streaming_data
+  471  cat mydata | ./streaming_data -asdfsd
+  472  make streaming_data
+  473  make streaming_data
+  474  cat mydata | ./streaming_data -asdfsd
+  475  cat mydata | ./streaming_data -asdfsd
+  476  make streaming_data
+  477  cat mydata | ./streaming_data -asdfsd
+  478  make streaming_data
+  479  cat mydata | ./streaming_data -asdfsd
+  480  make streaming_data
+  481  cat mydata | ./streaming_data -asdfsd
+  482  make streaming_data
+  483  cat mydata | ./streaming_data -asdfsd
+  484  make streaming_data
+  485  for f in 1 2 3 4 5 6 7 ; do cat mydata;done | ./streaming_data -asdfsd
+  486  while [ 1 == 1]  ; do cat mydata;done | ./streaming_data -asdfsd
+  487  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  488  make streaming_data
+  489  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  490  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  491  make streaming_data
+  492  make streaming_data
+  493  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  494  make streaming_data
+  495  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  496  make streaming_data
+  497  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  498  ls
+  499  history > hist2
+  500  . srecord
+  501  usptopat3 -search marchywka
+  502  usptopat3 -browse -search marchywka
+  503  usptopat3 -list -search marchywka
+  504  usptopat2 -app -browse -search marchywka
+  505  usptopat2 -app -list -search marchywka
+  506  usptopat2  -list -search marchywka
+  507  usptopat2  -browse -search marchywka
+  508  usptopat2  -list -browse -search marchywka
+  509  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  510  more  my_pat_refs.txt
+  511  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  512  usptopat2  -list -browse -search "IN/marchywka"
+  513  usptopat2  -browse -search "IN/marchywka"
+  514  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  515  cd e:
+  516  cd new
+  517  cd glutp/
+  518  cd glutp/
+  519  ls
+  520  cd glutp/
+  521  make streaming_data
+  522  make streaming_data
+  523  ls hi*
+  524  cat hist2
+  525  cat hist2 
+  526  cat hist2  | grep 561 >  /dev/clipboard
+  527  #   561  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  528  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  529  make streaming_data
+  530  make streaming_data
+  531  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  532  make streaming_data
+  533  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  534  make streaming_data
+  535  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  536  make streaming_data
+  537  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  538  make streaming_data
+  539  make streaming_data
+  540  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  541  make streaming_data
+  542  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  543  make streaming_data
+  544  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  545  make streaming_data
+  546  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  547  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  548  make streaming_data
+  549  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  550  g++ -Wall -O3 -o stats_test stats_test.cpp
+  551  make stats_test
+  552  make stats_test
+  553  make stats_test
+  554  make stats_test
+  555  make stats_test
+  556  ./stats_test -adfasd
+  557  ./stats_test -adfasd| awk '{print $3*100+100}'
+  558  ./stats_test -adfasd| awk '{print $3*100+100}' > daa
+  559  cat daa | sed -e 's/\..*//'
+  560  cat daa | sed -e 's/\..*//' | sort -g -r | uniq -c | more
+  561  cat daa | sed -e 's/\..*//' | sort -g -r | uniq -c >daa_histo
+  562  mstartx
+  563  cat daa_histo  | xgraph
+  564  set DISPLAY=:0
+  565  cat daa_histo  | xgraph
+  566  set DISPLAY:=0
+  567  cat daa_histo  | xgraph
+  568  export DISPLAY=:0
+  569  cat daa_histo  | xgraph
+  570  make stats_test
+  571  make stats_test
+  572  ./stats_test -adfasd
+  573  make stats_test
+  574  make stats_test
+  575  ./stats_test -adfasd
+  576  make stats_test
+  577  make stats_test
+  578  make stats_test
+  579  ./stats_test -adfasd
+  580  ./stats_test -adfasd| grep -v x
+  581  make stats_test
+  582  ./stats_test -adfasd| awk '{print $3*100}'
+  583  ./stats_test -adfasd| awk '{print $3*1000}'
+  584  history
+  585  ls
+  586  history > hist3

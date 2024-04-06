@@ -1,0 +1,14 @@
+
+DEBUG FAIL
+color_file color.dat
+radius_file radii.dat
+pdb_file 2AQ2.pdb
+figure_param user_figure_name
+user_figure_name probe_radius=1 neighbor_radius=15 center_index=20 center=0,0,0 make_shell=1
+point_list_param pl_parameters
+pl_parameters neighbor_radius=15 probe_radius=1 grid_space=1 shell_thickness=1 safety_radius=3
+SCRIPT hide,0,0 zoom,500
+
+
+
+

@@ -1,0 +1,28 @@
+select 0 type=ATOM chain=1
+select 0 type=ATOM chain=2
+# only one is actually CEA
+#prop 1 selected=ch1 residue=CEA element=S
+#prop 2 selected=ch2 residue=CEA element=S
+prop 0 selected=CEAS residue=CEA element=S
+# rediplay will be slow...
+stree 2+hide 1
+stree 1+hide 1
+$let xx $CEAS[0]+.1
+xpot 1 asdf DEF=pkey start=$xx,$CEAS[1],$CEAS[2]  target=5
+xpot 2 asdf DEF=pkey start=$xx,$CEAS[1],$CEAS[2]  target=5
+pot 1 asdf DEF=pkey start=$xx,$CEAS[1],$CEAS[2]  target=1.5
+pot 2 asdf DEF=pkey start=$xx,$CEAS[1],$CEAS[2]  target=1.5
+#caving 1 DEF=ceacavity center=$CEAS[0],$CEAS[1],$CEAS[2] 
+
+stree 0+hide 1
+stree 0 3 0<hide 0
+#caving 2 DEF=ceacavity center=$CEAS[0],$CEAS[1],$CEAS[2] 
+
+stree 0 3 0+dia .2
+stree 0 4 0+dia .2
+rotcen $CEAS[0] $CEAS[1] $CEAS[2] 
+move -50 -50
+zoom 200
+stree 2 0<hide 0
+stree 2 1<hide 0
+#source ./cf/src.mike

@@ -1,0 +1,6 @@
+-name 2it5 -out out2it5_0 -format 0 -query ./tget/zzzz2it5 -out out2it5_1 -format 1 -query ./tget/zzzz2it5
+-name 3ci8 -out out3ci8_0 -format 0 -query ./tget/zzzz3ci8 -out out3ci8_1 -format 1 -query ./tget/zzzz3ci8
+-name 1ac4 -out out1ac4_0 -format 0 -query ./tget/zzzz1ac4 -out out1ac4_1 -format 1 -query ./tget/zzzz1ac4
+-name cd25e -out outcd25e_0 -format 0 -query ./tget/zzzzcd25e -out outcd25e_1 -format 1 -query ./tget/zzzzcd25e
+-name 1ezf -out out1ezf_0 -format 0 -query ./tget/zzzz1ezf -out out1ezf_1 -format 1 -query ./tget/zzzz1ezf
+-name 1XVL -out out1XVL_0 -format 0 -query ./tget/zzzz1XVL -out out1XVL_1 -format 1 -query ./tget/zzzz1XVL

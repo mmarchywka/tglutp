@@ -1,0 +1,106 @@
+HEADER    TRANSFERASE                             01-FEB-03   1NUQ              
+TITLE     CRYSTAL STRUCTURE OF HUMAN CYTOSOLIC NMN/NAMN                         
+TITLE    2 ADENYLYLTRANSFERASE COMPLEXED WITH NAAD                              
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    X.ZHANG,O.V.KURNASOV,S.KARTHIKEYAN,N.V.GRISHIN,A.L.OSTERMAN,          
+AUTHOR   2 H.ZHANG                                                              
+JRNL        AUTH   X.ZHANG,O.V.KURNASOV,S.KARTHIKEYAN,N.V.GRISHIN,              
+JRNL        AUTH 2 A.L.OSTERMAN,H.ZHANG                                         
+JRNL        TITL   STRUCTURAL CHARACTERIZATION OF A HUMAN CYTOSOLIC             
+JRNL        TITL 2 NMN/NAMN ADENYLYLTRANSFERASE AND IMPLICATION IN              
+JRNL        TITL 3 HUMAN NAD BIOSYNTHESIS                                       
+JRNL        REF    J.BIOL.CHEM.                  V. 278 13503 2003              
+JRNL        REFN   ASTM JBCHA3  US ISSN 0021-9258                               
+HETNAM     DND NICOTINIC ACID ADENINE DINUCLEOTIDE                              
+HETSYN     DND DEAMIDO-NAD+                                                     
+FORMUL   1  DND    C21 H27 N6 O15 P2 1+                                         
+HETATM    1  PN  DND   401       9.935   7.335  18.173  1.00 35.33           P  
+HETATM    2 O1PN DND   401      10.893   6.337  18.731  1.00 37.35           O  
+HETATM    3 O2PN DND   401       8.791   6.715  17.420  1.00 39.52           O  
+HETATM    4  O3P DND   401      10.614   8.438  17.209  1.00 36.15           O  
+HETATM    5 O5'N DND   401       9.524   8.377  19.298  1.00 36.85           O  
+HETATM    6 C5'N DND   401       9.086   7.926  20.607  1.00 33.00           C  
+HETATM    7 C4'N DND   401       8.800   9.188  21.342  1.00 29.65           C  
+HETATM    8 O4'N DND   401       7.607   8.969  22.131  1.00 28.96           O  
+HETATM    9 C3'N DND   401       9.897   9.659  22.311  1.00 28.19           C  
+HETATM   10 O3'N DND   401       9.951  11.110  22.314  1.00 26.19           O  
+HETATM   11 C2'N DND   401       9.390   9.141  23.652  1.00 27.06           C  
+HETATM   12 O2'N DND   401       9.912   9.897  24.755  1.00 25.92           O  
+HETATM   13 C1'N DND   401       7.889   9.275  23.483  1.00 26.68           C  
+HETATM   14  N1N DND   401       7.163   8.390  24.373  1.00 26.25           N  
+HETATM   15  C6N DND   401       6.984   6.974  24.127  1.00 27.01           C  
+HETATM   16  C5N DND   401       6.322   6.138  24.946  1.00 26.04           C  
+HETATM   17  C4N DND   401       5.700   6.682  26.237  1.00 26.80           C  
+HETATM   18  C3N DND   401       5.880   8.135  26.485  1.00 25.28           C  
+HETATM   19  C2N DND   401       6.620   8.939  25.516  1.00 26.58           C  
+HETATM   20  C7N DND   401       5.361   8.887  27.661  1.00 23.80           C  
+HETATM   21  O7N DND   401       4.740   8.176  28.470  1.00 27.91           O  
+HETATM   22  O8N DND   401       5.537  10.205  27.834  1.00 23.03           O  
+HETATM   23  PA  DND   401      10.912   8.327  15.651  1.00 37.41           P  
+HETATM   24 O1PA DND   401      12.268   8.941  15.424  1.00 31.95           O  
+HETATM   25 O2PA DND   401      10.737   6.929  15.154  1.00 32.06           O  
+HETATM   26 O5'A DND   401       9.814   9.230  14.883  1.00 35.40           O  
+HETATM   27 C5'A DND   401       9.536  10.599  15.346  1.00 32.60           C  
+HETATM   28 C4'A DND   401       8.219  10.958  14.705  1.00 29.17           C  
+HETATM   29 O4'A DND   401       8.241  10.707  13.290  1.00 31.50           O  
+HETATM   30 C3'A DND   401       7.016  10.174  15.242  1.00 28.19           C  
+HETATM   31 O3'A DND   401       6.007  11.104  15.698  1.00 24.12           O  
+HETATM   32 C2'A DND   401       6.618   9.343  14.020  1.00 30.14           C  
+HETATM   33 O2'A DND   401       5.206   9.121  14.015  1.00 28.50           O  
+HETATM   34 C1'A DND   401       7.044  10.229  12.864  1.00 32.63           C  
+HETATM   35  N9A DND   401       7.299   9.507  11.621  1.00 34.69           N  
+HETATM   36  C4A DND   401       6.538   9.627  10.499  1.00 37.38           C  
+HETATM   37  N3A DND   401       5.444  10.423  10.334  1.00 38.09           N  
+HETATM   38  C2A DND   401       4.919  10.327   9.114  1.00 39.36           C  
+HETATM   39  N1A DND   401       5.376   9.551   8.068  1.00 38.93           N  
+HETATM   40  C6A DND   401       6.493   8.754   8.261  1.00 39.39           C  
+HETATM   41  C5A DND   401       7.130   8.797   9.552  1.00 38.23           C  
+HETATM   42  N7A DND   401       8.244   8.131  10.078  1.00 37.95           N  
+HETATM   43  C8A DND   401       8.297   8.608  11.342  1.00 36.08           C  
+HETATM   44  N6A DND   401       6.917   8.013   7.230  1.00 39.80           N  
+CONECT    1    2    3    4    5                                                 
+CONECT    2    1                                                                
+CONECT    3    1                                                                
+CONECT    4    1   23                                                           
+CONECT    5    1    6                                                           
+CONECT    6    5    7                                                           
+CONECT    7    6    8    9                                                      
+CONECT    8    7   13                                                           
+CONECT    9    7   10   11                                                      
+CONECT   10    9                                                                
+CONECT   11    9   12   13                                                      
+CONECT   12   11                                                                
+CONECT   13    8   11   14                                                      
+CONECT   14   13   15   19                                                      
+CONECT   15   14   16                                                           
+CONECT   16   15   17                                                           
+CONECT   17   16   18                                                           
+CONECT   18   17   19   20                                                      
+CONECT   19   14   18                                                           
+CONECT   20   18   21   22                                                      
+CONECT   21   20                                                                
+CONECT   22   20                                                                
+CONECT   23    4   24   25   26                                                 
+CONECT   24   23                                                                
+CONECT   25   23                                                                
+CONECT   26   23   27                                                           
+CONECT   27   26   28                                                           
+CONECT   28   27   29   30                                                      
+CONECT   29   28   34                                                           
+CONECT   30   28   31   32                                                      
+CONECT   31   30                                                                
+CONECT   32   30   33   34                                                      
+CONECT   33   32                                                                
+CONECT   34   29   32   35                                                      
+CONECT   35   34   36   43                                                      
+CONECT   36   35   37   41                                                      
+CONECT   37   36   38                                                           
+CONECT   38   37   39                                                           
+CONECT   39   38   40                                                           
+CONECT   40   39   41   44                                                      
+CONECT   41   36   40   42                                                      
+CONECT   42   41   43                                                           
+CONECT   43   35   42                                                           
+CONECT   44   40                                                                
+END                                                                             
+

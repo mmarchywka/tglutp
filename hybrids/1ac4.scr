@@ -1,0 +1,4 @@
+SCRIPT zoom,600
+SCRIPT move,0,-300
+SCRIPT rotcen,-5,57,111
+

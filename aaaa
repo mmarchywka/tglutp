@@ -1,0 +1,18 @@
+    Usage: stats_test
+     Generate various survival curves.
+     This is monte carlo code designed to do brute force simulation of various
+     clinical trial scenarios. It was written specifically to examine a trial
+     from Dendreon, but I have generalized it somewhat and used it to test the
+     related program 'streaming_data' that can visualize data generated in real time.
+     It is designed to be simplistic and adpatable by source code additions and not
+     to be completely general for user in current form. 
+     Note that, unfortunately, this cmd parser doesn't report errors, use this to check:
+     -DEBUG : turn on cmd parse diagnostics for subsequent parameter reads  
+    -n1 N : number in group 1  
+    -n2 N : number in group 2  
+    -m1 N : slope of group 1  
+    -m2 N : slope for group 2  
+    -events N: limit statistic to first N events  
+    -disp_interval N : trials per display ( which can be slow)  
+    -ok_limit N : threshold on test statistic  
+      Contact: marchywka@hotmail.com, Mike Marchywka 2008

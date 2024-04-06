@@ -1,0 +1,26 @@
+
+> Date: Wed, 2 Apr 2008 10:52:07 +0200
+> From: markii@came.sbg.ac.at
+> To: bbb@bioinformatics.org
+> Subject: Re: [BiO BB] TopMatch protein structure alignment and superposition web service
+>
+> Hi Mike,
+>
+> thanks for pointing to this interesting test case.
+>
+> Indeed, the structural similarity of dehydrosqualene synthase (PDB codes: 2zco, 2zcp, 2zcq, 2zcr, 2czs) 
+and humane squalene synthase (PDB codes 1ezf) is striking in the view of their low sequence identity. TopMatch-web yields an RMS of 3.5A and a sequence identity of 11% if the respective chains A are compared.
+>
+> Talking about finding such similarities: one tool that is really helpful for this task is the qCOPS web service (some advertising again ;-) at
+> http://navi.services.came.sbg.ac.at/bin/qCOPS.html
+>
+> For each protein deposited in PDB, you can easily explore its structural neighborhood and visualize structural similarities with TopMatch.
+> If you try with the example you mentioned, you find the dehydrosqualene synthase structures assigned to be similar to 1ezf.
+>
+> For further information on qCOPS, see
+> Sippl et al.
+> A Discrete View on Fold Space
+> Bioinformatics, 24, pp. 870-871 (2008)
+> (Open Access: http://bioinformatics.oxfordjournals.org/cgi/reprint/btn020?ijkey=7zgnEsdKQIEfrN7&keytype=ref)
+>
+> Best regards,

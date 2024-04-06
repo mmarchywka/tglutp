@@ -1,0 +1,9 @@
+This set of programs uses both the glutp project
+( the molecule and data viewer stuff ) as well as
+the "annotate"( string procssoor, AFFX project ).
+
+The glutp program contained some pdb reading classes
+but the AFFX command handler and other stuff was
+much better suited to these pdf manipulation tasks.
+
+

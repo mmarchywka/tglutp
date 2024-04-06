@@ -1,0 +1,6 @@
+DxEBUG
+color_file colbr.dat
+radius_file radii.dat
+# This is needed to load the color and radius files.. 
+SCRIPT source,./qfolayy.dat
+

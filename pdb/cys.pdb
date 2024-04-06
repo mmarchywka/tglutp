@@ -1,0 +1,38 @@
+HEADER    ZINC FINGER                             20-NOV-97   1ZNM              
+TITLE     A ZINC FINGER WITH AN ARTIFICIAL BETA-TURN, ORIGINAL                  
+TITLE    2 SEQUENCE TAKEN FROM THE THIRD ZINC FINGER DOMAIN OF THE              
+TITLE    3 HUMAN TRANSCRIPTIONAL REPRESSOR PROTEIN YY1 (YING AND YANG           
+TITLE    4 1, A DELTA TRANSCRIPTION FACTOR), NMR, 34 STRUCTURES                 
+EXPDTA    NMR, 34 STRUCTURES                                                    
+AUTHOR    J.H.VILES,S.U.PATEL,J.B.O.MITCHELL,C.M.MOODY,D.E.JUSTICE,             
+AUTHOR   2 J.UPPENBRINK,P.M.DOYLE,C.J.HARRIS,P.J.SADLER,J.M.THORNTON            
+JRNL        AUTH   J.H.VILES,S.U.PATEL,J.B.MITCHELL,C.M.MOODY,                  
+JRNL        AUTH 2 D.E.JUSTICE,J.UPPENBRINK,P.M.DOYLE,C.J.HARRIS,               
+JRNL        AUTH 3 P.J.SADLER,J.M.THORNTON                                      
+JRNL        TITL   DESIGN, SYNTHESIS AND STRUCTURE OF A ZINC FINGER             
+JRNL        TITL 2 WITH AN ARTIFICIAL BETA-TURN.                                
+JRNL        REF    J.MOL.BIOL.                   V. 279   973 1998              
+JRNL        REFN   ASTM JMOBAK  UK ISSN 0022-2836                               
+HETNAM     BTC CYSTEINE                                                         
+HETSYN     BTC BIS-TRIS BUFFER                                                  
+FORMUL   1  BTC    C3 H7 N1 O2 S1                                               
+HETATM    1  N   BTC A   8      17.060  11.199   4.120  1.00  0.00           N  
+HETATM    2  CA  BTC A   8      16.531  11.741   2.828  1.00  0.00           C  
+HETATM    3  CB  BTC A   8      16.829  13.240   2.862  1.00  0.00           C  
+HETATM    4  SG  BTC A   8      18.254  13.497   3.927  1.00  0.00           S  
+HETATM    5  C   BTC A   8      17.264  11.068   1.665  1.00  0.00           C  
+HETATM    6  O   BTC A   8      17.014  11.350   0.510  1.00  0.00           O  
+HETATM    7  HA  BTC A   8      15.468  11.573   2.754  1.00  0.00           H  
+HETATM    8 1HB  BTC A   8      15.978  13.773   3.258  1.00  0.00           H  
+HETATM    9 2HB  BTC A   8      17.049  13.591   1.864  1.00  0.00           H  
+CONECT    1    2                                                                
+CONECT    2    1    7    3    5                                                 
+CONECT    3    2    8    9    4                                                 
+CONECT    4    3                                                                
+CONECT    5    2    6                                                           
+CONECT    6    5                                                                
+CONECT    7    2                                                                
+CONECT    8    3                                                                
+CONECT    9    3                                                                
+END                                                                             
+

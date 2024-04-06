@@ -1,0 +1,29 @@
+DEBUG FAIL
+color_file color.dat
+radius_file radii.dat
+pdb_filex e.pdb
+pdb_file ./pdb/tb2.pdb
+figure_xparam user_figure_name
+user_figure_name probe_radius=1 neighbor_radius=1 center_index=20 center=0,0,0 make_shell=0
+point_list_param pl_parameters
+pl_xparameters neighbor_radius=1 probe_radius=1 grid_space=21 shell_thickness=.3 safety_radius=3
+SCRIPxT stree,0+style,1 stree,0+substyle,1 zoom,500 move,-200,-150
+SCRIxPT zoom,200 rotcen,62,38,20
+SCRIxPT energy,0,start=65+40+20,target=2.5,ds=.2,dy=.2,points_i=100,points_j=100,imax=200
+SCRIxPT stree,2+dia,.2
+SCRIPT stree,0+hide,1 zoom,500 move,-200,-150 stree,1+hide,1
+SCRIPT select,0,tun stree,0,1>hide,0 stree,0,1<hide,0 stree,0,1+style,1 
+SCRIPT stree,0,1+substyle,3
+SCRIPT rotcen,50,-16,-50
+SCRIPT stree,0+hide,1 move,1,200
+SCRIPT select,0,cys,segment_count=0,residue=CYS stree,0,2>hide,0 stree,0,2<hide,0
+SCRIPT pot,1,DEF=akey
+akey ds=.2,dy=.5,points_i=400,points_j=400,imax=50,start=70-31-57,target=-.005,dir_j=110-20-93,dir_i=6-30+14
+SCRIPT stree,0+style,1 stree,0+substyle,3
+SCRIPT stree,2+dia,.2 stree,2+light,7
+defkey cutoff=25 type=ATOM segment_count=3 point1=6-6+2+60-14-40 cutoff2=40
+defkey point2=60-14-40+80-18-60 point3=80-18-60+119-26-95 cutoff1=30 cutoff3=30
+dxefkey cutoff=30 type=ATOM segment_count=1 point1=6-6+2+119-26-95
+isoxdefkey ds=.2 dy=2 points_i=50 points_j=10 imax=50 start=50-16-50 target=3.5
+
+pxotential ds=.2 dy=2 points_i=50 points_j=10 imax=50 start=50-16-50 target=3.5 

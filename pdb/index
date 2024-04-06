@@ -1,0 +1,770 @@
+1ATG:COMPND    Azotobacter Vinelandii Periplasmic Molybdate-Binding Protein
+1B05:COMPND    Structure Of Oligo-Peptide Binding Protein Complexed With   
+1B05:COMPND   2 Lys-Cys-Lys                                                
+1B0U:COMPND    Atp-Binding Subunit Of The Histidine Permease From          
+1B0U:COMPND   2 Salmonella Typhimurium                                     
+1B32:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kmk     
+1B3F:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Khk     
+1B3G:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kik     
+1B3L:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kgk     
+1B40:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kfk     
+1B46:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kpk     
+1B4Z:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kdk     
+1B51:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Ksk     
+1B52:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Ktk     
+1B58:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kyk     
+1B5I:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Knk     
+1B5J:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kqk     
+1B9J:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Klk     
+1BDO:COMPND    Structure Of The Biotinyl Domain Of Acetyl-Coenzyme A       
+1BDO:COMPND   2 Carboxylase Determined By Mad Phasing                      
+1BH7:COMPND    A Low Energy Structure For The Final Cytoplasmic Loop Of    
+1BH7:COMPND   2 Band 3, Nmr, Minimized Average Structure                   
+1BLE:COMPND    Phosphoenolpyruvate-Dependent Phosphotransferase System     
+1BNX:COMPND    Structural Studies On The Effects Of The Deletion In The Red
+1BNX:COMPND   2 Cell Anion Exchanger (Band3, Ae1) Associated With South    
+1BNX:COMPND   3 East Asian Ovalocytosis.                                   
+1BOW:COMPND    Multidrug-Binding Domain Of Transcription Activator Bmrr    
+1BOW:COMPND   2 (Apo Form)                                                 
+1BZK:COMPND    Structural Studies On The Effects Of The Deletion In The Red
+1BZK:COMPND   2 Cell Anion Exchanger (Band3, Ae1) Associated With South    
+1BZK:COMPND   3 East Asian Ovalocytosis.                                   
+1DAD:COMPND    Dethiobiotin Synthetase Complexed With Adp                  
+1DAE:COMPND    Dethiobiotin Synthetase Complexed With 3-(1-Aminoethyl)     
+1DAE:COMPND   2 Nonanedioic Acid                                           
+1DAF:COMPND    Dethiobiotin Synthetase Complexed With 7-(Carboxyamino)-8-  
+1DAF:COMPND   2 Amino-Nonanoic Acid, Adp, And Calcium                      
+1DAG:COMPND    Dethiobiotin Synthetase Complexed With 7-(Carboxyamino)-8-  
+1DAG:COMPND   2 Amino-Nonanoic Acid And 5'-Adenosyl-Methylene-Triphosphate 
+1DAH:COMPND    Dethiobiotin Synthetase Complexed With 7,8-Diamino-Nonanoic 
+1DAH:COMPND   2 Acid, 5'-Adenosyl-Methylene-Triphosphate, And Manganese    
+1DAI:COMPND    Dethiobiotin Synthetase Complexed With 7-(Carboxyamino)-8-  
+1DAI:COMPND   2 Amino-Nonanoic Acid                                        
+1DTS:COMPND    Crystal Structure Of An Atp Dependent Carboxylase,          
+1DTS:COMPND   2 Dethiobiotin Synthase, At 1.65 Angstroms Resolution        
+1ELJ:COMPND    The Crystal Structure Of Liganded Maltodextrin-Binding      
+1ELJ:COMPND   2 Protein From Pyrococcus Furiosus                           
+1EU8:COMPND    Structure Of Trehalose Maltose Binding Protein From         
+1EU8:COMPND   2 Thermococcus Litoralis                                     
+1EXI:COMPND    Crystal Structure Of Transcription Activator Bmrr, From B.  
+1EXI:COMPND   2 Subtilis, Bound To 21 Base Pair Bmr Operator And Tpsb      
+1EXJ:COMPND    Crystal Structure Of Transcription Activator Bmrr, From B.  
+1EXJ:COMPND   2 Subtilis, Bound To 21 Base Pair Bmr Operator And Tpp       
+1F3O:COMPND    Crystal Structure Of Mj0796 Atp-Binding Cassette            
+1FEP:COMPND    Ferric Enterobactin Receptor                                
+1FI1:COMPND    Fhua In Complex With Lipopolysaccharide And Rifamycin       
+1FI1:COMPND   2 Cgp4832                                                    
+1FVQ:COMPND    Solution Structure Of The Yeast Copper Transporter Domain   
+1FVQ:COMPND   2 Ccc2a In The Apo And Cu(I) Loaded States                   
+1FVS:COMPND    Solution Structure Of The Yeast Copper Transporter Domain   
+1FVS:COMPND   2 Ccc2a In The Apo And Cu(I) Load States                     
+1G29:COMPND    Malk                                                        
+1G6H:COMPND    Crystal Structure Of The Adp Conformation Of Mj1267, An Atp-
+1G6H:COMPND   2 Binding Cassette Of An Abc Transporter                     
+1G9X:COMPND    Characterization Of The Twinning Structure Of Mj1267, An    
+1G9X:COMPND   2 Atp-Binding Cassette Of An Abc Transporter                 
+1GAJ:COMPND    Crystal Structure Of A Nucleotide-Free Atp-Binding Cassette 
+1GAJ:COMPND   2 From An Abc Transporter                                    
+1IBA:COMPND    Glucose Permease (Domain Iib), Nmr, 11 Structures           
+1IEN:COMPND    Solution Structure Of Tia                                   
+1IEO:COMPND    Solution Structure Of Mrib-Nh2                              
+1IWG:COMPND    Crystal Structure Of Bacterial Multidrug Efflux Transporter 
+1IWG:COMPND   2 Acrb                                                       
+1J6T:COMPND    Complex Of Enzyme Iiamtl And The Histidine-Containing       
+1J6T:COMPND   2 Phosphocarrier Protein Hpr From Escherichia Coli Nmr,      
+1J6T:COMPND   3 Restrained Regularized Mean Structure                      
+1JBG:COMPND    Crystal Structure Of Mtan, The Bacillus Subtilis Multidrug  
+1JBG:COMPND   2 Transporter Activator, N-Terminus                          
+1JET:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kak     
+1JEU:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kek     
+1JEV:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kwk     
+1JI0:COMPND    Crystal Structure Analysis Of The Abc Transporter From      
+1JI0:COMPND   2 Thermotoga Maritima                                        
+1JJ7:COMPND    Crystal Structure Of The C-Terminal Atpase Domain Of Human  
+1JJ7:COMPND   2 Tap1                                                       
+1KJM:COMPND    Tap-A-Associated Rat Mhc Class I Molecule                   
+1KJV:COMPND    Tap-B-Associated Rat Mhc Class I Molecule                   
+1KMO:COMPND    Crystal Structure Of The Outer Membrane Transporter Feca    
+1KMP:COMPND    Crystal Structure Of The Outer Membrane Transporter Feca    
+1KMP:COMPND   2 Complexed With Ferric Citrate                              
+1KPK:COMPND    Crystal Structure Of The Clc Chloride Channel From E. Coli  
+1L2T:COMPND    Dimeric Structure Of Mj0796, A Bacterial Abc Transporter    
+1L2T:COMPND   2 Cassette                                                   
+1L7V:COMPND    Bacterial Abc Transporter Involved In B12 Uptake            
+1LR0:COMPND    Pseudomonas Aeruginosa Tola Domain Iii, Seleno-Methionine   
+1LR0:COMPND   2 Derivative                                                 
+1MT0:COMPND    Atp-Binding Domain Of Haemolysin B From Escherichia Coli    
+1MV5:COMPND    Crystal Structure Of Lmra Atp-Binding Domain                
+1N2Z:COMPND    2.0 Angstrom Structure Of Btuf, The Vitamin B12 Binding     
+1N2Z:COMPND   2 Protein Of E. Coli                                         
+1N4A:COMPND    The Ligand Bound Structure Of E.Coli Btuf, The Periplasmic  
+1N4A:COMPND   2 Binding Protein For Vitamin B12                            
+1N4D:COMPND    The Ligand-Free Structure Of E Coli Btuf, The Periplasmic   
+1N4D:COMPND   2 Binding Protein For Vitamin B12                            
+1NQE:COMPND    Outer Membrane Cobalamin Transporter (Btub) From E. Coli    
+1NQF:COMPND    Outer Membrane Cobalamin Transporter (Btub) From E. Coli,   
+1NQF:COMPND   2 Methionine Substiution Construct For Se-Met Sad Phasing    
+1NQG:COMPND    Outer Membrane Cobalamin Transporter (Btub) From E. Coli,   
+1NQG:COMPND   2 With Bound Calcium                                         
+1NQH:COMPND    Outer Membrane Cobalamin Transporter (Btub) From E. Coli,   
+1NQH:COMPND   2 With Bound Calcium And Cyanocobalamin (Vitamin B12)        
+1NQH:COMPND   3 Substrate                                                  
+1O2F:COMPND    Complex Of Enzyme Iiaglc And Iibglc Phosphocarrier Protein  
+1O2F:COMPND   2 Hpr From Escherichia Coli Nmr, Restrained Regularized Mean 
+1O2F:COMPND   3 Structure                                                  
+1OKC:COMPND    Structure Of Mitochondrial AdpATP CARRIER IN COMPLEX WITH   
+1OKC:COMPND   2 Carboxyatractyloside                                       
+1OXS:COMPND    Crystal Structure Of Glcv, The Abc-Atpase Of The Glucose Abc
+1OXS:COMPND   2 Transporter From Sulfolobus Solfataricus                   
+1OXT:COMPND    Crystal Structure Of Glcv, The Abc-Atpase Of The Glucose Abc
+1OXT:COMPND   2 Transporter From Sulfolobus Solfataricus                   
+1OXU:COMPND    Crystal Structure Of Glcv, The Abc-Atpase Of The Glucose Abc
+1OXU:COMPND   2 Transporter From Sulfolobus Solfataricus                   
+1OXV:COMPND    Crystal Structure Of Glcv, The Abc-Atpase Of The Glucose Abc
+1OXV:COMPND   2 Transporter From Sulfolobus Solfataricus                   
+1OXX:COMPND    Crystal Structure Of Glcv, The Abc-Atpase Of The Glucose Abc
+1OXX:COMPND   2 Transporter From Sulfolobus Solfataricus                   
+1PDO:COMPND    Phosphoenolpyruvate-Dependent Phosphotransferase System     
+1PNZ:COMPND    Crystal Structure Of Ferric Citrate Transporter Feca In The 
+1PNZ:COMPND   2 Unliganded Form                                            
+1PO0:COMPND    Crystal Structure Of Ferric Citrate Transporter Feca In     
+1PO0:COMPND   2 Complex With Iron-Free Citrate                             
+1PO3:COMPND    Crystal Structure Of Ferric Citrate Transporter Feca In     
+1PO3:COMPND   2 Complex With Ferric Citrate                                
+1PQ4:COMPND    Crystal Structure Of Znua                                   
+1PSZ:COMPND    Pneumococcal Surface Antigen Psaa                           
+1PW4:COMPND    Crystal Structure Of The Glycerol-3-Phosphate Transporter   
+1PW4:COMPND   2 From E.Coli                                                
+1Q1E:COMPND    The Atpase Component Of E. Coli Maltose Transporter (Malk)  
+1Q1E:COMPND   2 In The Nucleotide-Free Form                                
+1Q3H:COMPND    Mouse Cftr Nbd1 With Amp.Pnp                                
+1QJQ:COMPND    Ferric Hydroxamate Receptor From Escherichia Coli (Fhua)    
+1QKA:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Krk     
+1QKB:COMPND    Oligo-Peptide Binding Protein (Oppa) Complexed With Kvk     
+1QKC:COMPND    Escherichia Coli Ferric Hydroxamate Uptake Receptor (Fhua)  
+1QKC:COMPND   2 In Complex Delta Two-Albomycin                             
+1R0W:COMPND    Cystic Fibrosis Transmembrane Conductance Regulator (Cftr)  
+1R0W:COMPND   2 Nucleotide-Binding Domain One (Nbd1) Apo                   
+1R0X:COMPND    Cystic Fibrosis Transmembrane Conductance Regulator (Cftr)  
+1R0X:COMPND   2 Nucleotide-Binding Domain One (Nbd1) With Atp              
+1R0Y:COMPND    Cystic Fibrosis Transmembrane Conductance Regulator (Cftr)  
+1R0Y:COMPND   2 Nucleotide-Binding Domain One (Nbd1) With Adp              
+1R0Z:COMPND    Phosphorylated Cystic Fibrosis Transmembrane Conductance    
+1R0Z:COMPND   2 Regulator (Cftr) Nucleotide-Binding Domain One (Nbd1) With 
+1R0Z:COMPND   3 Atp                                                        
+1R10:COMPND    Cystic Fibrosis Transmembrane Conductance Regulator (Cftr)  
+1R10:COMPND   2 Nucleotide-Binding Domain One (Nbd1) With Atp, I4122 Space 
+1R10:COMPND   3 Group                                                      
+1R48:COMPND    Solution Structure Of The C-Terminal Cytoplasmic Domain     
+1R48:COMPND   2 Residues 468-497 Of Escherichia Coli Protein Prop          
+1R5W.pdb:COMPND    Evidence That Structural Rearrangements AndOR FLEXIBILITY   
+1R5W.pdb:COMPND   2 During Tcr Binding Can Contribute To T-Cell Activation     
+1R8D:COMPND    Crystal Structure Of Mtan Bound To Dna                      
+1R8E:COMPND    Crystal Structure Of Bmrr Bound To Dna At 2.4a Resolution   
+1RKM:COMPND    Structure Of Oppa                                           
+1SGW:COMPND    Putative Abc Transporter (Atp-Binding Protein) From         
+1SGW:COMPND   2 Pyrococcus Furiosus Pfu-867808-001                         
+1T16:COMPND    Crystal Structure Of The Bacterial Fatty Acid Transporter   
+1T16:COMPND   2 Fadl From Escherichia Coli                                 
+1T1L:COMPND    Crystal Structure Of The Long-Chain Fatty Acid Transporter  
+1T1L:COMPND   2 Fadl                                                       
+1TLW:COMPND    Tsx Structure Complexed With Thymidine                      
+1TLY:COMPND    Tsx Structure                                               
+1TLZ:COMPND    Tsx Structure Complexed With Uridine                        
+1TOA:COMPND    Periplasmic Zinc Binding Protein Troa From Treponema        
+1TOA:COMPND   2 Pallidum                                                   
+1TWY:COMPND    Crystal Structure Of An Abc-Type Phosphate Transport        
+1TWY:COMPND   2 Receptor From Vibrio Cholerae                              
+1U77:COMPND    Crystal Structure Of Ammonia Channel Amtb From E. Coli      
+1U7C:COMPND    Crystal Structure Of Amtb From E.Coli With Methyl Ammonium. 
+1U7G:COMPND    Crystal Structure Of Ammonia Channel Amtb From E. Coli      
+1UJW:COMPND    Structure Of The Complex Between Btub And Colicin E3        
+1UJW:COMPND   2 Receptor Binding Domain                                    
+1V43:COMPND    Crystal Structure Of Atpase Subunit Of Abc Sugar Transporter
+1VCI:COMPND    Crystal Structure Of The Atp-Binding Cassette Of Multisugar 
+1VCI:COMPND   2 Transporter From Pyrococcus Horikoshii Ot3 Complexed With  
+1VCI:COMPND   3 Atp                                                        
+1VF7:COMPND    Crystal Structure Of The Membrane Fusion Protein, Mexa Of   
+1VF7:COMPND   2 The Multidrug Transporter                                  
+1VFV:COMPND    Crystal Structure Of The Kif1a Motor Domain Complexed With  
+1VFV:COMPND   2 Mg-Amppnp                                                  
+1VFW:COMPND    Crystal Structure Of The Kif1a Motor Domain Complexed With  
+1VFW:COMPND   2 Mg-Amppnp                                                  
+1VFX:COMPND    Crystal Structure Of The Kif1a Motor Domain Complexed With  
+1VFX:COMPND   2 Adp-Mg-Alfx                                                
+1VFZ:COMPND    Crystal Structure Of The Kif1a Motor Domain Complexed With  
+1VFZ:COMPND   2 Adp-Mg-Vo4                                                 
+1VH4:COMPND    Crystal Structure Of A Stabilizer Of Iron Transporter       
+1VKR:COMPND    Structure Of Iib Domain Of The Mannitol-Specific Permease   
+1VKR:COMPND   2 Enzyme Ii                                                  
+1VPL:COMPND    Crystal Structure Of Abc Transporter Atp-Binding Protein    
+1VPL:COMPND   2 (Tm0544) From Thermotoga Maritima At 2.10 A Resolution     
+1VR5:COMPND    Crystal Structure Of Oligopeptide Abc Transporter,          
+1VR5:COMPND   2 Periplasmic Oligopeptide-Binding (Tm1223) From Thermotoga  
+1VR5:COMPND   3 Maritima At 1.73 A Resolution                              
+1VRV:COMPND    Structure Of Phosphorylated Iib (C384(Sep)) Domain Of The   
+1VRV:COMPND   2 Mannitol-Specific Permease Enzyme Ii                       
+1VSQ:COMPND    Solution Nmr Structure Of The Productive Complex Between    
+1VSQ:COMPND   2 Iiamannose And Iibmannose Of The Mannose Transporter Of The
+1VSQ:COMPND   3 E. Coli Phosphotransferase System                          
+1WAZ:COMPND    Nmr Structure Determination Of The Bacterial Mercury        
+1WAZ:COMPND   2 Transporter, Merf, In Micelles                             
+1XC1:COMPND    Oxo Zirconium(Iv) Cluster In The Ferric Binding Protein     
+1XC1:COMPND   2 (Fbp)                                                      
+1XEF:COMPND    Crystal Structure Of The AtpMG2+ BOUND COMPOSITE DIMER OF   
+1XEF:COMPND   2 Hlyb-Nbd                                                   
+1XFH:COMPND    Structure Of Glutamate Transporter Homolog From Pyrococcus  
+1XFH:COMPND   2 Horikoshii                                                 
+1XK5:COMPND    Crystal Structure Of The M3g-Cap-Binding Domain Of          
+1XK5:COMPND   2 Snurportin1 In Complex With A M3gpppg-Cap Dinucleotide     
+1XOC:COMPND    The Structure Of The Oligopeptide-Binding Protein, Appa,    
+1XOC:COMPND   2 From Bacillus Subtilis In Complex With A Nonapeptide.      
+1XQE:COMPND    The Mechanism Of Ammonia Transport Based On The Crystal     
+1XQE:COMPND   2 Structure Of Amtb Of E. Coli.                              
+1XQF:COMPND    The Mechanism Of Ammonia Transport Based On The Crystal     
+1XQF:COMPND   2 Structure Of Amtb Of E. Coli.                              
+1XT8:COMPND    Crystal Structure Of Cysteine-Binding Protein From          
+1XT8:COMPND   2 Campylobacter Jejuni At 2.0 A Resolution                   
+1XVL:COMPND    The Three-Dimensional Structure Of Mntc From Synechocystis  
+1XVL:COMPND   2 6803                                                       
+1Y3N:COMPND    Structure Of Algq1, Alginate-Binding Protein, Complexed With
+1Y3N:COMPND   2 An Alginate Disaccharide                                   
+1Y3P:COMPND    Structure Of Algq1, Alginate-Binding Protein, Complexed With
+1Y3P:COMPND   2 An Alginate Tetrasaccharide                                
+1Y3Q:COMPND    Structure Of Algq1, Alginate-Binding Protein                
+1Z47:COMPND    Structure Of The Atpase Subunit Cysa Of The Putative Sulfate
+1Z47:COMPND   2 Atp-Binding Cassette (Abc) Transporter From                
+1Z47:COMPND   3 Alicyclobacillus Acidocaldarius                            
+1ZLQ:COMPND    Crystallographic And Spectroscopic Evidence For High        
+1ZLQ:COMPND   2 Affinity Binding Of Fe Edta (H2o)- To The Periplasmic      
+1ZLQ:COMPND   3 Nickel Transporter Nika                                    
+1ZZV:COMPND    Solution Nmr Structure Of The Periplasmic Signaling Domain  
+1ZZV:COMPND   2 Of The Outer Membrane Iron Transporter Feca From           
+1ZZV:COMPND   3 Escherichia Coli.                                          
+1ac4.pdb:COMPND    Variation In The Strength Of A Ch To O Hydrogen Bond In An  
+1ac4.pdb:COMPND   2 Artificial Protein Cavity (2,3,4-Trimethyl-1,3-Thiazole)   
+1ezf.pdb:COMPND    Crystal Structure Of Human Squalene Synthase                
+2A02:COMPND    Solution Nmr Structure Of The Periplasmic Signaling Domain  
+2A02:COMPND   2 Of The Outer Membrane Iron Transporter Pupa From           
+2A02:COMPND   3 Pseudomonas Putida.                                        
+2AQ2.pdb:COMPND    Crystal Structure Of T-Cell Receptor V Beta Domain Variant  
+2AQ2.pdb:COMPND   2 Complexed With Superantigen Sec3 Mutant                    
+2B2F:COMPND    Ammonium Transporter Amt-1 From A.Fulgidus (Native)         
+2B2H:COMPND    Ammonium Transporter Amt-1 From A. Fulgidus (As)            
+2B2I:COMPND    Ammonium Transporter Amt-1 From A. Fulgidus (Ma)            
+2B2J:COMPND    Ammonium Transporter Amt-1 From A. Fulgidus (Xe)            
+2B4L:COMPND    Crystal Structure Of The Binding Protein Opuac In Complex   
+2B4L:COMPND   2 With Glycine Betaine                                       
+2B4M:COMPND    Crystal Structure Of The Binding Protein Opuac In Complex   
+2B4M:COMPND   2 With Proline Betaine                                       
+2BBH:COMPND    X-Ray Structure Of T.Maritima Cora Soluble Domain           
+2BBJ:COMPND    Crystal Structure Of The Cora Mg2+ Transporter              
+2BL2:COMPND    The Membrane Rotor Of The V-Type Atpase From Enterococcus   
+2BL2:COMPND   2 Hirae                                                      
+2BOW:COMPND    Multidrug-Binding Domain Of Transcription Activator Bmrr In 
+2BOW:COMPND   2 Complex With A Ligand, Tetraphenylphosphonium              
+2CAP:COMPND    Serendipitous Discovery And X-Ray Structure Of A Human      
+2CAP:COMPND   2 Phosphate Binding Apolipoprotein                           
+2D1U:COMPND    Solution Strcuture Of The Periplasmic Signaling Domain Of   
+2D1U:COMPND   2 Feca From Escherichia Coli                                 
+2D3W:COMPND    Crystal Structure Of Escherichia Coli Sufc, An Atpase       
+2D3W:COMPND   2 Compenent Of The Suf Iron-Sulfur Cluster Assembly Machinery
+2D5W:COMPND    The Crystal Structure Of Oligopeptide Binding Protein From  
+2D5W:COMPND   2 Thermus Thermophilus Hb8 Complexed With Pentapeptide       
+2DHH:COMPND    Crystal Structure Of A Multidrug Transporter Reveal A       
+2DHH:COMPND   2 Functionally Rotating Mechanism                            
+2DR6:COMPND    Crystal Structure Of A Multidrug Transporter Reveal A       
+2DR6:COMPND   2 Functionally Rotating Mechanism                            
+2DRD:COMPND    Crystal Structure Of A Multidrug Transporter Reveal A       
+2DRD:COMPND   2 Functionally Rotating Mechanism                            
+2DVZ:COMPND    Structure Of A Periplasmic Transporter                      
+2DZD:COMPND    Crystal Structure Of The Biotin Carboxylase Domain Of       
+2DZD:COMPND   2 Pyruvate Carboxylase                                       
+2E30:COMPND    Solution Structure Of The Cytoplasmic Region Of Na+H+       
+2E30:COMPND   2 Exchanger 1 Complexed With Essential Cofactor Calcineurin B
+2E30:COMPND   3 Homologous Protein 1                                       
+2EJF:COMPND    Crystal Structure Of The Biotin Protein Ligase (Mutations   
+2EJF:COMPND   2 R48a And K111a) And Biotin Carboxyl Carrier Protein Complex
+2EJF:COMPND   3 From Pyrococcus Horikoshii Ot3                             
+2EJG:COMPND    Crystal Structure Of The Biotin Protein Ligase (Mutation    
+2EJG:COMPND   2 R48a) And Biotin Carboxyl Carrier Protein Complex From     
+2EJG:COMPND   3 Pyrococcus Horikoshii Ot3                                  
+2EJM:COMPND    Solution Structure Of Ruh-072, An Apo-Biotnyl Domain Form   
+2EJM:COMPND   2 Human Acetyl Coenzyme A Carboxylase                        
+2ENK:COMPND    Solution Structure Of A Putativ Dna-Binding Domain Of The   
+2ENK:COMPND   2 Humansolute Carrier Family 30 (Zinc Transporter) Protein   
+2ETV:COMPND    Crystal Structure Of Iron(Iii) Abc Transporter, Periplasmic 
+2ETV:COMPND   2 Iron-Binding Protein, Putative (Tm0189) From Thermotoga    
+2ETV:COMPND   3 Maritima At 1.70 A Resolution                              
+2EW4:COMPND    Solution Structure Of Mria                                  
+2EXW:COMPND    Crystal Structure Of A Ecclc-Fab Complex In The Absence Of  
+2EXW:COMPND   2 Bound Ions                                                 
+2EXY:COMPND    Crystal Structure Of The E148q Mutant Of Ecclc, Fab         
+2EXY:COMPND   2 Complexed In Absence Of Bound Ions                         
+2EZ0:COMPND    Crystal Structure Of The S107aE148QY445A MUTANT OF ECCLC, In
+2EZ0:COMPND   2 Complex With A Fab Fragment                                
+2FEC:COMPND    Structure Of The E203q Mutant Of The Cl-H+ EXCHANGER CLC-   
+2FEC:COMPND   2 Ec1 From E.Coli                                            
+2FED:COMPND    Structure Of The E203q Mutant Of The Cl-H+ EXCHANGER CLC-   
+2FED:COMPND   2 Ec1 From E.Coli                                            
+2FEE:COMPND    Structure Of The Cl-H+ EXCHANGER CLC-Ec1 From E.Coli In Nabr
+2FEW:COMPND    Complex Of Enzyme Iiamtl And Phosphorylated Enzyme Iibmtl   
+2FEW:COMPND   2 From Escherichia Coli Nmr, Restrained Regularized Mean     
+2FEW:COMPND   3 Structure                                                  
+2FF7:COMPND    The Abc-Atpase Of The Abc-Transporter Hlyb In The Adp Bound 
+2FF7:COMPND   2 State                                                      
+2FFA:COMPND    Crystal Structure Of Abc-Atpase H662a Of The Abc-           
+2FFA:COMPND   2 Transporter Hlyb In Complex With Adp                       
+2FFB:COMPND    The Crystal Structure Of The Hlyb-Nbd E631q Mutant In       
+2FFB:COMPND   2 Complex With Adp                                           
+2FGJ:COMPND    Crystal Structure Of The Abc-Cassette H662a Mutant Of Hlyb  
+2FGJ:COMPND   2 With Bound Atp                                             
+2FGK:COMPND    Crystal Structure Of The Abc-Cassette E631q Mutant Of Hlyb  
+2FGK:COMPND   2 With Bound Atp                                             
+2FN8:COMPND    Thermotoga Maritima Ribose Binding Protein Ribose Bound Form
+2FN9:COMPND    Thermotoga Maritima Ribose Binding Protein Unliganded Form  
+2FNC:COMPND    Thermotoga Maritima Maltotriose Binding Protein Bound With  
+2FNC:COMPND   2 Maltotriose.                                               
+2FYY.pdb:COMPND    The Role Of T Cell Receptor Alpha Genes In Directing Human  
+2FYY.pdb:COMPND   2 Mhc Restriction                                            
+2GFP:COMPND    Structure Of The Multidrug Transporter Emrd From Escherichia
+2GFP:COMPND   2 Coli                                                       
+2GHA:COMPND    Thermotoga Maritima Maltotriose Binding Protein Bound With  
+2GHA:COMPND   2 Maltotriose                                                
+2GHB:COMPND    Thermotoga Maritima Maltotriose Binding Protein, Ligand Free
+2GHB:COMPND   2 Form                                                       
+2GSK:COMPND    Structure Of The Btub:tonb Complex                          
+2GUF:COMPND    In Meso Crystal Structure Of The Cobalamin Transporter, Btub
+2H1X:COMPND    Crystal Structure Of 5-Hydroxyisourate Hydrolase (Formerly  
+2H1X:COMPND   2 Known As Trp, Transthyretin Related Protein)               
+2H2P:COMPND    Crystal Structure Of Clc-Ec1 In Complex With Fab Fragment In
+2H2P:COMPND   2 Secn-                                                      
+2H2S:COMPND    Crystal Structure Of E148a Mutant Of Clc-Ec1 In Secn-       
+2H3H:COMPND    Crystal Structure Of The Liganded Form Of Thermotoga        
+2H3H:COMPND   2 Maritima Glucose Binding Protein                           
+2H3K:COMPND    Solution Structure Of The First Neat Domain Of Isdh         
+2H6U:COMPND    Crystal Structure Of 5-Hydroxyisourate Hydrolase (Formerly  
+2H6U:COMPND   2 Known As Trp, Transthyretin Related Protein)               
+2HAU:COMPND    Apo-Human Serum Transferrin (Non-Glycosylated)              
+2HAV:COMPND    Apo-Human Serum Transferrin (Glycosylated)                  
+2HEU:COMPND    Atomic Resolution Structure Of Apo-Form Of Rafe From        
+2HEU:COMPND   2 Streptococcus Pneumoniae                                   
+2HFB:COMPND    Crystal Structure Of Selenomethionine-Labelled Rafe From    
+2HFB:COMPND   2 Streptococcus Pneumoniae                                   
+2HLF:COMPND    Structure Of The Escherichis Coli Clc Chloride Channel Y445e
+2HLF:COMPND   2 Mutant And Fab Complex                                     
+2HMS:COMPND    Rectangular-Shaped Octameric Ring Structure Of An Rck Domain
+2HMS:COMPND   2 With Nadh Bound                                            
+2HMT:COMPND    Diamond-Shaped Octameric Ring Structure Of An Rck Domain    
+2HMT:COMPND   2 With Nadh Bound                                            
+2HMU:COMPND    Diamond-Shaped Octameric Ring Structure Of An Rck Domain    
+2HMU:COMPND   2 With Atp Bound                                             
+2HMV:COMPND    Diamond-Shaped Octameric Ring Structure Of An Rck Domain    
+2HMV:COMPND   2 With Adp Bound                                             
+2HMW:COMPND    Square-Shaped Octameric Ring Structure Of An Rck Domain With
+2HMW:COMPND   2 Atp Bound                                                  
+2HN1:COMPND    Crystal Structure Of A Cora Soluble Domain From A. Fulgidus 
+2HN1:COMPND   2 In Complex With Co2+                                       
+2HN2:COMPND    Crystal Structure Of The Cora Mg2+ Transporter Homologue    
+2HN2:COMPND   2 From T. Maritima In Complex With Divalent Cations          
+2HPG:COMPND    The Crystal Structure Of A Thermophilic Trap Periplasmic    
+2HPG:COMPND   2 Binding Protein                                            
+2HQ0:COMPND    Structure Of Rafe From Streptococcus Pneumoniae             
+2HQC:COMPND    Conformation Of The Acrb Multidrug Efflux Pump In Mutants Of
+2HQC:COMPND   2 The Putative Proton Relay Pathway                          
+2HQD:COMPND    Conformation Of The Acrb Multidrug Efflux Pump In Mutants Of
+2HQD:COMPND   2 The Putative Proton Relay Pathway                          
+2HQF:COMPND    Conformation Of The Acrb Multidrug Efflux Pump In Mutants Of
+2HQF:COMPND   2 The Putative Proton Relay Pathway                          
+2HQG:COMPND    Conformation Of The Acrb Multidrug Efflux Pump In Mutants Of
+2HQG:COMPND   2 The Putative Proton Relay Pathway                          
+2HT2:COMPND    Structure Of The Escherichia Coli Clc Chloride Channel Y445h
+2HT2:COMPND   2 Mutant And Fab Complex                                     
+2HT3:COMPND    Structure Of The Escherichia Coli Clc Chloride Channel Y445l
+2HT3:COMPND   2 Mutant And Fab Complex                                     
+2HT4:COMPND    Structure Of The Escherichia Coli Clc Chloride Channel Y445w
+2HT4:COMPND   2 Mutant And Fab Complex                                     
+2HTK:COMPND    Structure Of The Escherichia Coli Clc Chloride Channel Y445a
+2HTK:COMPND   2 Mutant And Fab Complex                                     
+2HTL:COMPND    Structure Of The Escherichia Coli Clc Chloride Channel Y445f
+2HTL:COMPND   2 Mutant And Fab Complex                                     
+2HXF:COMPND    Kif1a Head-Microtubule Complex Structure In Amppnp-Form     
+2HXH:COMPND    Kif1a Head-Microtubule Complex Structure In Adp-Form        
+2HYD:COMPND    Multidrug Abc Transporter Sav1866                           
+2HZK:COMPND    Crystal Structures Of A Sodium-Alpha-Keto Acid Binding      
+2HZK:COMPND   2 Subunit From A Trap Transporter In Its Open Form           
+2I48:COMPND    Crystal Structure Of Bicarbonate Transport Protein Cmpa From
+2I48:COMPND   2 Synechocystis Sp. Pcc 6803 In Complex With Carbonic Acid   
+2I49:COMPND    Crystal Structure Of Apo Form Of Bicarbonate Transport      
+2I49:COMPND   2 Protein Cmpa From Synechocystis Sp. Pcc 6803               
+2I4B:COMPND    Crystal Structure Of Bicarbonate Transport Protein Cmpa From
+2I4B:COMPND   2 Synechocystis Sp. Pcc 6803 In Complex With Bicarbonate And 
+2I4B:COMPND   3 Calcium                                                    
+2I4C:COMPND    Crystal Structure Of Bicarbonate Transport Protein Cmpa From
+2I4C:COMPND   2 Synechocystis Sp. Pcc 6803 In Complex With Bicarbonate And 
+2I4C:COMPND   3 Calcium                                                    
+2I58:COMPND    Crystal Structure Of Rafe From Streptococcus Pneumoniae     
+2I58:COMPND   2 Complexed With Raffinose                                   
+2I68:COMPND    Cryo-Em Based Theoretical Model Structure Of Transmembrane  
+2I68:COMPND   2 Domain Of The Multidrug-Resistance Antiporter From E. Coli 
+2I68:COMPND   3 Emre                                                       
+2I6W:COMPND    Crystal Structure Of The Multidrug Efflux Transporter Acrb  
+2IEE:COMPND    Crystal Structure Of Yckb_bacsu From Bacillus Subtilis.     
+2IEE:COMPND   2 Northeast Structural Genomics Consortium Target Sr574.     
+2IHY:COMPND    Structure Of The Staphylococcus Aureus Putative Atpase      
+2IHY:COMPND   2 Subunit Of An Atp-Binding Cassette (Abc) Transporter       
+2IUB:COMPND    Crystal Structure Of A Divalent Metal Ion Transporter Cora  
+2IUB:COMPND   2 At 2.9 A Resolution.                                       
+2IXE:COMPND    Crystal Structure Of The Atpase Domain Of Tap1 With Atp     
+2IXE:COMPND   2 (D645n Mutant)                                             
+2IXF:COMPND    Crystal Structure Of The Atpase Domain Of Tap1 With Atp     
+2IXF:COMPND   2 (D645q, Q678h Mutant)                                      
+2IXG:COMPND    Crystal Structure Of The Atpase Domain Of Tap1 With Atp     
+2IXG:COMPND   2 (S621a, G622v, D645n Mutant)                               
+2J15:COMPND    Cyclic Mria: An Exceptionally Stable And Potent Cyclic      
+2J15:COMPND   2 Conotoxin With A Novel Topological Fold That Targets The   
+2J15:COMPND   3 Norepinephrine Transporter.                                
+2J9L:COMPND    Cytoplasmic Domain Of The Human Chloride Transporter Clc-5  
+2J9L:COMPND   2 In Complex With Atp                                        
+2JA3:COMPND    Cytoplasmic Domain Of The Human Chloride Transporter Clc-5  
+2JA3:COMPND   2 In Complex With Adp                                        
+2JZH:COMPND    Structure Of Iib Domain Of The Mannose Transporter Of E.    
+2JZH:COMPND   2 Coli                                                       
+2JZN:COMPND    Solution Nmr Structure Of The Productive Complex Between    
+2JZN:COMPND   2 Iiamannose And Iibmannose Of The Mannose Transporter Of The
+2JZN:COMPND   3 E. Coli Phosphotransferase System                          
+2JZO:COMPND    Solution Nmr Structure Of The Non-Productive Complex Between
+2JZO:COMPND   2 Iiamannose And Iibmannose Of The Mannose Transporter Of    
+2JZO:COMPND   3 The E. Coli Phosphotransferase System                      
+2NMR:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NMR:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NOP:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NOP:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NOW:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NOW:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NPC:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NPC:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NPD:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NPD:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NPE:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NPE:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NPG:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NPG:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NPJ:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NPJ:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NPK:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+2NPK:COMPND   2 Channels Is Essential For Substrate Conductance            
+2NQ2:COMPND    An Inward-Facing Conformation Of A Putative Metal-Chelate   
+2NQ2:COMPND   2 Type Abc Transporter.                                      
+2NQW:COMPND    Structure Of The Transporter Associated Domain From Pg_0272,
+2NQW:COMPND   2 A Cbs Domain Protein From Porphyromonas Gingivalis         
+2NS1:COMPND    Crystal Structure Of The E. Coli Ammonia Channel Amtb       
+2NS1:COMPND   2 Complexed With The Signal Transduction Protein Glnk        
+2NUU:COMPND    Regulating The Escherichia Coli Ammonia Channel: The Crystal
+2NUU:COMPND   2 Structure Of The Amtb-Glnk Complex                         
+2NWL:COMPND    Crystal Structure Of Gltph In Complex With L-Asp            
+2NWW:COMPND    Crystal Structure Of Gltph In Complex With Tboa             
+2NWX:COMPND    Crystal Structure Of Gltph In Complex With L-Aspartate And  
+2NWX:COMPND   2 Sodium Ions                                                
+2O1M:COMPND    Crystal Structure Of The Probable Amino-Acid Abc Transporter
+2O1M:COMPND   2 Extracellular-Binding Protein Ytmk From Bacillus Subtilis. 
+2O1M:COMPND   3 Northeast Structural Genomics Consortium Target Sr572      
+2O7I:COMPND    The X-Ray Crystal Structure Of A Thermophilic Cellobiose    
+2O7I:COMPND   2 Binding Protein Bound With Cellobiose                      
+2O7J:COMPND    The X-Ray Crystal Structure Of A Thermophilic Cellobiose    
+2O7J:COMPND   2 Binding Protein Bound With Cellopentaose                   
+2O8B:COMPND    Human Mutsalpha (Msh2MSH6) BOUND TO ADP AND A G T MISPAIR   
+2O8E:COMPND    Human Mutsalpha (Msh2MSH6) BOUND TO A G T MISPAIR, WITH Adp 
+2O8E:COMPND   2 Bound To Msh2 Only                                         
+2O8F:COMPND    Human Mutsalpha (Msh2MSH6) BOUND TO DNA WITH A SINGLE BASE T
+2O8F:COMPND   2 Insert                                                     
+2OAI:COMPND    The Structure Of Transporter Associated Domain Corc_hlyc    
+2OAI:COMPND   2 From A Xylella Fastidiosa Temecula1 Hemolysin.             
+2OGW:COMPND    Structure Of Abc Type Zinc Transporter From E. Coli         
+2OLJ:COMPND    Abc Protein Artp In Complex With AdpMG2+                    
+2OLK:COMPND    Abc Protein Artp In Complex With Adp-Beta-S                 
+2ONJ:COMPND    Structure Of The Multidrug Abc Transporter Sav1866 From S.  
+2ONJ:COMPND   2 Aureus In Complex With Amp-Pnp                             
+2ONK:COMPND    Abc Transporter Modbc In Complex With Its Binding Protein   
+2ONK:COMPND   2 Moda                                                       
+2ONR:COMPND    Crystal Structure Of A. Fulgidus Periplasmic Binding Protein
+2ONR:COMPND   2 Moda With Bound Molybdate                                  
+2ONS:COMPND    Crystal Structure Of A. Fulgidus Periplasmic Binding Protein
+2ONS:COMPND   2 Moda With Bound Tungstate                                  
+2OUK:COMPND    Abc Protein Artp In Complex With Sulphate                   
+2OUX:COMPND    Crystal Structure Of The Soluble Part Of A Magnesium        
+2OUX:COMPND   2 Transporter                                                
+2OV1:COMPND    Crystal Structure Of Apo Form Of Znua With Flexible Loop    
+2OV1:COMPND   2 Deletion                                                   
+2OV3:COMPND    Crystal Structure Of 138-173 Znua Deletion Mutant Plus Zinc 
+2OV3:COMPND   2 Bound                                                      
+2P0S:COMPND    Structural Genomics, The Crystal Structure Of A Putative Abc
+2P0S:COMPND   2 Transporter Domain From Porphyromonas Gingivalis W83       
+2P13:COMPND    Transporter Associated Domain Corc_hlyc From Nitrosomonas   
+2P13:COMPND   2 Europaea                                                   
+2P3H:COMPND    Crystal Structure Of The Corc_hlyc Domain Of A Putative     
+2P3H:COMPND   2 Corynebacterium Glutamicum Hemolysin                       
+2P8Q:COMPND    Crystal Structure Of Human Importin Beta Bound To The       
+2P8Q:COMPND   2 Snurportin1 Ibb-Domain                                     
+2PC9:COMPND    Crystal Structure Of Atp-Dependent Phosphoenolpyruvate      
+2PC9:COMPND   2 Carboxykinase From Thermus Thermophilus Hb8                
+2PCJ:COMPND    Crystal Structure Of Abc Transporter (Aq_297) From Aquifex  
+2PCJ:COMPND   2 Aeolicus Vf5                                               
+2PCL:COMPND    Crystal Structure Of Abc Transporter With Complex (Aq_297)  
+2PCL:COMPND   2 From Aquifex Aeolicus Vf5                                  
+2PLI:COMPND    Crystal Structure Of Putative Mg2+ And Co2+                 
+2PLI:COMPND   2 Transporter(Corc)associated Region From Neisseria          
+2PLI:COMPND   3 Meningitidis Mc58                                          
+2PLS:COMPND    Structural Genomics, The Crystal Structure Of The CorcHLYC  
+2PLS:COMPND   2 Transporter Associated Domain Of A Cbs Domain Protein From 
+2PLS:COMPND   3 Chlorobium Tepidum Tls                                     
+2PMK:COMPND    Crystal Structures Of An Isolated Abc-Atpase In Complex With
+2PMK:COMPND   2 Tnp-Adp                                                    
+2PP6:COMPND    Crystal Structure Of The Atp-Binding Sugar Transporter-Like 
+2PP6:COMPND   2 Protein From Salmonella Typhimurium                        
+2PRS:COMPND    Structure And Metal Binding Properties Of Znua, A           
+2PRS:COMPND   2 Periplasmic Zinc Transporter From Escherichia Coli         
+2PS0:COMPND    Structure And Metal Binding Properties Of Znua, A           
+2PS0:COMPND   2 Periplasmic Zinc Transporter From Escherichia Coli         
+2PS3:COMPND    Structure And Metal Binding Properties Of Znua, A           
+2PS3:COMPND   2 Periplasmic Zinc Transporter From Escherichia Coli         
+2PS9:COMPND    Structure And Metal Binding Properties Of Znua, A           
+2PS9:COMPND   2 Periplasmic Zinc Transporter From Escherichia Coli         
+2PT1:COMPND    Futa1 Synechocystis Pcc 6803                                
+2PT2:COMPND    Structure Of Futa1 With Iron(Ii)                            
+2PVU:COMPND    Crystal Structures Of The Arginine-, Lysine-, Histidine-    
+2PVU:COMPND   2 Binding Protein Artj From The Thermophilic Bacterium       
+2PVU:COMPND   3 Geobacillus Stearothermophilus                             
+2PXZ:COMPND    E. Coli Phosphoenolpyruvate Carboxykinase (Pepck) Complexed 
+2PXZ:COMPND   2 With Atp, Mg2+, Mn2+, Carbon Dioxide And Oxaloacetate      
+2PY7:COMPND    Crystal Structure Of E. Coli Phosphoenolpyruvate            
+2PY7:COMPND   2 Carboxykinase Mutant Lys213ser Complexed With Atp-Mg2+-Mn2+
+2PZE:COMPND    Minimal Human Cftr First Nucleotide Binding Domain As A     
+2PZE:COMPND   2 Head-To-Tail Dimer                                         
+2PZF:COMPND    Minimal Human Cftr First Nucleotide Binding Domain As A     
+2PZF:COMPND   2 Head-To-Tail Dimer With Delta F508                         
+2PZG:COMPND    Minimal Human Cftr First Nucleotide Binding Domain As A     
+2PZG:COMPND   2 Monomer                                                    
+2Q2A:COMPND    Crystal Structures Of The Arginine-, Lysine-, Histidine-    
+2Q2A:COMPND   2 Binding Protein Artj From The Thermophilic Bacterium       
+2Q2A:COMPND   3 Geobacillus Stearothermophilus                             
+2Q2C:COMPND    Crystal Structures Of The Arginine-, Lysine-, Histidine-    
+2Q2C:COMPND   2 Binding Protein Artj From The Thermophilic Bacterium       
+2Q2C:COMPND   3 Geobacillus Stearothermophilus                             
+2Q5D:COMPND    Crystal Structure Of Human Importin Beta Bound To The       
+2Q5D:COMPND   2 Snurportin1 Ibb-Domain Second Crystal Form                 
+2Q6H:COMPND    Crystal Structure Analysis Of Leut Complexed With L-Leucine,
+2Q6H:COMPND   2 Sodium, And Clomipramine                                   
+2Q72:COMPND    Crystal Structure Analysis Of Leut Complexed With L-Leucine,
+2Q72:COMPND   2 Sodium, And Imipramine                                     
+2Q88:COMPND    Crystal Structure Of Ehub In Complex With Ectoine           
+2Q89:COMPND    Crystal Structure Of Ehub In Complex With Hydroxyectoine    
+2QB4:COMPND    Crystal Structure Analysis Of Leut Complexed With L-Leucine,
+2QB4:COMPND   2 Sodium And Desipramine                                     
+2QDZ:COMPND    Structure Of The Membrane Protein Fhac: A Member Of The     
+2QDZ:COMPND   2 Omp85TPSB TRANSPORTER FAMILY                               
+2QEI:COMPND    Crystal Structure Analysis Of Leut Complexed With L-Alanine,
+2QEI:COMPND   2 Sodium, And Clomipramine                                   
+2QEW:COMPND    Rat Cytosolic Pepck, In Complex With Manganese Ion.         
+2QEY:COMPND    Rat Cytosolic Pepck In Complex With Gtp                     
+2QF1:COMPND    Rat Cytosolic Pepck In Complex With Oxaloacetic Acid.       
+2QF2:COMPND    Rat Cytosolic Pepck In Complex With Oxaloacetic Acid And Gdp
+2QF2:COMPND   2 .                                                          
+2QF7:COMPND    Crystal Structure Of A Complete Multifunctional Pyruvate    
+2QF7:COMPND   2 Carboxylase From Rhizobium Etli                            
+2QFI:COMPND    Structure Of The Zinc Transporter Yiip                      
+2QI9:COMPND    Abc-Transporter Btucd In Complex With Its Periplasmic       
+2QI9:COMPND   2 Binding Protein Btuf                                       
+2QJU:COMPND    Crystal Structure Of An Nss Homolog With Bound              
+2QJU:COMPND   2 Antidepressant                                             
+2QNA:COMPND    Crystal Structure Of Human Importin-Beta (127-876) In       
+2QNA:COMPND   2 Complex With The Ibb-Domain Of Snurportin1 (1-65)          
+2QRR:COMPND    Crystal Structure Of The Soluble Domain Of The Abc          
+2QRR:COMPND   2 Transporter, Atp-Binding Protein From Vibrio               
+2QRR:COMPND   3 Parahaemolyticus                                           
+2QRY:COMPND    Periplasmic Thiamin Binding Protein                         
+2QSW:COMPND    Crystal Structure Of C-Terminal Domain Of Abc Transporter   
+2QSW:COMPND   2 Atp-Binding Protein From Enterococcus Faecalis             
+2QVC:COMPND    Crystal Structure Of A Periplasmic Sugar Abc Transporter    
+2QVC:COMPND   2 From Thermotoga Maritima                                   
+2QYG:COMPND    Crystal Structure Of A Rubisco-Like Protein Rlp2 From       
+2QYG:COMPND   2 Rhodopseudomonas Palustris                                 
+2QZY:COMPND    The Structure Of Chicken Mitochondrial Pepck In Complex With
+2QZY:COMPND   2 Pep                                                        
+2R5O:COMPND    Crystal Structure Of The C-Terminal Domain Of Wzt           
+2R6G:COMPND    The Crystal Structure Of The E. Coli Maltose Transporter    
+2R8D:COMPND    The Structure Of Transporter Associated Domain Corc_hlyc    
+2R8D:COMPND   2 From A Xylella Fastidiosa Temecula1 Hemolysin In Complex   
+2R8D:COMPND   3 With Mg++ And Mn++                                         
+2R9H:COMPND    Crystal Structure Of Q207c Mutant Of Clc-Ec1 In Complex With
+2R9H:COMPND   2 Fab                                                        
+2RDD:COMPND    X-Ray Crystal Structure Of Acrb In Complex With A Novel     
+2RDD:COMPND   2 Transmembrane Helix.                                       
+2RK7:COMPND    The Structure Of Rat Cytosolic Pepck In Complex With Oxalate
+2RK8:COMPND    The Structure Of Rat Cytosolic Pepck In Complex With        
+2RK8:COMPND   2 Phosphonoformate                                           
+2RKA:COMPND    The Structure Of Rat Cytosolic Pepck In Complex With        
+2RKA:COMPND   2 Phosphoglycolate                                           
+2RKD:COMPND    The Structure Of Rat Cytosolic Pepck In Complex With 3-     
+2RKD:COMPND   2 Phosphonopropionate                                        
+2RKE:COMPND    The Structure Of Rat Cytosolic Pepck In Complex With        
+2RKE:COMPND   2 Sulfoacetate.                                              
+2RKM:COMPND    Structure Of Oppa Complexed With Lys-Lys                    
+2V67:COMPND    Crystal Structure Of Chlamydomonas Reinhardtii Rubisco With 
+2V67:COMPND   2 A Large-Subunit Supressor Mutation T342i                   
+2V68:COMPND    Crystal Structure Of Chlamydomonas Reinhardtii Rubisco With 
+2V68:COMPND   2 Large-Subunit Mutations V331a, T342i                       
+2V69:COMPND    Crystal Structure Of Chlamydomonas Reinhardtii Rubisco With 
+2V69:COMPND   2 A Large-Subunit Mutation D473e                             
+2V6A:COMPND    Crystal Structure Of Chlamydomonas Reinhardtii Rubisco With 
+2V6A:COMPND   2 Large-Subunit Mutations V331a, G344s                       
+2V84:COMPND    Crystal Structure Of The Tp0655 (Tppotd) Lipoprotein Of     
+2V84:COMPND   2 Treponema Pallidum                                         
+2V95:COMPND    Struture Of Corticosteroid-Binding Globulin In Complex With 
+2V95:COMPND   2 Cortisol                                                   
+2YSU:COMPND    Structure Of The Complex Between Btub And Colicin E2        
+2YSU:COMPND   2 Receptor Binding Domain                                    
+2YVX:COMPND    Crystal Structure Of Magnesium Transporter Mgte             
+2YVY:COMPND    Crystal Structure Of Magnesium Transporter Mgte Cytosolic   
+2YVY:COMPND   2 Domain, Mg2+ Bound Form                                    
+2YVZ:COMPND    Crystal Structure Of Magnesium Transporter Mgte Cytosolic   
+2YVZ:COMPND   2 Domain, Mg2+-Free Form                                     
+2YWX:COMPND    Crystal Structure Of Phosphoribosylaminoimidazole           
+2YWX:COMPND   2 Carboxylase Catalytic Subunit From Methanocaldococcus      
+2YWX:COMPND   3 Jannaschii                                                 
+2YYZ:COMPND    Crystal Structure Of Sugar Abc Transporter, Atp-Binding     
+2YYZ:COMPND   2 Protein                                                    
+2YZ2:COMPND    Crystal Structure Of The Abc Transporter In The Cobalt      
+2YZ2:COMPND   2 Transport System                                           
+2Z04:COMPND    Crystal Structure Of Phosphoribosylaminoimidazole           
+2Z04:COMPND   2 Carboxylase Atpase Subunit From Aquifex Aeolicus           
+2Z22:COMPND    Crystal Structure Of Phosphate Preplasmic Binding Protein   
+2Z22:COMPND   2 Psts From Yersinia Pestis                                  
+2Z23:COMPND    Crystal Structure Of Y.Pestis Oligo Peptide Binding Protein 
+2Z23:COMPND   2 Oppa With Tri-Lysine Ligand                                
+2Z8D:COMPND    The Galacto-N-Biose-LACTO-N-Biose I-Binding Protein (Gl- Bp)
+2Z8D:COMPND   2 Of The Abc Transporter From Bifidobacterium Longum In      
+2Z8D:COMPND   3 Complex With Lacto-N-Biose                                 
+2Z8E:COMPND    The Galacto-N-Biose-LACTO-N-Biose I-Binding Protein (Gl- Bp)
+2Z8E:COMPND   2 Of The Abc Transporter From Bifidobacterium Longum In      
+2Z8E:COMPND   3 Complex With Galacto-N-Biose                               
+2Z8F:COMPND    The Galacto-N-Biose-LACTO-N-Biose I-Binding Protein (Gl- Bp)
+2Z8F:COMPND   2 Of The Abc Transporter From Bifidobacterium Longum In      
+2Z8F:COMPND   3 Complex With Lacto-N-Tetraose                              
+2ZCI:COMPND    Structure Of A Gtp-Dependent Bacterial Pep-Carboxykinase    
+2ZCI:COMPND   2 From Corynebacterium Glutamicum                            
+2ZGW:COMPND    Crystal Structure Of Biotin Protein Ligase From Pyrococcus  
+2ZGW:COMPND   2 Horikoshii Complexed With Adenosine And Biotin, Mutations  
+2ZGW:COMPND   3 R48a And K111a                                             
+2c05.pdb:COMPND    Crystal Structures Of Eosinophil-Derived Neurotoxin In      
+2c05.pdb:COMPND   2 Complex With The Inhibitors 5'-Atp, Ap3a, Ap4a And Ap5a    
+2dqu.pdb:COMPND    Crystal Form Ii: High Resolution Crystal Structure Of The   
+2dqu.pdb:COMPND   2 Complex Of The Hydrolytic Antibody Fab 6d9 And A           
+2dqu.pdb:COMPND   3 Transition-State Analog                                    
+2esv.pdb:COMPND    Structure Of The Hla-E-VmaprtlilKK50.4 TCR COMPLEX          
+2it5.pdb:COMPND    Crystal Structure Of Dcsign-Crd With Man6                   
+2per.pdb:COMPND    Crystal Structure Of Human Chloride Intracellular Channel   
+2per.pdb:COMPND   2 Protein 2                                                  
+2vl0.pdb:COMPND    X-Ray Structure Of A Pentameric Ligand Gated Ion Channel    
+2vl0.pdb:COMPND   2 From Erwinia Chrysanthemi (Elic)                           
+2zco.pdb:COMPND    Crystal Structure Of The C(30) Carotenoid Dehydrosqualene   
+2zco.pdb:COMPND   2 Synthase From Staphylococcus Aureus                        
+2zcp.pdb:COMPND    Crystal Structure Of The C(30) Carotenoid Dehydrosqualene   
+2zcp.pdb:COMPND   2 Synthase From Staphylococcus Aureus Complexed With Farnesyl
+2zcp.pdb:COMPND   3 Thiopyrophosphate                                          
+2zcq.pdb:COMPND    Crystal Structure Of The C(30) Carotenoid Dehydrosqualene   
+2zcq.pdb:COMPND   2 Synthase From Staphylococcus Aureus Complexed With         
+2zcq.pdb:COMPND   3 Bisphosphonate Bph-652                                     
+2zcr.pdb:COMPND    Crystal Structure Of The C(30) Carotenoid Dehydrosqualene   
+2zcr.pdb:COMPND   2 Synthase From Staphylococcus Aureus Complexed With         
+2zcr.pdb:COMPND   3 Bisphosphonate Bph-698                                     
+2zcs.pdb:COMPND    Crystal Structure Of The C(30) Carotenoid Dehydrosqualene   
+2zcs.pdb:COMPND   2 Synthase From Staphylococcus Aureus Complexed With         
+2zcs.pdb:COMPND   3 Bisphosphonate Bph-700                                     
+32928.pdb:COMPND    Crystal Structure Of The Cdc25b Phosphatase Catalytic Domain
+32928.pdb:COMPND   2 With The Active Site Cysteine In The Sulfenic Form         
+3B5D:COMPND    Emre Multidrug Transporter In Complex With Tpp, C2 Crystal  
+3B5D:COMPND   2 Form                                                       
+3B5J:COMPND    Crystal Structures Of The S504a Mutant Of An Isolated Abc-  
+3B5J:COMPND   2 Atpase In Complex With Tnp-Adp                             
+3B5W:COMPND    Crystal Structure Of Eschericia Coli Msba                   
+3B5X:COMPND    Crystal Structure Of Msba From Vibrio Cholerae              
+3B5Y:COMPND    Crystal Structure Of Msba From Salmonella Typhimurium With  
+3B5Y:COMPND   2 Amppnp                                                     
+3B5Z:COMPND    Crystal Structure Of Msba From Salmonella Typhimurium With  
+3B5Z:COMPND   2 Adp Vanadate                                               
+3B60:COMPND    Crystal Structure Of Msba From Salmonella Typhimurium With  
+3B60:COMPND   2 Amppnp, Higher Resolution Form                             
+3B61:COMPND    Emre Multidrug Transporter, Apo Crystal Form                
+3B62:COMPND    Emre Multidrug Transporter In Complex With P4p, P21 Crystal 
+3B62:COMPND   2 Form                                                       
+3B9W:COMPND    The 1.3 A Resolution Structure Of Nitrosomonas Europaea Rh50
+3B9W:COMPND   2 And Mechanistic Implications For Nh3 Transport By Rhesus   
+3B9W:COMPND   3 Family Proteins                                            
+3B9Y:COMPND    Crystal Structure Of The Nitrosomonas Europaea Rh Protein   
+3B9Z:COMPND    Crystal Structure Of The Nitrosomonas Europaea Rh Protein   
+3B9Z:COMPND   2 Complexed With Carbon Dioxide                              
+3BG3:COMPND    Crystal Structure Of Human Pyruvate Carboxylase (Missing The
+3BG3:COMPND   2 Biotin Carboxylase Domain At The N-Terminus)               
+3BG5:COMPND    Crystal Structure Of Staphylococcus Aureus Pyruvate         
+3BG5:COMPND   2 Carboxylase                                                
+3BG9:COMPND    Crystal Structure Of Human Pyruvate Carboxylase (Missing The
+3BG9:COMPND   2 Biotin Carboxylase Domain At The N-Terminus) F1077a Mutant 
+3BHS:COMPND    Nitrosomonas Europaea Rh50 And Mechanism Of Conduction By   
+3BHS:COMPND   2 Rhesus Protein Family Of Channels                          
+3BK7:COMPND    Structure Of The Complete Abce1RNAASE-L Inhibitor Protein   
+3BK7:COMPND   2 From Pyrococcus Abysii                                     
+3BMZ:COMPND    Violacein Biosynthetic Enzyme Vioe                          
+3BRS:COMPND    Crystal Structure Of Sugar Transporter From Clostridium     
+3BRS:COMPND   2 Phytofermentans                                            
+3C1G:COMPND    Substrate Binding, Deprotonation And Selectivity At The     
+3C1G:COMPND   2 Periplasmic Entrance Of The E. Coli Ammonia Channel Amtb   
+3C1H:COMPND    Substrate Binding, Deprotonation And Selectivity At The     
+3C1H:COMPND   2 Periplasmic Entrance Of The E. Coli Ammonia Channel Amtb   
+3C1I:COMPND    Substrate Binding, Deprotonation And Selectivity At The     
+3C1I:COMPND   2 Periplasmic Entrance Of The E. Coli Ammonia Channel Amtb   
+3C1J:COMPND    Substrate Binding, Deprotonation And Selectivity At The     
+3C1J:COMPND   2 Periplasmic Entrance Of The E. Coli Ammonia Channel Amtb   
+3C6Q:COMPND    Apo And Ligand-Bound Form Of A Thermophilic GlucoseXYLOSE   
+3C6Q:COMPND   2 Binding Protein                                            
+3C9H:COMPND    Crystal Structure Of The Substrate Binding Protein Of The   
+3C9H:COMPND   2 Abc Transporter From Agrobacterium Tumefaciens             
+3CNI:COMPND    Crystal Structure Of A Domain Of A Putative Abc Type-2      
+3CNI:COMPND   2 Transporter From Thermotoga Maritima Msb8                  
+3RUB:COMPND    Crystal Structure Of The Unactivated Form Of Ribulose-1,5-  
+3RUB:COMPND   2 Bisphosphate Carboxylase(Slash)oxygenase From Tobacco      
+3RUB:COMPND   3 Refined At 2.0-Angstroms Resolution                        
+3bxl.pdb:COMPND    Crystal Structure Of The R-Type Calcium Channel (Cav2.3) Iq 
+3bxl.pdb:COMPND   2 Domain And Ca2+calmodulin Complex                          
+3c1j.pdb:COMPND    Substrate Binding, Deprotonation And Selectivity At The     
+3c1j.pdb:COMPND   2 Periplasmic Entrance Of The E. Coli Ammonia Channel Amtb   
+3ci8.pdb:COMPND    Crystal Structure Of The Complex Of C-Lobe Of Lactoferrin   
+3ci8.pdb:COMPND   2 With Vitamin B3 (Niacin) At 2.4 A Resolution               
+3ci8.pdb.pdb:COMPND    Crystal Structure Of The Complex Of C-Lobe Of Lactoferrin   
+3ci8.pdb.pdb:COMPND   2 With Vitamin B3 (Niacin) At 2.4 A Resolution               
+a.pdb:COMPND    Crystal Structure Of The Cdc25b Phosphatase Catalytic Domain
+a.pdb:COMPND   2 With The Active Site Cysteine In The Sulfenic Form         
+ammonia.pdb:COMPND    An Unusual Twin-His Arrangement In The Pore Of Ammonia      
+ammonia.pdb:COMPND   2 Channels Is Essential For Substrate Conductance            
+ampa.pdb:COMPND    X-Ray Structure Of The Glur2 Ligand-Binding Core (S1s2j) In 
+ampa.pdb:COMPND   2 Complex With (S)-Des-Me-Ampa At 1.46 A Resolution.         
+ampa.pdb:COMPND   3 Crystallization In The Presence Of Lithium Sulfate.        
+b.pdb:COMPND    Cel6a (Y169f) With A Non-Hydrolysable Cellotetraose         
+c.pdb:COMPND    Cel6a (Y169f) With A Non-Hydrolysable Cellotetraose         
+cd25s2.pdb:COMPND    Crystal Structure Of The Cdc25b Phosphatase Catalytic Domain
+cd25s2.pdb:COMPND   2 With The Active Site Cysteine In The Disulfide Form        
+cd25sulfenic.pdb:COMPND    Crystal Structure Of The Cdc25b Phosphatase Catalytic Domain
+cd25sulfenic.pdb:COMPND   2 With The Active Site Cysteine In The Sulfenic Form         
+cd25sulfinic.pdb:COMPND    Crystal Structure Of The Cdc25b Phosphatase Catalytic Domain
+cd25sulfinic.pdb:COMPND   2 With The Active Site Cysteine In The Sulfinic Form         
+cd25sulfonic.pdb:COMPND    Crystal Structure Of The Cdc25b Phosphatase Catalytic Domain
+cd25sulfonic.pdb:COMPND   2 With The Active Site Cysteine In The Sulfonic Form         
+d.pdb:COMPND    Cel6a (Y169f) With A Non-Hydrolysable Cellotetraose         
+e.pdb:COMPND    Cel6a (Y169f) With A Non-Hydrolysable Cellotetraose         
+glur2.pdb:COMPND    The Structure Of A Mixed Glur2 Ligand-Binding Core Dimer In 
+glur2.pdb:COMPND   2 Complex With (S)-Glutamate And The Antagonist (S)-Ns1209   
+ptr.pdb:COMPND    PTR_LFOH 
+sulph1.pdb:COMPND    Ptp1b With The Catalytic Cysteine Oxidized To A             
+sulph1.pdb:COMPND   2 Sulfenyl-Amide Bond                                        
+sulph2.pdb:COMPND    Ptp1b With The Catalytic Cysteine Oxidized To Sulfonic Acid 
+tb2.pdb:COMPND    Crystal Structure Of Mycobacterial Tuberculosis Proteasome  

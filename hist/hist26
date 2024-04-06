@@ -1,0 +1,500 @@
+   53  more xxx | grep content | sed -e 's/</\n/g' | grep type | sed -e 's/>.*//' |grep -i item | sort | more
+   54  more xxx | grep content | sed -e 's/</\n/g' | grep type | sed -e 's/>.*//' |grep -v item | sort | more
+   55  asscript -login -debug -campspot 211 245 2>xxx
+   56  more xxx | grep content | sed -e 's/</\n/g' | grep type | sed -e 's/>.*//' |grep -v item | sort | more
+   57  more xxx | grep content | sed -e 's/</\n/g' | grep type | sed -e 's/>.*//' |more
+   58  more xxx
+   59  more xxx | grep content | sed -e 's/</\n/g' | grep type | sed -e 's/>.*//' |grep -v item | sort | more
+   60  more xxx | grep content | sed -e 's/</\n/g' | grep type | sed -e 's/>.*//' |grep -v item | sort | grep xsi | awk '{print $1}'
+   61  more xxx | grep content | sed -e 's/</\n/g' | grep type | sed -e 's/>.*//' |grep -v item | sort | grep xsi | awk '{print "delete \$as->{"$1"};"}'
+   62  more xxx | grep content | sed -e 's/</\n/g' | grep type | sed -e 's/>.*//' |grep -v item | sort | grep xsi | awk '{print "delete \$as->{"$1"};"}' | unix2dos > /dev/clipboard
+   63  asscript -login -debug -campspot 211 245 2>xxx
+   64  more xxx
+   65  asscript -login -debug -campspot 211 245 2>xxx
+   66  more xxx
+   67  asscript -login -debug -campspot 211 245 2>xxx
+   68  more xxx
+   69  asscript -login -debug -shcamp 211
+   70  ls hi*
+   71  history > hist15
+   72  . srecord
+   73  cd e:
+   74  cd new
+   75  cd temp
+   76  cd phluant/
+   77  cd src
+   78  cd w
+   79  ls hi*
+   80  cat hist17
+   81  ls hi*
+   82  cd ../../spottext/launcher/
+   83  ls hi*
+   84  cat hist3
+   85  cat hist3 | grep ass
+   86  cat hist3 | grep phlua
+   87  asscript -login -search AdSpot
+   88  asscript -login -find Publisher "Marchywka Site"
+   89  asscript -login -find AdSpot "AJA237_104"
+   90  cat /dev/clipboard | sort -k 3 | more
+   91  cat /dev/clipboard | sort -k 3 | more
+   92  cat /dev/clipboard | sort -k 3 | unix2dos > /cygdrive/c/Mydocs/home/nrlfcu_cc_200806.txt
+   93  . srecord
+   94  sapropos gambling
+   95  guieditor `which getsymol`
+   96  sapropos naznames
+   97  guieditor `which getsymbollists`
+   98  mkdir junk
+   99  cd junk
+  100  getsymbollists .
+  101  ls
+  102  more cqsSym.txt 
+  103  ls
+  104  more fundsym.txt 
+  105  more fundsym.txt 
+  106  IE http://www.nasdawtrader.com
+  107  curl -l "ftp://ftp.nasdaqtrader.com/symboldirectory/"
+  108  curl --help
+  109  curl  "ftp://ftp.nasdaqtrader.com/symboldirectory/*.txt"
+  110  curl -l "ftp://ftp.nasdaqtrader.com/symboldirectory/"
+  111  IE ftp://ftp.nasdaqtrader.com/symboldirectory/ &
+  112  getsymbolist .
+  113  getsymbollists .
+  114  curl -l "ftp://ftp.nasdaqtrader.com/symboldirectory/" | grep "\,txt$"
+  115  curl -l "ftp://ftp.nasdaqtrader.com/symboldirectory/" | grep "\,txt"
+  116  curl -l "ftp://ftp.nasdaqtrader.com/symboldirectory/" | grep "\.txt"
+  117  getsymbollists .
+  118  getsymbollists .
+  119  curl -l "ftp://ftp.nasdaqtrader.com/symboldirectory/" | grep "\.txt"
+  120  getsymbollists .
+  121  diff nasdaq.txt /cygdrive/c/mydocs/gambling/naznames/nasdaq.txt 
+  122  diff nasdaq.txt /cygdrive/c/mydocs/gambling/naznames/nasdaq.txt | more
+  123  cat nasdaq.txt | sed -e 's/-.* //'
+  124  cat nasdaq.txt | sed -e 's/-.*//'
+  125  cat nasdaq.txt | sed -e 's/-.*//' > newnames.txt
+  126  cat /cygdrive/c/mydocs/gambling/naznames/nasdaq.txt| sed -e 's/-.*//' > oldnames.txt
+  127  more oldnames.txt 
+  128  diff oldnames.txt newnames.txt 
+  129  cat oldnames.txt newnames.txt | sort | uniq -c | sort -g | more 
+  130  . srecord
+  131  ls
+  132  history > hist1
+  133  nmap -sP 192.168.1-2.100-110
+  134  ssh 192.168.2.103
+  135  cd e:
+  136  cd new
+  137  cd temp
+  138  cd proftpd/
+  139  ls
+  140  cd 126
+  141  ls
+  142  cd proftpd-1.2.6
+  143  ls
+  144  ssh 192.168.2.103
+  145  ls *.exe
+  146  scp *.exe 192.168.2.103:/cygdrive/c/m/pro126
+  147  ssh 192.168.2.103
+  148  scp *.conf 192.168.2.103:/cygdrive/c/m/pro126
+  149  ssh 192.168.2.103
+  150  ls
+  151  more README
+  152  more README.cygwin 
+  153  openssl
+  154  ls
+  155  more INSTALL
+  156  ls sample-configurations/
+  157  more sample-configurations/PFTEST.install
+  158  more sample-configurations/PFTEST.conf.in 
+  159  more sample-configurations/PFTEST.passwd
+  160  ls sample-configurations/
+  161  more sample-configurations/anonymous.conf 
+  162  more sample-configurations/PFTEST.passwd
+  163  more sample-configurations/PFTEST.conf.in
+  164  more sample-configurations/PFTEST.passwd
+  165  openssl passwd generic
+  166  ls ../../
+  167  netstat
+  168  curl -ugeneric:generic -l "ftp://bill:2001"
+  169  curl -ugeneric:generic -l "ftp://192.168.2.103:2001"
+  170  history
+  171  . srecord
+  172  asscript -login
+  173  find /cygdrive/c/mydocs/scripts -type f -mtime -1 
+  174  find /cygdrive/e/new/temp/phluant -type f -mtime -1 
+  175  find /cygdrive/c/mydocs/scripts -type f -mtime -1 > ff1
+  176  find /cygdrive/e/new/temp/phluant -type f -mtime -1  >>f2
+  177  more f2
+  178  find /cygdrive/e/new/temp/phluant -type f -mtime -1  >ff2
+  179  cat ff1 ff2 | grep -v "\.bak$\|.o$"
+  180  jar -cvf 20080642.zip `cat ff1 ff2 | grep -v "\.bak$\|.o$"`
+  181  jar -cvf 20080642.zip `cat ff1 ff2 | grep -v "\.bak$\|\.o$\|\.exe$"`
+  182  ls *.zip
+  183  ls 2*.zip
+  184  mv 2*.zip a:/
+  185  ls a:/
+  186  df a:/
+  187  . srecord
+  188  whois 41.207.220.228  
+  189  whois 64.233.183.104
+  190  whois 221.124.99.188
+  191  srecord -s | grep "db/cu"
+  192  wget -O ~/xxx  "http://www.spottext.com/launcher/db/cucamp.cfm?action=smslookup&adid=007"
+  193  wget -O ~/xxx  "http://www.spottext.com/launcher/db/cucamp.cfm?action=list&adid=007"
+  194  more ~/xxx
+  195  wget -O ~/xxx  "http://www.spottext.com/launcher/db/cucamp.cfm?action=dump&adid=007"
+  196  more ~/xxx
+  197  [hluant -html pct
+  198  phluant -html pct
+  199  wget -O ~/xxx  "http://www.spottext.com/launcher/db/cucamp.cfm?action=dump&adid=007"
+  200  wget -O ~/xxx  "http://www.spottext.com/launcher/db/cucamp.cfm?action=dump&adid=007"
+  201  more ~/xxx
+  202  wget -O ~/xxx  "http://www.spottext.com/launcher/db/cucamp.cfm?action=smslookup&adid=007"
+  203  more ~/xxx
+  204  wget -O ~/xxx  "http://www.spottext.com/launcher/db/cucamp.cfm?action=smslookup&adid=007"
+  205  wget -O ~/xxx  "http://www.spottext.com/launcher/db/cucamp.cfm?action=smslookup&adid=007"
+  206  more ~/xxx
+  207  history
+  208  . srecord
+  209  cd e:
+  210  cd new
+  211  cd temp
+  212  cd phluant
+  213  cd src
+  214  cd w
+  215  more aj.wsdl 
+  216  ls /cygdrive/c/mydocs/scripts/cc/affx/*.o
+  217  rm /cygdrive/c/mydocs/scripts/cc/affx/*.o
+  218  ls ajutil_dynamic.o
+  219  rm ajutil_dynamic.o
+  220  make dynamic
+  221  ls hi*
+  222  tail hist19
+  223  ./ajutil -wsdl aj.wsdl 
+  224  ./ajutil -wsdl aj.wsdl  | more
+  225  rm /cygdrive/c/mydocs/scripts/cc/affx/*.o
+  226  rm ajutil_dynamic.o
+  227  make dynamic
+  228  ./ajutil -wsdl aj.wsdl  | more
+  229  more aj.wsdl 
+  230  rm /cygdrive/c/mydocs/scripts/cc/affx/*.o
+  231  rm ajutil_dynamic.o
+  232  make dynamic
+  233  make dynamic
+  234  make dynamic
+  235  ./ajutil -wsdl aj.wsdl  | more
+  236  ./ajutil -wsdl aj.wsdl 
+  237  rm /cygdrive/c/mydocs/scripts/cc/affx/*.o
+  238  rm ajutil_dynamic.o
+  239  make dynamic
+  240  make dynamic
+  241  ./ajutil -wsdl aj.wsdl 
+  242  ./ajutil -wsdl aj.wsdl | more
+  243  grep "wsdl:inpu" aj.wsdl  | more
+  244  more aj.wsdl 
+  245  rm /cygdrive/c/mydocs/scripts/cc/affx/*.o
+  246  rm ajutil_dynamic.o
+  247  make dynamic
+  248  make dynamic
+  249  ./ajutil -wsdl aj.wsdl | more
+  250  more aj.wsdl 
+  251  x='logon=marchywka@hotmail.com&password=generic&x=0&y=0'
+  252  u='Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)'
+  253  url='http://www.spottext.com/admin/Campaign_Manager.html'
+  254  x='log=israsam&pass=phlu24ant&Login=Login&x=0&y=0'
+  255  curl -s -S -d "$x" --user-agent "$u" --anyauth -c cookies -k -L "$url" >xxx
+  256  more xxx
+  257  url2='http://127.0.0.1/admin/Campaign_Manager.html'
+  258  curl -s -S -d "$x" --user-agent "$u" --anyauth -c cookies -k -L "$url2" >xxx
+  259  url='http://www.spottext.com/admin/index.php'
+  260  curl -s -S -d "$x" --user-agent "$u" --anyauth -c cookies -k -L "$url" >xxx
+  261  more xxx
+  262  url2='https://127.0.0.1/admin/Campaign_Manager.html'
+  263  curl -s -S -d "$x" --user-agent "$u" --anyauth -c cookies -k -L "$url2" >xxx
+  264  url2='https://127.0.0.1:80/admin/Campaign_Manager.html'
+  265  curl -s -S -d "$x" --user-agent "$u" --anyauth -c cookies -k -L "$url2" >xxx
+  266  history
+  267  lynx -dump "http://www.spottext.com/admin/index.php?campaign_id=9"
+  268  tgt="http://www.spottext.com/admin/index.php?campaign_id=9"
+  269  curl  -s -S --user-agent "$u" --anyauth -b cookies -k -L "$tgt"
+  270  curl  -s -S --user-agent "$u" --anyauth -b cookies -k -L "$tgt" > xxx.html
+  271  lynx -dump xxx.html
+  272  echo -e asdfas\nqerqwer
+  273  echo -?
+  274  echo --help
+  275  echo -h
+  276  echo -e
+  277  echo -e asdfas\\nqerqwer
+  278  echo -e asdfas\\nqerqwer | urlencode
+  279  `urlencode echo -e asdfas\\nqerqwer`
+  280  xa='campaign_nm=test%20this%camp&campaign_msg=should%20have%just%read&submit=Submit&campaign_id=0&x=0&y=0'
+  281  curl -s -S -d "$xa" --user-agent "$u" --anyauth -c cookies -k -L "$url2" >xxx
+  282  echo $url
+  283  curl -s -S -d "$xa" --user-agent "$u" --anyauth -c cookies -k -L "$url" >xxx
+  284  more xxx
+  285  curl -s -S -d "$x" --user-agent "$u" --anyauth -c cookies -k -L "$url" >xxx
+  286  more xxx
+  287  curl -s -S -d "$xa" --user-agent "$u" --anyauth -c cookies -k -L "$url" >xxx
+  288  more xxx
+  289  curl  -s -S -d "$xa" --user-agent "$u" --anyauth -b cookies -k -L "$url" > xxx.html
+  290  echo $xa
+  291  more xxx.html
+  292  history
+  293  xa='campaign_nm=LauncherAd007&campaign_msg=should%20have%just%read&submit=Submit&campaign_id=0&x=0&y=0'
+  294  curl  -s -S -d "$xa" --user-agent "$u" --anyauth -b cookies -k -L "$url" > xxx
+  295  more xxx
+  296  history
+  297  ls hi*
+  298  history > hist20
+  299  . srecord
+  300  find /cygdrive/c/mydocs/scripts -mtime -1 -type f
+  301  find /cygdrive/c/mydocs/scripts -mtime -1 -type f >> ff1
+  302  find /cygdrive/e/new/temp/phluant/ -mtime -1 -type f
+  303  find /cygdrive/e/new/temp/phluant/ -mtime -1 -type f > ff2
+  304  find /cygdrive/c/mydocs/scripts -mtime -1 -type f > ff1
+  305  cat ff1 ff2 | grep -v "\.pdf$\|\o$\|\.bak$\|\.exe$"
+  306  cat ff1 ff2 | grep -v "\.pdf$\|\o$\|\.bak$\|\.exe$\|xxx$"
+  307  jar -cvf 20080627.zip `cat ff1 ff2 | grep -v "\.pdf$\|\o$\|\.bak$\|\.exe$\|xxx$"`
+  308  mv 20*.zip a:/
+  309  ls a:/
+  310  . srecord
+  311  cd e:
+  312  cd new
+  313  cd temp
+  314  cd ..
+  315  cd stock/
+  316  eutlsnew -v -out adal "alzheimer's aluminum"
+  317  eutilsnew -v -out adal "alzheimer's aluminum"
+  318  more adal
+  319  more adal | grep "[0-9]*: " | wc
+  320  more adal | grep "^[0-9]*: " | wc
+  321  more adal | grep "^[0-9]+: " | wc
+  322  more adal | grep "^[0-9][0-9]*: " | wc
+  323  more adal | grep "^[0-9][0-9]*: " | more
+  324  more adal | grep "^[0-9][0-9]*: " | more
+  325  more adal | grep "^[0-9][0-9]*: " | sed -e 's/:/ /'| awk '{print $1-last; last=$1; }| more
+  326  more adal | grep "^[0-9][0-9]*: " | sed -e 's/:/ /'| awk '{print $1-last; last=$1; }'| more
+  327  more adal | grep "^[0-9][0-9]*: " | more
+  328  more adal 
+  329  more adal | grep -B 1 "^$" | grep "^[0-9][0-9]*: " | more
+  330  more adal | grep -B 1 "^$" | more
+  331  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | more
+  332  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | wc
+  333  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g'
+  334  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "[0-9]{4}"
+  335  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "[0-9]\{4\}"
+  336  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$"
+  337  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$" | sort | uniq -c 
+  338  eutilsnew -v -count "alzheimer's abeta"
+  339  eutilsparse
+  340  eutilparsenew
+  341  eutilparsenewer
+  342  eutilsparsenewer
+  343  eutilparse
+  344  eutilparse -file adal -author
+  345  eutilparse -file adal -authors
+  346  eutilparse -file adal -sel -authors
+  347  eutilparse -file adal -sel -author
+  348  guieditor `which eutilparse`
+  349  eutilparse -file adal -sel -auth
+  350  eutilparse -file adal -sel -auth | sed -e 's/,/\n/g'
+  351  eutilparse -file adal -sel -auth | sed -e 's/,/\n/g' | sort | uniq -c | more
+  352  eutilparse -file adal -sel -auth | sed -e 's/,/\n/g' | sort | uniq -c | sort -r -g | more
+  353  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$" | sort | uniq -c 
+  354  guieditor `which eutilnew`
+  355  guieditor `which eutilsnew`
+  356  eutilsnew -v -count '"alzheimer's abeta" AND 2008[DP]'
+  357  eutilsnew -v -count '"alzheimer\'s abeta" AND 2008[DP]'
+  358  eutilsnew -v -count '"alzheimers abeta" AND 2008[DP]'
+  359  eutilsnew -v -count "alzheimer's AND abeta AND 2008[DP]"
+  360  eutilsnew -v -count "alzheimer's AND abeta AND 2007[DP]"
+  361  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$" | sort | uniq -c 
+  362  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$" | sort | uniq -c  | awk '{print $2,$1}'
+  363  more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$" | sort | uniq -c  | awk '{print $2","$1}'
+  364  `echo `more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$" | sort | uniq -c  | awk '{print $2","$1}' `
+  365  echo `more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$" | sort | uniq -c  | awk '{print $2","$1}' `
+  366  echo `more adal | grep -A 1 "^$" | grep "^[0-9][0-9]*: " | sed -e 's/ /\n/g' | grep "^[0-9]\{4\}$" | sort | uniq -c  | awk '{print $2","$1}' ` |unix2dos > /dev/clipboard
+  367  eutilsnew -v -count "alzheimer's AND abeta AND 2008[DP]"
+  368  eutilsnew -v -count "alzheimer's AND abeta AND 2007[DP]"
+  369  eutilsnew -v -count "alzheimer's AND abeta AND 1990[DP]"
+  370  eutilsnew -v -count "alzheimer's AND abeta AND 1995[DP]"
+  371  eutilsnew -v -count "alzheimer's AND abeta AND 1994[DP]"
+  372  eutilsnew -v -count "alzheimer's AND abeta AND 1993[DP]"
+  373  eutilsnew -v -count "alzheimer's AND abeta AND 1996[DP]"
+  374  ls hi*
+  375  history > hist14
+  376  . srecord
+  377  cd c:/
+  378  cd mydocs
+  379  cd scripts
+  380  vi bbackup
+  381  guieditor bbackup 
+  382  cd ~
+  383  curl -ugeneric:generic -l "ftp://127.0.0.1:2001"
+  384  curl -ugeneric:generic -l "ftp://168.192.2.103:2001"
+  385  curl -ugeneric:generic -l "ftp://192.168.2.103:2001"
+  386  bbackup -tgt "ftp://192.168.2.103:2001" -list
+  387  curl --help
+  388  ls
+  389  cat xxx
+  390  ls
+  391  cat zzz
+  392  bbackup -tgt "ftp://192.168.2.103:2001" -back zzz
+  393  bbackup -tgt "ftp://192.168.2.103:2001" -back zzz
+  394  bbackup -tgt "ftp://192.168.2.103:2001" -back 
+  395  curl --help
+  396  ls
+  397  bbackup -tgt "ftp://192.168.2.103:2001" -back zzz xxx
+  398  bbackup -tgt "ftp://192.168.2.103:2001" -back "zzz xxx"
+  399  bbackup -tgt "ftp://192.168.2.103:2001" -back "*"
+  400  bbackup -tgt "ftp://192.168.2.103:2001" -back "*"
+  401  bbackup -tgt "ftp://192.168.2.103:2001" -back "''
+  402  bbackup -tgt "ftp://192.168.2.103:2001" -back temp
+  403  curl --help
+  404   man curl
+  405  bbackup -tgt "ftp://192.168.2.103:2001" -back .
+  406  bbackup -tgt "ftp://192.168.2.103:2001" -back "./"
+  407  ls -al
+  408  ls temp
+  409  bbackup -tgt "ftp://192.168.2.103:2001" -back temp/
+  410  bbackup -tgt "ftp://192.168.2.103:2001" -back temp/
+  411  bbackup -tgt "ftp://192.168.2.103:2001" -back "temp/*"
+  412   man curl
+  413  sftp
+  414  sftp --help
+  415  man sftp
+  416  bbackup -tgt "ftp://192.168.2.103:2001" -back "temp/*"
+  417  date --help
+  418  date "%Y%m%d%k"
+  419  date +"%Y%m%d%k"
+  420  date +"%Y%m%d%k%M"
+  421  bbackup -tgt "ftp://192.168.2.103:2001" -back "temp/*"
+  422  bbackup -tgt "ftp://192.168.2.103:2001" -back "temp/*"
+  423  bbackup -tgt "ftp://192.168.2.103:2001" -back "temp/*"
+  424  cat bbf3| awk '{print "\""$0"\""}'
+  425  jar -cvf xxxx.zip `cat bbf3| awk '{print "\""$0"\""}'`
+  426  xxx=`cat bbf3| awk '{print "\""$0"\""}'`
+  427  echo $xxx
+  428  jar -cvf xxxx.zip $xxx
+  429  xxx=`cat bbf3| awk '{print ""$0""}'`
+  430  xxx=`cat bbf3| awk '{print ""$0""}'`
+  431  jar -cvf xxxx.zip `cat bbf3| awk '{print ""$0""}'`
+  432  bbackup -tgt "ftp://192.168.2.103:2001" -back "temp/*"
+  433  ls *.zip
+  434  ls 2*.zip
+  435  rm 2*.zip
+  436  . srecord
+  437  bbackup -find
+  438  eutilnew -v -count -out xxx "polyglutamyl"
+  439  eutilsnew -v -count -out xxx "polyglutamyl"
+  440  eutilsnew -v -out xxx "polyglutamyl"
+  441  cat xxx | tr [A-Z] [a-z] | freqassoc > pg_vocab
+  442  eutilparse -diff pg_vocab soc_vocab | sort -g -r | more
+  443  echo a b c| freqassoc
+  444  echo a b c d | freqassoc
+  445  echo a b c d
+  446  echo a b cssss dddd | freqassoc
+  447  echo a b cssss dddd| freqassoc
+  448  handles
+  449  handle
+  450  cd e:/
+  451  cd new
+  452  ls
+  453  cd bb
+  454  ls
+  455  rm -r -f *
+  456  ls
+  457  srecord -s | grep scp
+  458  scp -r 192.168.2.103:/home/Administrator/bbdisc/* .
+  459  handle
+  460  handles
+  461  handle
+  462  ssh 192.162.2.103
+  463  ssh 192.168.2.103
+  464  cat /dev/clipboard | freqassoc | more
+  465  cat /dev/clipboard | freqassoc > sus1_vocab
+  466  cat /dev/clipboard | freqassoc > nsus_vocab
+  467  eutilparse -diff sus1_vocab nsus_vocab  | sort -g -r | more
+  468  cat /dev/clipboard | grep avatar
+  469  chkdsk e:
+  470  chkdsk c:
+  471  chkdsk c:
+  472  eutilsnew
+  473  eutilsnew -v -out xxx "synuclein not parkinson"
+  474  eutilsnew -v -out xxx "synuclein and not parkinson"
+  475  eutilsnew -v -dump -out xxx "synuclein  not parkinson"
+  476  eutilsnew -v -count -out xxx "synuclein  not parkinson"
+  477  eutilsnew -v -count -out xxx "synuclein  not parkinson\'s"
+  478  eutilsnew -v -count -out xxx "synuclein  not parkinson's"
+  479  eutilsnew -v -count -out xxx "synuclein  not parkinson's not parkinson "
+  480  eutilsnew -v -out xxx "synuclein  not parkinson's not parkinson "
+  481  more xxx
+  482  more xxx | tr [A-Z] [a-z] | freqassoc > asyn_vocab
+  483  eutilparse -diff asyn_vocab soc_vocab | sort -g -r | more
+  484  eutilsnew -v -count -out xxx "synuclein  not parkinson's not parkinson not parkin*"
+  485  eutilparse -diff asyn_vocab soc_vocab | sort -g -r | more
+  486  more xxx | tr [A-Z] [a-z] | freqassoc > asyn_vocab
+  487  eutilparse -diff asyn_vocab soc_vocab | sort -g -r | more
+  488  eutilsnew -v -count -out xxx "synuclein  not parkinson's not parkinson not parkinsonism"
+  489  eutilsnew -v  -out xxx "synuclein  not parkinson's not parkinson not parkinson*"
+  490  eutilsnew -v  -out xxx "synuclein  not parkinson's not parkinson not parkinsonism"
+  491  more xxx | tr [A-Z] [a-z] | freqassoc > asyn_vocab
+  492  eutilparse -diff asyn_vocab soc_vocab | sort -g -r | more
+  493  eutilparse -diff asyn_vocab soc_vocab | sort -g -r | grep parin
+  494  eutilparse -diff asyn_vocab soc_vocab | sort -g -r | grep parkin
+  495  eutilparse -diff asyn_vocab soc_vocab | sort -g -r | more
+  496  phluant -logg > xxxx
+  497  grep 2008 xxxx | tail
+  498  asscript -login -search AdDimension
+  499  more xxx
+  500  . srecord
+  501  cd e:
+  502  cd new
+  503  cd glutp/
+  504  cd glutp/
+  505  cd glutp/
+  506  srecord -s | grep atom
+  507  ls ..
+  508  ls
+  509  rm *.bak
+  510  ls
+  511  ls pdb
+  512  ls
+  513  mkdir abeta
+  514  cd abeta
+  515  srecord -s | grep get | grep pdb
+  516  srecord -s | grep get | grep pdb | head
+  517  srecord -s | grep get | grep pdb | head| grep 610 > /dev/clipboard
+  518  #   610  pdbget -v -out xxx.pdb -structure $xxx ; pdbget -get `cat xxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $xxx.pdb
+  519  pdbget -v -out xxx.pdb -structure $xxx ; pdbget -get `cat xxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $xxx.pdb
+  520  ls
+  521  xxx=1ba6
+  522  pdbget -v -out xxx.pdb -structure $xxx ; pdbget -get `cat xxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $xxx.pdb
+  523  xxx=1ba4
+  524  pdbget -v -out xxx.pdb -structure $xxx ; pdbget -get `cat xxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $xxx.pdb
+  525  xxx=1z0Q
+  526  pdbget -v -out xxx.pdb -structure $xxx ; pdbget -get `cat xxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $xxx.pdb
+  527  xxx=2beg
+  528  pdbget -v -out xxx.pdb -structure $xxx ; pdbget -get `cat xxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $xxx.pdb
+  529  xxx=1nmj
+  530  pdbget -v -out xxx.pdb -structure $xxx ; pdbget -get `cat xxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $xxx.pdb
+  531  ls
+  532  head 2beg.pdb 
+  533  cd ..
+  534  pwd
+  535  srecord -s | grep atom | more
+  536  ls ./cf
+  537  ./main atom ./squalene/cf.dat -pdb_file =./abeta/2beg.pdb 
+  538  srecord -s | grep atom | more
+  539  srecord -s | grep atom | more
+  540  ls ./hybrids/qfparam.dat 
+  541  cat ./hybrids/qfparam.dat 
+  542  cp ./hybrids/qfparam.dat mygeneric.dat
+  543  vi mygeneric.dat 
+  544  ./main atom ./mygeneric.dat
+  545  cat ./hybrids/qfmt.dat
+  546  cat ./hybrids/qf.dat
+  547  ls abeta
+  548  cp ./hybrids/qfparam.dat mygeneric.dat
+  549  vi mygeneric.dat 
+  550  ./main atom ./mygeneric.dat
+  551  ls hi*
+  552  history > hist26

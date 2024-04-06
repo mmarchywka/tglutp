@@ -1,0 +1,15 @@
+# test variable scoping
+$sub level1 ;m n
+$let m 3.21
+$call level2 m;n
+$echo $m
+$echo $n
+$end
+$sub level2 x;y
+$let zz 3
+$export zz
+$let y 6
+$dump
+$end
+
+#$call level1

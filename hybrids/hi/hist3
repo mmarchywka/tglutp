@@ -1,0 +1,500 @@
+  294  ls
+  295  cd glutp/
+  296  make streaming_data
+  297  make streaming_data
+  298  ls hi*
+  299  cat hist2
+  300  cat hist2 
+  301  cat hist2  | grep 561 >  /dev/clipboard
+  302  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  303  make streaming_data
+  304  make streaming_data
+  305  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  306  make streaming_data
+  307  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  308  make streaming_data
+  309  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  310  make streaming_data
+  311  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  312  make streaming_data
+  313  make streaming_data
+  314  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  315  make streaming_data
+  316  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  317  make streaming_data
+  318  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  319  make streaming_data
+  320  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  321  usptopat3 -search marchywka
+  322  usptopat3 -browse -search marchywka
+  323  usptopat3 -list -search marchywka
+  324  usptopat2 -app -browse -search marchywka
+  325  usptopat2 -app -list -search marchywka
+  326  usptopat2  -list -search marchywka
+  327  usptopat2  -browse -search marchywka
+  328  usptopat2  -list -browse -search marchywka
+  329  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  330  more  my_pat_refs.txt
+  331  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  332  usptopat2  -list -browse -search "IN/marchywka"
+  333  usptopat2  -browse -search "IN/marchywka"
+  334  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  335  cd e:
+  336  cd new
+  337  cd glutp/
+  338  cd glutp/
+  339  ls
+  340  cd glutp/
+  341  make streaming_data
+  342  make streaming_data
+  343  ls hi*
+  344  cat hist2
+  345  cat hist2 
+  346  cat hist2  | grep 561 >  /dev/clipboard
+  347  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  348  make streaming_data
+  349  make streaming_data
+  350  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  351  make streaming_data
+  352  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  353  make streaming_data
+  354  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  355  make streaming_data
+  356  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  357  make streaming_data
+  358  make streaming_data
+  359  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  360  make streaming_data
+  361  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  362  make streaming_data
+  363  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  364  make streaming_data
+  365  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  366  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  367  usptopat3 -search marchywka
+  368  usptopat3 -browse -search marchywka
+  369  usptopat3 -list -search marchywka
+  370  usptopat2 -app -browse -search marchywka
+  371  usptopat2 -app -list -search marchywka
+  372  usptopat2  -list -search marchywka
+  373  usptopat2  -browse -search marchywka
+  374  usptopat2  -list -browse -search marchywka
+  375  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  376  more  my_pat_refs.txt
+  377  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  378  usptopat2  -list -browse -search "IN/marchywka"
+  379  usptopat2  -browse -search "IN/marchywka"
+  380  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  381  cd e:
+  382  cd new
+  383  cd glutp/
+  384  cd glutp/
+  385  ls
+  386  cd glutp/
+  387  make streaming_data
+  388  make streaming_data
+  389  ls hi*
+  390  cat hist2
+  391  cat hist2 
+  392  cat hist2  | grep 561 >  /dev/clipboard
+  393  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  394  make streaming_data
+  395  make streaming_data
+  396  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  397  make streaming_data
+  398  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  399  make streaming_data
+  400  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  401  make streaming_data
+  402  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  403  make streaming_data
+  404  make streaming_data
+  405  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  406  make streaming_data
+  407  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  408  make streaming_data
+  409  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  410  make streaming_data
+  411  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  412  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  413  make streaming_data
+  414  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  415  cat smslog.txt 
+  416  cat smslog.txt | grep smsfrom
+  417  cat smslog.txt | grep smsfrom | wc
+  418  cat smslog.txt | grep smsfrom | grep "{ts"
+  419  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  420  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  421  cat smslog.txt | grep "smsfrom\|Date" | more
+  422  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  423  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  424  cat smslog.txt | grep -n 2008 | head
+  425  tail --help
+  426  head --help
+  427  tail --help
+  428  cat smslog.txt | grep -n 2008 | head
+  429  cat smslog.txt | tail + 2989 |grep smsfrom | grep "{ts" | wc
+  430  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  431  cat smslog.txt | tail +2989 
+  432  cat smslog.txt | tail +2989 | more
+  433  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  434  cat smslog.txt | tail +2989 | more
+  435  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" 
+  436  cat smslog.txt | tail +2989 |grep smsfrom | grep -v "{ts" | wc
+  437  . srecord
+  438  . pathclip
+  439  grep mail_jde *
+  440  grep "\.png"  *
+  441  cd ..
+  442  grep "\.png"  *.java
+  443  grep -R "\.png"  *.java
+  444  grep -R "\.png"  `find -name "*.java"'
+  445  grep -R "\.png"  `find -name "*.java"`
+  446  grep "\.png"  `find -name "*.java"`
+  447  . pathclip
+  448  grep "\.png"  `find -name "*.java"`
+  449  grep "\.gif"  `find -name "*.java"`
+  450  cd tictactoe
+  451  ls
+  452  more TicTacToe.java 
+  453  . pathclip
+  454  ./bb
+  455  ./bb
+  456  ./bb
+  457  ./bb
+  458  . pathclip
+  459  ./make_ui_app
+  460  whois shutupstellas.com
+  461  whois marchywka.com
+  462  whois nerdseeksblonde.com
+  463  whois nerdseeksblonde.com
+  464  cd c:/
+  465  cd mydocs
+  466  cd zipp
+  467  cd zipp
+  468  ls
+  469  rm *
+  470  mbackup -roundup > thefiles
+  471  vi thefiles 
+  472  vi thefiles 
+  473  mbackup -dayjar thefiles
+  474  vi thefiles 
+  475  mbackup -dayjar thefiles
+  476  mv *.jar a:/
+  477  ls a:/
+  478  cd c:/
+  479  cd mydocs
+  480  cd zipp
+  481  cd zipp
+  482  ls
+  483  rm *
+  484  mbackup -roundup > thefiles
+  485  vi thefiles
+  486  mbackup -dayjar thefiles
+  487  mv *.jar a:/
+  488  ls a:/
+  489  df a:/
+  490  cd e:
+  491  cd new
+  492  cd stock/
+  493  secfulltext -form_type "13-f" -search '"Capital Ventures International"
+  494  srecord -s | grep secfulltext  | grep form
+  495  secfulltext -form Form13FHR  -search '"Capital Ventures International"'
+  496  secfulltext -form Form13F -search '"Capital Ventures International"'
+  497  secfulltext -form Form13F -search '"Heights Capital Management"'
+  498  secfulltext -search '"Capital Ventures International"'
+  499  secfulltext -parse | more
+  500  whois 66.249.67.165
+  501  cd e:
+  502  cd new
+  503  cd glutp/
+  504  cd glutp/
+  505  cd glutp/
+  506  cd hybrids/
+  507  make
+  508  make
+  509  clear
+  510  clear
+  511  make
+  512  make
+  513  make
+  514  make
+  515  make
+  516  make
+  517  make
+  518  ls hi*
+  519  tail hist2
+  520  ./pdb_proc -source src.src -vis 50 -mesh 50 > xxx
+  521  tail hist2 | grep 580
+  522  tail hist2 | grep 580 > /dev/clipboard
+  523    580  cat xxx | awk '{print $1-2" "$2" "$3" "$4" "$5" "$6" "$7" "$8}' | ../streaming_data  -history 50000
+  524  cat xxx
+  525  #   580  cat xxx | awk '{print $1-2" "$2" "$3" "$4" "$5" "$6" "$7" "$8}' | ../streaming_data  -history 50000
+  526  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  527  ./pdb_proc -source src.src -vis 20 -mesh 20 > xxx
+  528  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  529  cat xxx
+  530  make
+  531  make
+  532  ./pdb_proc -source src.src -vis 20 -mesh 20 > xxx
+  533  cat xxx
+  534  vi src.src
+  535  ./pdb_proc -source src.src -vis 20 -mesh 20 > xxx
+  536  cat xxx
+  537  cat xxx | more
+  538  make
+  539  vi src.src
+  540  ./pdb_proc -source src.src -vis 20 -mesh 20 > xxx
+  541  cat xxx
+  542  make
+  543  ./pdb_proc -source src.src -vis 20 -mesh 20 > xxx
+  544  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  545  ./pdb_proc -source src.src -vis 50 -mesh 50 > xxx
+  546  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  547  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  548  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  549  ./pdb_proc -source src.src -vis 30 -mesh 30 > xxx
+  550  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  551  cp src.src src2.src
+  552  vi src2.src 
+  553  ./pdb_proc -source src2.src -vis 30 -mesh 30 > xxx
+  554  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  555  ./pdb_proc -source src2.src -vis 50 -mesh 50 > xxx
+  556  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  557  ./pdb_proc -source src2.src -vis 200 -mesh 200 > xxx
+  558  ./pdb_proc -source src2.src -mesh 100 > xxx
+  559  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  560  make
+  561  make
+  562  make
+  563  ./pdb_proc -source src2.src -out xxx -mesh 100 
+  564  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  565  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  566  ./pdb_proc -source src2.src -out xxx -vis 50 -mesh 50 
+  567  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  568  ./pdb_proc -source src2.src -out xxx -vis 80 -mesh 80 
+  569  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  570  make
+  571  ./pdb_proc -source src2.src -out xxx -vis 80 -dmax 1 -mesh 80 
+  572  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  573  ./pdb_proc -source src2.src -out xxx -vis 80 -dmax 2 -mesh 80 
+  574  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  575  ./pdb_proc -source src2.src -out xxx -vis 80 -dmax 20 -mesh 80 
+  576  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  577  ./pdb_proc -source src.src -out xxx -vis 80 -dmax 20 -mesh 80 
+  578  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  579  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  580  ./pdb_proc -source src.src -out xxx -vis 80 -dmax 2 -mesh 80 
+  581  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  582  ./pdb_proc -source src.src -out xxx -vis 50 -dmax 2 -mesh 50 
+  583  cat xxx | awk '{if ($1=="LINE") {print $0; } }' | ../streaming_data  -history 50000
+  584  ./pdb_proc -source src.src -out xxx -vis 30 -dmax 2 -mesh 30 
+  585  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  586  ./pdb_proc -source src.src -out xxx -vis 30 -dmax 2.5 -mesh 40 
+  587  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  588  ls ../
+  589  ls ../pdb_sulfur/
+  590  cp src.src sul.src
+  591  vi sul.src 
+  592  vi sul.src 
+  593  ./pdb_proc -source sul.src -out xxx -vis 30 -dmax 2.5 -mesh 40 
+  594  cat xxx | awk '{if ($1=="LINE") {print $0; } else {print 1" "$2" "$3" "$4" "$5" "$6" "$7" "$8}}' | ../streaming_data  -history 50000
+  595  make
+  596  make
+  597  make
+  598  make
+  599  cd ..
+  600  make streaming_data
+  601  make streaming_data
+  602  make streaming_data
+  603  make streaming_data
+  604  vi norma
+  605  cat norma | ../streaming_data  -history 50000
+  606  cat norma | ./streaming_data  -history 50000
+  607  for f in `cat src_files `; do echo $f; grep disk $f; done
+  608  for f in `cat src_files `; do echo $f; grep gluDisk $f; done
+  609  make streaming_data
+  610  make streaming_data
+  611  cat norma | ./streaming_data  -history 50000
+  612  make streaming_data
+  613  cat norma | ./streaming_data  -history 50000
+  614  cd hybrids/
+  615  ./pdb_proc -source sul.src -out xxx -dmax 2.5 -norm 40 
+  616  cat xxx
+  617  ./pdb_proc -source sul.src -out xxx -dmax 2.5 -norm 4 
+  618  cat xxx
+  619  ./pdb_proc -source src.src -out xxx -dmax 2.5 -norm 4 
+  620  cat xxx
+  621  ./pdb_proc -source src.src -out xxx -dmax 25000 -norm 4 
+  622  cat xxx
+  623  ./pdb_proc -source src.src -out xxx -dmax 25000 -norm 100
+  624  cat xxx
+  625  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  626  ./pdb_proc -source src.src -out xxx -dmax 250 -norm 50
+  627  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  628  ./pdb_proc -source src.src -out xxx -dmax 250 -norm 40
+  629  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  630  make
+  631  make
+  632  ./pdb_proc -source src.src -out xxx -dmax 250 -norm 40
+  633  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  634  cd ..
+  635  make streaming_data
+  636  cat norma | ./streaming_data  -history 50000
+  637  for f in `cat src_files `; do echo $f; grep gluDisk $f; done
+  638  for f in `cat src_files `; do echo $f; grep shiny $f; done
+  639  make streaming_data
+  640  cat norma | ./streaming_data  -history 50000
+  641  make streaming_data
+  642  cat norma | ./streaming_data  -history 50000
+  643  make streaming_data
+  644  cat norma | ./streaming_data  -history 50000
+  645  make streaming_data
+  646  cat norma | ./streaming_data  -history 50000
+  647  make streaming_data
+  648  cat norma | ./streaming_data  -history 50000
+  649  make streaming_data
+  650  cat norma | ./streaming_data  -history 50000
+  651  make streaming_data
+  652  cat norma | ./streaming_data  -history 50000
+  653  make streaming_data
+  654  cat norma | ./streaming_data  -history 50000
+  655  make streaming_data
+  656  cat norma | ./streaming_data  -history 50000
+  657  make streaming_data
+  658  cat norma | ./streaming_data  -history 50000
+  659  make streaming_data
+  660  cat norma | ./streaming_data  -history 50000
+  661  make streaming_data
+  662  make streaming_data
+  663  cat norma | ./streaming_data  -history 50000
+  664  make streaming_data
+  665  cat norma | ./streaming_data  -history 50000
+  666  make streaming_data
+  667  cat norma | ./streaming_data  -history 50000
+  668  make streaming_data
+  669  cat norma | ./streaming_data  -history 50000
+  670  make streaming_data
+  671  make streaming_data
+  672  cat norma | ./streaming_data  -history 50000
+  673  make streaming_data
+  674  cat norma | ./streaming_data  -history 50000
+  675  make streaming_data
+  676  cat norma | ./streaming_data  -history 50000
+  677  make streaming_data
+  678  cat norma | ./streaming_data  -history 50000
+  679  make streaming_data
+  680  cat norma | ./streaming_data  -history 50000
+  681  make streaming_data
+  682  cat norma | ./streaming_data  -history 50000
+  683  make streaming_data
+  684  cat norma | ./streaming_data  -history 50000
+  685  make streaming_data
+  686  cat norma | ./streaming_data  -history 50000
+  687  make streaming_data
+  688  cat norma | ./streaming_data  -history 50000
+  689  make streaming_data
+  690  cat norma | ./streaming_data  -history 50000
+  691  make streaming_data
+  692  cat norma | ./streaming_data  -history 50000
+  693  make streaming_data
+  694  cat norma | ./streaming_data  -history 50000
+  695  make streaming_data
+  696  cat norma | ./streaming_data  -history 50000
+  697  make streaming_data
+  698  cat norma | ./streaming_data  -history 50000
+  699  make streaming_data
+  700  cat norma | ./streaming_data  -history 50000
+  701  make streaming_data
+  702  cat norma | ./streaming_data  -history 50000
+  703  make streaming_data
+  704  cat norma | ./streaming_data  -history 50000
+  705  make streaming_data
+  706  cat norma | ./streaming_data  -history 50000
+  707  make streaming_data
+  708  cat norma | ./streaming_data  -history 50000
+  709  make streaming_data
+  710  cat norma | ./streaming_data  -history 50000
+  711  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  712  cd hybrids/
+  713  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  714  ./pdb_proc -source src.src -out xxx -dmax 250 -norm 20
+  715  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  716  ./pdb_proc -source sul.src -out xxx -dmax 250 -norm 20
+  717  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  718  ./pdb_proc -source sul.src -cat 1
+  719  ./pdb_proc -source sul.src -out xxx -dmax 2500 -norm 10
+  720  cat xxx
+  721  ./pdb_proc -source sul.src -out xxx -dmax 2500 -norm 30
+  722  cat xxx
+  723  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  724  ./pdb_proc -source sul.src -out xxx -dmax 2500 -norm 30
+  725  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  726  ./pdb_proc -source sul.src -out xxx -dmax 250 -norm 40
+  727  cat xxx | grep "^NORM" | ../streaming_data  -history 50000
+  728  ./pdb_proc -source sul.src -out xxx -dmax 250 -mesh 40
+  729  cat xxx | grep "^LINE" | ../streaming_data  -history 50000
+  730  cat xxx
+  731  cat xxx | grep "^LINE"
+  732  cat xxx | grep "^LINE" | ../streaming_data  -history 50000
+  733  ls ../le*
+  734  ls ../l*
+  735  find  .. -name "lea*"
+  736  ls ../*.txt
+  737  cat xxx | grep "^LINE" | ../streaming_data  -leader ../stleader.txt -history 50000
+  738  cd ..
+  739  make streaming_data
+  740  cd hybrids
+  741  cat xxx | grep "^LINE" | ../streaming_data  -leader ../stleader.txt -history 50000
+  742  cd ..
+  743  make streaming_data
+  744  make streaming_data
+  745  make streaming_data
+  746  ./streaming_data  -leader ../stleader.txt -history 50000
+  747  ./streaming_data  -leader ./stleader.txt -history 50000
+  748  make streaming_data
+  749  ./streaming_data  -leader ./stleader.txt -history 50000
+  750  make streaming_data
+  751  cd hybrids
+  752  cat xxx | grep "^LINE" | ../streaming_data  -history 50000
+  753  ./pdb_proc -source sul.src -out xxx -dmax 250 -mesh 40 -norm 40
+  754  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  755  cd ..
+  756  make streaming_data
+  757  cd hybrids
+  758  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  759  cat xxx | more
+  760  cat xxx | grep NORM | more
+  761  cd ..
+  762  make streaming_data
+  763  cd hybrids
+  764  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  765  cd ..
+  766  make streaming_data
+  767  cd hybrids
+  768  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  769  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  770  ./pdb_proc -source sul.src -out xxx -dmax 3 -mesh 40 -dmax 250 -norm 40
+  771  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  772  ./pdb_proc -source sul.src -out xxx -dmax 6 -mesh 40 -dmax 250 -norm 40
+  773  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  774  ./pdb_proc -source src2.src -out xxx -dmax 6 -mesh 40 -dmax 250 -norm 40
+  775  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  776  ./pdb_proc -source src2.src -out xxx -dmax 6 -mesh 80 -dmax 250 -norm 80
+  777  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  778  ./pdb_proc -source src2.src -out xxx -dmax 4 -mesh 100 -dmax 250 -norm 85
+  779  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  780  cp src.src 1ac4.src
+  781  vi 1ac4.src 
+  782  ./pdb_proc -source 1ac4.src -out xxx -dmax 4 -mesh 100 -dmax 250 -norm 85
+  783  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  784  ./pdb_proc -source 1ac4.src -out xxx -dmax 4 -mesh 80 -dmax 250 -norm 80
+  785  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  786  ./pdb_proc -source 1ac4.src -out xxx -dmax 3 -mesh 50 -dmax 250 -norm 50
+  787  cat xxx | grep "^LINE\|^NORM" | ../streaming_data  -history 50000
+  788  make
+  789  make
+  790  make
+  791  vi 1ac4.src 
+  792  ls
+  793  history > hist3

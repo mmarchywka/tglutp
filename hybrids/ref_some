@@ -1,0 +1,8 @@
+for i in 100 80 60
+do
+echo doing $i
+cat nay34.src | sed -e "s/hits 5/hits $i/" > nay342.src
+head -n 1 nay342.src
+cat ../../tget/zzzz* | sort | ./nay_db_driver  -err db_lin_err -v -1 -flags 0 -load - -continue -source nay342.src > refined_more_4c$i
+done
+

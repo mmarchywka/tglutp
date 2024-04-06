@@ -1,0 +1,500 @@
+  221  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  222  make streaming_data
+  223  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  224  make streaming_data
+  225  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  226  make streaming_data
+  227  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  228  make streaming_data
+  229  make streaming_data
+  230  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  231  make streaming_data
+  232  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  233  usptopat3 -search marchywka
+  234  usptopat3 -browse -search marchywka
+  235  usptopat3 -list -search marchywka
+  236  usptopat2 -app -browse -search marchywka
+  237  usptopat2 -app -list -search marchywka
+  238  usptopat2  -list -search marchywka
+  239  usptopat2  -browse -search marchywka
+  240  usptopat2  -list -browse -search marchywka
+  241  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  242  more  my_pat_refs.txt
+  243  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  244  usptopat2  -list -browse -search "IN/marchywka"
+  245  usptopat2  -browse -search "IN/marchywka"
+  246  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  247  cd e:
+  248  cd new
+  249  cd glutp/
+  250  cd glutp/
+  251  ls
+  252  cd glutp/
+  253  make streaming_data
+  254  make streaming_data
+  255  ls hi*
+  256  cat hist2
+  257  cat hist2 
+  258  cat hist2  | grep 561 >  /dev/clipboard
+  259  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  260  make streaming_data
+  261  make streaming_data
+  262  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  263  make streaming_data
+  264  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  265  make streaming_data
+  266  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  267  make streaming_data
+  268  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  269  make streaming_data
+  270  make streaming_data
+  271  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  272  make streaming_data
+  273  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  274  make streaming_data
+  275  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  276  usptopat3 -search marchywka
+  277  usptopat3 -browse -search marchywka
+  278  usptopat3 -list -search marchywka
+  279  usptopat2 -app -browse -search marchywka
+  280  usptopat2 -app -list -search marchywka
+  281  usptopat2  -list -search marchywka
+  282  usptopat2  -browse -search marchywka
+  283  usptopat2  -list -browse -search marchywka
+  284  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  285  more  my_pat_refs.txt
+  286  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  287  usptopat2  -list -browse -search "IN/marchywka"
+  288  usptopat2  -browse -search "IN/marchywka"
+  289  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  290  cd e:
+  291  cd new
+  292  cd glutp/
+  293  cd glutp/
+  294  ls
+  295  cd glutp/
+  296  make streaming_data
+  297  make streaming_data
+  298  ls hi*
+  299  cat hist2
+  300  cat hist2 
+  301  cat hist2  | grep 561 >  /dev/clipboard
+  302  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  303  make streaming_data
+  304  make streaming_data
+  305  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  306  make streaming_data
+  307  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  308  make streaming_data
+  309  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  310  make streaming_data
+  311  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  312  make streaming_data
+  313  make streaming_data
+  314  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  315  make streaming_data
+  316  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  317  make streaming_data
+  318  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  319  make streaming_data
+  320  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  321  usptopat3 -search marchywka
+  322  usptopat3 -browse -search marchywka
+  323  usptopat3 -list -search marchywka
+  324  usptopat2 -app -browse -search marchywka
+  325  usptopat2 -app -list -search marchywka
+  326  usptopat2  -list -search marchywka
+  327  usptopat2  -browse -search marchywka
+  328  usptopat2  -list -browse -search marchywka
+  329  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  330  more  my_pat_refs.txt
+  331  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  332  usptopat2  -list -browse -search "IN/marchywka"
+  333  usptopat2  -browse -search "IN/marchywka"
+  334  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  335  cd e:
+  336  cd new
+  337  cd glutp/
+  338  cd glutp/
+  339  ls
+  340  cd glutp/
+  341  make streaming_data
+  342  make streaming_data
+  343  ls hi*
+  344  cat hist2
+  345  cat hist2 
+  346  cat hist2  | grep 561 >  /dev/clipboard
+  347  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  348  make streaming_data
+  349  make streaming_data
+  350  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  351  make streaming_data
+  352  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  353  make streaming_data
+  354  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  355  make streaming_data
+  356  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  357  make streaming_data
+  358  make streaming_data
+  359  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  360  make streaming_data
+  361  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  362  make streaming_data
+  363  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  364  make streaming_data
+  365  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  366  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  367  usptopat3 -search marchywka
+  368  usptopat3 -browse -search marchywka
+  369  usptopat3 -list -search marchywka
+  370  usptopat2 -app -browse -search marchywka
+  371  usptopat2 -app -list -search marchywka
+  372  usptopat2  -list -search marchywka
+  373  usptopat2  -browse -search marchywka
+  374  usptopat2  -list -browse -search marchywka
+  375  usptopat2  -list -browse -search marchywka > my_pat_refs.txt
+  376  more  my_pat_refs.txt
+  377  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  378  usptopat2  -list -browse -search "IN/marchywka"
+  379  usptopat2  -browse -search "IN/marchywka"
+  380  more  my_pat_refs.txt |unix2dos >/dev/clipboard
+  381  cd e:
+  382  cd new
+  383  cd glutp/
+  384  cd glutp/
+  385  ls
+  386  cd glutp/
+  387  make streaming_data
+  388  make streaming_data
+  389  ls hi*
+  390  cat hist2
+  391  cat hist2 
+  392  cat hist2  | grep 561 >  /dev/clipboard
+  393  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  394  make streaming_data
+  395  make streaming_data
+  396  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  397  make streaming_data
+  398  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  399  make streaming_data
+  400  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  401  make streaming_data
+  402  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  403  make streaming_data
+  404  make streaming_data
+  405  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  406  make streaming_data
+  407  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  408  make streaming_data
+  409  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  410  make streaming_data
+  411  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  412  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  413  make streaming_data
+  414  while [ 1 == 1 ]  ; do cat mydata;done | ./streaming_data -asdfsd
+  415  cat smslog.txt 
+  416  cat smslog.txt | grep smsfrom
+  417  cat smslog.txt | grep smsfrom | wc
+  418  cat smslog.txt | grep smsfrom | grep "{ts"
+  419  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  420  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  421  cat smslog.txt | grep "smsfrom\|Date" | more
+  422  cat smslog.txt | grep smsfrom | grep -v "{ts" | wc
+  423  cat smslog.txt | grep smsfrom | grep "{ts" | wc
+  424  cat smslog.txt | grep -n 2008 | head
+  425  tail --help
+  426  head --help
+  427  tail --help
+  428  cat smslog.txt | grep -n 2008 | head
+  429  cat smslog.txt | tail + 2989 |grep smsfrom | grep "{ts" | wc
+  430  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  431  cat smslog.txt | tail +2989 
+  432  cat smslog.txt | tail +2989 | more
+  433  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" | wc
+  434  cat smslog.txt | tail +2989 | more
+  435  cat smslog.txt | tail +2989 |grep smsfrom | grep "{ts" 
+  436  cat smslog.txt | tail +2989 |grep smsfrom | grep -v "{ts" | wc
+  437  . srecord
+  438  . pathclip
+  439  grep mail_jde *
+  440  grep "\.png"  *
+  441  cd ..
+  442  grep "\.png"  *.java
+  443  grep -R "\.png"  *.java
+  444  grep -R "\.png"  `find -name "*.java"'
+  445  grep -R "\.png"  `find -name "*.java"`
+  446  grep "\.png"  `find -name "*.java"`
+  447  . pathclip
+  448  grep "\.png"  `find -name "*.java"`
+  449  grep "\.gif"  `find -name "*.java"`
+  450  cd tictactoe
+  451  ls
+  452  more TicTacToe.java 
+  453  . pathclip
+  454  ./bb
+  455  ./bb
+  456  ./bb
+  457  ./bb
+  458  . pathclip
+  459  ./make_ui_app
+  460  whois shutupstellas.com
+  461  whois marchywka.com
+  462  whois nerdseeksblonde.com
+  463  whois nerdseeksblonde.com
+  464  cd c:/
+  465  cd mydocs
+  466  cd zipp
+  467  cd zipp
+  468  ls
+  469  rm *
+  470  mbackup -roundup > thefiles
+  471  vi thefiles 
+  472  vi thefiles 
+  473  mbackup -dayjar thefiles
+  474  vi thefiles 
+  475  mbackup -dayjar thefiles
+  476  mv *.jar a:/
+  477  ls a:/
+  478  cd c:/
+  479  cd mydocs
+  480  cd zipp
+  481  cd zipp
+  482  ls
+  483  rm *
+  484  mbackup -roundup > thefiles
+  485  vi thefiles
+  486  mbackup -dayjar thefiles
+  487  mv *.jar a:/
+  488  ls a:/
+  489  df a:/
+  490  cd e:
+  491  cd new
+  492  cd stock/
+  493  secfulltext -form_type "13-f" -search '"Capital Ventures International"
+  494  srecord -s | grep secfulltext  | grep form
+  495  secfulltext -form Form13FHR  -search '"Capital Ventures International"'
+  496  secfulltext -form Form13F -search '"Capital Ventures International"'
+  497  secfulltext -form Form13F -search '"Heights Capital Management"'
+  498  secfulltext -search '"Capital Ventures International"'
+  499  secfulltext -parse | more
+  500  whois 66.249.67.165
+  501  cd e:
+  502  cd new
+  503  cd glutp/
+  504  cd glutp/
+  505  cd glutp/
+  506  cd hybrids/
+  507  make
+  508  make
+  509  ls
+  510  tail hist3
+  511  cat hist3
+  512  cat hist3 | grep src.src
+  513  ./pdb_proc -source 1ac4.src -out xxx -op clear all -add type ATOM -make 0 -list 0
+  514  tail xxx
+  515  more xxx
+  516  ./pdb_proc -source 1ac4.src -op clear all -add type ATOM -make 0 -list 0
+  517  ./pdb_proc -source 1ac4.src -v -1 -op clear all -add type ATOM -make 0 -list 0
+  518  ./pdb_proc -source 1ac4.src -v -1 -op clear all -add type ATOM -make 0 -cat 0 
+  519  ./pdb_proc -source 1ac4.src -v -1 -op clear all -add type ATOM -make 1 -cat 0 
+  520  ./pdb_proc -source 1ac4.src -v -1 -op clear all -add type ATOM -add residue HOH -make 1 -cat 0 
+  521  ./pdb_proc -source 1ac4.src -v -1 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  522  make
+  523  make
+  524  ./pdb_proc -source 1ac4.src -v -1 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  525  ./pdb_proc -source 1ac4.src -v -1 -out xxx -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  526  ./pdb_proc -source 1ac4.src -v -1 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  527  tail xxx
+  528  make
+  529  ./pdb_proc -source 1ac4.src -v -1 -out xxx -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  530  cat hist3
+  531  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  532  cat xxx
+  533  ./pdb_proc -source 1ac4.src -v -1 -op clear all -add type ATOM -add residue HOH -make 2 -list 0
+  534  cat hist3
+  535  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 6 -mesh 40 -dmax 250 -norm 40 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  536  cat ../radii.dat 
+  537  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  538  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 6 -mesh 20 -dmax 250 -norm 20 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  539  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  540  cd ..
+  541  make streaming_data
+  542  cd hybrids/
+  543  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  544  cd ..
+  545  make streaming_data
+  546  cd hybrids/
+  547  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  548  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 6 -mesh 30 -dmax 250 -norm 40 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  549  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  550  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 6 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  551  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  552  ls
+  553  history > hist4
+  554  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  555  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 6 -mesh 40 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  556  vi 1ac4.src 
+  557  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 6 -mesh 40 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  558  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  559  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 6 -mesh 100 -dmax 250 -norm 100 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  560  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  561  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 6 -mesh 80 -dmax 250 -norm 80 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  562  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  563  make
+  564  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 2 -mesh 100 -dmax 250 -norm 100 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  565  make
+  566  make
+  567  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 2 -mesh 100 -dmax 250 -norm 100 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  568  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  569  make
+  570  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 2 -mesh 100 -dmax 250 -norm 100 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  571  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  572  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 100 -dmax 250 -norm 100 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  573  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  574  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 80 -dmax 250 -norm 800 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  575  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 80 -dmax 250 -norm 80 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  576  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  577  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 90 -dmax 250 -norm 90 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  578  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  579  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 90 -dmax 250 -norm 100 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  580  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  581  vi 1ac4.src 
+  582  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 90 -dmax 250 -norm 100 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  583  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 3 -mesh 90 -dmax 250 -norm 90 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  584  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 80 -dmax 250 -norm 80 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  585  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  586  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 80 -dmax 250 -norm 80 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  587  cat 1ac4.src 
+  588  more ../pdb/1ac4.pdb 
+  589  grep H ../color.dat 
+  590  grep H ../radii.dat 
+  591  grep C ../radii.dat 
+  592  make
+  593  vi 1ac4.src 
+  594  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 80 -dmax 250 -norm 80 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  595  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  596  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  597  cd ..
+  598  make streaming_data
+  599  make streaming_data
+  600  cd hybrids/
+  601  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  602  cd ..
+  603  make streaming_data
+  604  make streaming_data
+  605  cd hybrids/
+  606  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  607  cd ..
+  608  make streaming_data
+  609  cd ..
+  610  cd glutp
+  611  cd hybrids/
+  612  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  613  cd ..
+  614  make streaming_data
+  615  cd hybrids/
+  616  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  617  cd ..
+  618  make streaming_data
+  619  cd hybrids/
+  620  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  621  zoom 500
+  622  cd ..
+  623  make streaming_data
+  624  cd hybrids/
+  625  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  626  cd ..
+  627  make streaming_data
+  628  cd hybrids/
+  629  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  630  cd ..
+  631  make streaming_data
+  632  cd hybrids/
+  633  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  634  cd ..
+  635  make streaming_data
+  636  cd hybrids/
+  637  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  638  cat xxx | grep "^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  639  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  640  cd ..
+  641  make streaming_data
+  642  cd hybrids/
+  643  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  644  cd hybrids/
+  645  cd ..
+  646  make streaming_data
+  647  cd hybrids/
+  648  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  649  cd ..
+  650  make streaming_data
+  651  cd hybrids/
+  652  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  653  cd ..
+  654  make streaming_data
+  655  cd hybrids/
+  656  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  657  more ../color.dat 
+  658  more xxx
+  659  more xxx | grep NORM | more
+  660  more ../color.dat 
+  661  more xxx | grep NORM | more | awk '{print $8" "$9" "$10}' | sort | uniq -c
+  662  cd ..
+  663  cp color.dat colbr.dat
+  664  vi colbr.dat 
+  665  cd hybrids/
+  666  vi 1ac4.src 
+  667  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  668  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  669  more xxx | grep NORM | more | awk '{print $8" "$9" "$10}' | sort | uniq -c
+  670  make
+  671  make
+  672  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  673  make
+  674  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  675  make
+  676  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  677  ./pdb_proc -source 1ac4.src -v 1 -out xxx -dmax 5 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  678  vi 1ac4.src 
+  679  ./pdb_proc -source 1ac4.src -v -1 -out xxx -dmax 5 -mesh 50 -dmax 250 -norm 50 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  680  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  681  ./pdb_proc -source 1ac4.src -v 1 -out xxx -dmax 4 -mesh 60 -dmax 250 -norm 60 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  682  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  683  ./pdb_proc -source 1ac4.src -v 1 -out xxx -dmax 4 -mesh 60 -dmax 250 -norm 60 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  684  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000
+  685  vi 1ac4.scr
+  686  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -source 1ac4.scr
+  687  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config\ 1ac4.scr
+  688  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  689  ls -al hi*
+  690  history > hist4
+  691  make
+  692  make
+  693  ./pdb_proc -source 1ac4.src -v 1 -out xxx -dmax 4 -mesh 60 -dmax 250 -norm 60 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  694  make
+  695  make
+  696  make
+  697  make
+  698  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  699  make
+  700  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  701  cat xxx
+  702  make
+  703  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  704  make
+  705  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  706  make
+  707  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  708  make
+  709  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  710  make
+  711  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  712  cat xxx
+  713  make
+  714  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  715  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  716  vi 1ac4.src 
+  717  ./pdb_proc -source 1ac4.src -v 1 -out xxx -grid 10 -op clear all -add type ATOM -add residue HOH -make 1 -list 0
+  718  cat xxx | grep "^LINE\|^NORM\|^RAW" | sed -e 's/RAW//' | ../streaming_data -history 500000 -config 1ac4.scr
+  719  ls hi*
+  720  history > hist4

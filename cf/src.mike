@@ -1,0 +1,27 @@
+#move -100 -100
+#zoom 100
+$sub first param1 param2 param3
+zoom $param1
+zoom $param2
+zoom $param3
+$end
+$sub second param1 param2 param3
+stree +tint $param1 $param2 $param3 1
+$end
+$sub zzclip dummx dummy zparam
+stree +clip 0 0 1 $zparam
+$end
+$sub theloop
+$let i 0
+label1:
+$echo $i
+$let i $i+1
+$if label1 $i<10
+$echo $i
+$end
+prop 0 selected=brimstone segment_count=0 element=S
+#$stream zzclip brimstone
+#$call theloop
+source ./cf/loop.mike
+#$call planes
+#source ./cf/cave.mike

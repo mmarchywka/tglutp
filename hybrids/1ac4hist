@@ -1,0 +1,11 @@
+ print 1ac4.bmp bmp
+ near 3165
+ far 3166
+ zoom -300
+ zoom -200
+ zoom -100
+ slice
+ zoom -100
+ print 1ac41slice1.zmp bmp
+ history > 1ac4hist
+ history  1ac4hist

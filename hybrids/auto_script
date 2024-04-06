@@ -1,0 +1,56 @@
+#!/bin/bash
+
+#  568  ./pdb_proc -source g1.src -pdb ../pdb/1ac4.pdb -source generic.src -v 1 -
+#out xxx2 -flags 8 -grid 2 -pfx "1ac4" -enclaves 0  -op clear all -add type ATOM
+#-add residue HOH -make 1 -list 0
+
+#./pdb_proc -source g1.src -pdb ../pdb/1ac4.pdb -source generic.src -v 1 -out
+#xxx3 -pfx "1ac4" -source g2.src
+
+#pdbget -v -out xxx.pdb -structure $xxx ; pdbget -get `cat xxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $xxx.pdb
+
+#./pdb_proc -source g1.src -pdb ../pdb/1ac4.pdb -source generic.src -v 1 -out xxx3 -pfx "1ac4" -source g2.src
+
+
+getthing()
+{
+# this is the complete source file name 
+# if not existing, then gotten. 
+fn="$1"
+# this is how the surface output file is named
+dest="$2"
+# this is the short name attached to the molecule in $fn
+pfx="$3"
+TDEST="./tget/zz$dest"
+TDEST="../../tget/zz$dest"
+if [ "$4" == "get" ]
+then
+if [ ! -e "$fn" ]
+then
+pdbget -v -out tempxxx.pdb -structure $pfx ; pdbget -get `cat tempxxx.pdb | grep mmdb| sed -e 's/[^0-9]//g' `  $fn
+else
+echo Already have $fn so not getting delete to force 
+fi
+fi
+if [ ! -e "$TDEST" ]
+then
+./pdb_proc -source g1.src -pdb $fn atomxlate 2 -source generic.src -v 1 -out "$TDEST" -pfx "$pfx" -source g2db.src
+st=$?
+if [ "$st" != 0 ]
+then
+echo bad status $st
+return 
+fi
+else
+echo Skipping $fn since zz$dest exists
+fi
+
+}
+# piping from console doesn't respond to ctrl-c, this works better...
+cat $1 | while read 
+do
+#sleep 2
+echo trying $REPLY
+getthing $REPLY
+sleep 1
+done

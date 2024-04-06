@@ -1,0 +1,13 @@
+./tget/3ci8.pdb zz3ci8 3ci8  get
+./tget/3bxl.pdb zz3bxl 3bxl get
+./tget/3c1j.pdb zz3c1j 3c1j get
+../pdb/1ac4.pdb zz1ac4 1ac4
+../squalene/1ezf.pdb zz1ezf 1ezf
+../squalene/2zco.pdb zz2zco 2zco
+../squalene/2zcp.pdb zz2zcp 2zcp
+../pdb/2it5.pdb zz2it5 2it5
+../pdb/2AQ2.pdb zz2aq2 2aq2
+../pdb/1R5W.pdb zz1r5w 1r5w
+../pdb_sulfur/cd25sulfenic.pdb zzcd25e cd25e
+../pdb_sulfur/cd25sulfonic.pdb zzcd25o cd25o
+../pdb_sulfur/cd25sulfinic.pdb zzcd25i cd25i
